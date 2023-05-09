@@ -1,0 +1,2 @@
+# bhsa-min
+Minimalistic BHSA
