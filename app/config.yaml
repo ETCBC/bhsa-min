@@ -1,0 +1,38 @@
+apiVersion: 3
+dataDisplay:
+  exampleSectionHtml: <code>Genesis 1:1</code> (use <a href="https://github.com/{org}/{repo}/blob/master/tf/{version}/book%40en.tf"
+    target="_blank">English book names</a>)
+  noneValues:
+  - unknown
+  - null
+docs:
+  docBase: '{docRoot}/bhsa'
+  docExt: ''
+  docPage: ''
+  docRoot: https://{org}.github.io
+  featurePage: 0_home
+interfaceDefaults: {}
+provenanceSpec:
+  corpus: BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis (minimalistic)
+  doi: 10.5281/zenodo.1007624
+  moduleSpecs: []
+  version: 2021
+  webBase: https://shebanq.ancient-data.org/hebrew
+  webHint: Show this on SHEBANQ
+  webLang: la
+  webLexId: true
+  webUrl: '{webBase}/text?book=<1>&chapter=<2>&verse=<3>&version={version}&mr=m&qw=q&tp=txt_p&tr=hb&wget=v&qget=v&nget=vt'
+  webUrlLex: '{webBase}/word?version={version}&id=<lid>'
+typeDisplay:
+  clause:
+    label: '{typ} {rela}'
+    style: ""
+  phrase:
+    label: '{typ} {function}'
+    style: ""
+  sentence:
+    style: ""
+  word:
+    features: pdp vs vt
+    featuresBare: gloss
+writing: hbo

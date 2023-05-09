@@ -1,0 +1,21418 @@
+@node
+@author=Eep Talstra Centre for Bible and Computer
+@dataset=BHSA
+@datasetName=Biblia Hebraica Stuttgartensia Amstelodamensis
+@dateWritten=2021-12-09T14:18:13Z
+@description=✅ linguistic relation between clause/(sub)phrase(atom) (ADJ; MOD; ATR; ...)
+@email=shebanq@ancient-data.org
+@encoders=Constantijn Sikkel (QDF), Ulrik Petersen (MQL) and Dirk Roorda (TF)
+@valueType=str
+@version=2021
+@website=https://shebanq.ancient-data.org
+@writtenBy=Text-Fabric
+@writtenBy=Text-Fabric
+@dateWritten=2023-05-09T12:24:40Z
+
+427567	Objc
+427579	Attr
+Attr
+427593	Objc
+427596	Attr
+Attr
+Attr
+427601	Attr
+Attr
+Attr
+427605	Objc
+427611	Adju
+427614	Adju
+427618	Adju
+Coor
+Coor
+427622	Objc
+427630	Attr
+Attr
+Attr
+427635	Objc
+427637	Adju
+427653	Objc
+427657	Attr
+427668	Attr
+427671	Attr
+Attr
+Attr
+Attr
+427677	Attr
+427680	RgRc
+427687	Attr
+427689	Attr
+427693	Attr
+Adju
+427696	Adju
+427698	RgRc
+427703	Adju
+427706	Resu
+427711	Attr
+427713	Attr
+Coor
+427718	Adju
+427723	PreC
+Attr
+427729	PreC
+427732	PreC
+427734	Resu
+427737	Adju
+Coor
+427740	Adju
+427743	Resu
+427745	RgRc
+427748	Subj
+427752	Adju
+Objc
+427755	RgRc
+Resu
+427764	Attr
+427776	Attr
+427783	Attr
+427785	Resu
+427791	Objc
+RgRc
+Resu
+Coor
+Attr
+427797	Objc
+Coor
+Coor
+Adju
+427807	Objc
+427811	Attr
+427823	Objc
+427825	Attr
+Adju
+427829	Attr
+Resu
+Coor
+427853	Attr
+Adju
+427861	Adju
+427871	Adju
+427878	Adju
+Attr
+427882	Attr
+Adju
+427890	Adju
+427904	Cmpl
+427911	Adju
+427924	Attr
+Adju
+427928	Objc
+427932	Adju
+427938	RgRc
+427941	RgRc
+427943	Adju
+427950	Subj
+427964	Attr
+427973	Coor
+427982	Adju
+427985	RgRc
+427989	RgRc
+427994	Adju
+427997	Attr
+428002	Adju
+428009	Adju
+428016	Adju
+428023	Adju
+428030	Adju
+428037	Adju
+428046	Adju
+428053	Adju
+428055	Attr
+428057	Adju
+428065	Adju
+428068	Objc
+428070	RgRc
+428073	Adju
+428077	Attr
+428080	Attr
+Coor
+428083	Objc
+Coor
+428090	Attr
+428111	PreC
+428120	Resu
+Adju
+Attr
+428124	RgRc
+428128	Resu
+Adju
+Coor
+428132	Resu
+Adju
+428135	Attr
+Coor
+428139	RgRc
+428146	Attr
+428148	Adju
+428151	Attr
+428153	RgRc
+428156	PreC
+428159	Attr
+RgRc
+Adju
+428169	Attr
+428171	Attr
+428173	Subj
+Adju
+428185	Attr
+428189	Attr
+Attr
+428192	RgRc
+RgRc
+428195	Attr
+428198	Coor
+428201	Attr
+428213	Attr
+428216	Adju
+428218	Adju
+Objc
+428228	Objc
+428232	Objc
+428236	Objc
+428244	Adju
+428247	Attr
+Attr
+428254	RgRc
+428261	Adju
+428264	Adju
+Adju
+428273	Coor
+RgRc
+428277	Attr
+428284	Resu
+428291	Adju
+428293	Resu
+428295	Attr
+Coor
+RgRc
+428301	Adju
+428304	Attr
+Attr
+428309	Adju
+428312	Attr
+428314	Adju
+428317	Adju
+Attr
+428321	Attr
+Attr
+428324	Attr
+428326	Resu
+428345	Objc
+428364	Adju
+428370	Adju
+428381	Attr
+428388	Attr
+Attr
+428407	Attr
+428413	Adju
+428417	Adju
+428430	Adju
+Attr
+428436	PreC
+Adju
+428439	RgRc
+Adju
+428444	Adju
+Adju
+428448	Adju
+428456	Adju
+428461	Adju
+428466	Adju
+428471	Adju
+428476	Adju
+428481	Adju
+428486	Adju
+428491	Adju
+428506	Adju
+428513	Attr
+428522	Adju
+428525	Adju
+428527	Attr
+Attr
+428530	Adju
+428538	Attr
+428548	Adju
+428551	Adju
+Adju
+428555	Objc
+428557	Adju
+428563	Objc
+428567	Adju
+428569	Objc
+428580	Objc
+428590	RgRc
+428592	RgRc
+428596	Attr
+Attr
+Attr
+428601	Attr
+428603	Adju
+428606	Cmpl
+428620	Objc
+Adju
+Adju
+428626	Adju
+428632	Adju
+428635	Attr
+428637	Attr
+Resu
+428641	Attr
+Adju
+Cmpl
+428650	Attr
+428660	Attr
+428665	Attr
+428670	Attr
+428690	Objc
+428696	Attr
+428700	Adju
+Adju
+Adju
+Attr
+428711	Attr
+428720	RgRc
+428725	Objc
+Coor
+Attr
+428730	Adju
+428734	Coor
+428737	ReVo
+Coor
+428740	Resu
+428745	Adju
+428748	Subj
+Resu
+428755	Cmpl
+428762	Attr
+Adju
+Adju
+428768	Objc
+428774	Cmpl
+428779	Adju
+428784	Objc
+Attr
+Coor
+428789	Attr
+428799	Attr
+428801	Adju
+428811	Adju
+428816	Adju
+428821	Objc
+428827	Objc
+428833	Objc
+428839	ReVo
+Coor
+428859	Attr
+428863	Cmpl
+428868	Attr
+428870	Adju
+428881	Adju
+428883	Resu
+Coor
+428892	Adju
+428898	Attr
+428903	Attr
+428907	Attr
+Resu
+428912	Resu
+Coor
+428924	Resu
+428938	Attr
+428940	Adju
+428944	Adju
+428946	Adju
+428948	Adju
+428953	Adju
+428959	Adju
+428974	Adju
+428984	Adju
+428986	Attr
+429000	Coor
+429002	Adju
+429004	Adju
+Adju
+429010	Adju
+429017	Adju
+429026	Adju
+429029	Objc
+429033	Adju
+Coor
+Adju
+Coor
+Objc
+429040	Resu
+429042	Resu
+429045	Objc
+Attr
+429052	Resu
+429059	Attr
+429061	Cmpl
+Adju
+Coor
+429072	Adju
+429080	Adju
+429094	Adju
+429105	Adju
+Adju
+429112	Adju
+429114	Adju
+429137	Attr
+429146	Attr
+429155	Adju
+429160	Adju
+429165	Attr
+429167	Adju
+429171	RgRc
+429175	Adju
+429185	Adju
+429188	Attr
+429195	Adju
+429207	Attr
+Adju
+429210	Cmpl
+429214	Adju
+429221	Adju
+Attr
+429226	Cmpl
+Adju
+429236	Attr
+429241	Adju
+429244	Adju
+Attr
+429250	Adju
+429255	Adju
+429264	Adju
+Coor
+429277	Adju
+Coor
+429296	Attr
+Coor
+429309	Objc
+429311	Adju
+429313	Adju
+429321	Objc
+RgRc
+429333	Attr
+429336	Objc
+429345	Adju
+429348	Attr
+429350	Attr
+429361	RgRc
+429369	Adju
+429371	Adju
+429374	Attr
+429376	Attr
+Attr
+429379	Adju
+429381	Adju
+429385	RgRc
+429393	RgRc
+429395	Attr
+PrAd
+429404	RgRc
+429407	Resu
+429412	Adju
+429433	Adju
+429451	Adju
+429453	RgRc
+429458	Attr
+Attr
+429463	Attr
+429466	Objc
+429475	Attr
+429496	Attr
+429499	Attr
+429506	Attr
+429508	Resu
+429533	Attr
+429540	Adju
+429550	Objc
+429555	Attr
+429567	Objc
+Adju
+Coor
+Resu
+429572	Attr
+429582	Adju
+429590	Resu
+429596	Adju
+Coor
+429600	Adju
+429605	Adju
+429611	Resu
+Adju
+429616	Adju
+429618	Adju
+429622	Attr
+Attr
+429627	Adju
+429633	Attr
+Resu
+429639	Adju
+429646	Adju
+429648	ReVo
+429650	Resu
+429654	Attr
+Attr
+429657	Attr
+Attr
+Attr
+Attr
+Attr
+429665	Attr
+429670	Attr
+RgRc
+429674	Objc
+Attr
+429680	Adju
+429682	Attr
+429685	Adju
+429687	Attr
+Coor
+Coor
+Adju
+429692	Resu
+429695	Adju
+429706	RgRc
+429709	ReVo
+429713	Adju
+429716	Attr
+429719	Coor
+429722	Resu
+429724	Objc
+429727	Adju
+429729	Attr
+429732	Coor
+429738	Adju
+429748	Adju
+429752	Adju
+429756	Adju
+429759	Adju
+Objc
+429763	Adju
+Adju
+429766	Attr
+429768	Attr
+429772	Objc
+Adju
+429776	Attr
+429780	Adju
+429785	Attr
+429787	Resu
+429794	Adju
+Coor
+Adju
+429809	Adju
+Attr
+429812	Adju
+429825	RgRc
+429827	Adju
+429829	Attr
+429836	Attr
+429846	ReVo
+Attr
+429851	Attr
+Adju
+429858	Resu
+Attr
+429861	Adju
+429880	Attr
+429886	Attr
+Adju
+429898	Objc
+429903	Adju
+429905	Adju
+429911	Coor
+Attr
+429937	Resu
+429945	Adju
+429948	Adju
+Adju
+429958	Attr
+Adju
+429965	Attr
+429980	RgRc
+429982	Attr
+429984	Adju
+429986	Attr
+Coor
+429992	Attr
+429994	Attr
+Resu
+430000	Attr
+430006	Resu
+430010	Coor
+430015	Attr
+Adju
+430021	Adju
+430031	Adju
+430038	Adju
+430047	Adju
+430050	Attr
+430053	Attr
+430068	Adju
+430081	Attr
+430087	Attr
+430093	Attr
+430104	Adju
+430126	Adju
+Subj
+430138	Attr
+Resu
+Coor
+430149	Attr
+Coor
+430152	Attr
+430156	Adju
+430190	Objc
+430195	Adju
+Coor
+430204	Adju
+430210	Attr
+430221	Adju
+430235	Adju
+430241	Adju
+430243	Adju
+Adju
+430246	Adju
+430248	Attr
+Adju
+430257	Adju
+430261	Adju
+430282	Adju
+430284	Attr
+430288	Attr
+430299	Adju
+430306	Adju
+430347	Attr
+430357	Adju
+Adju
+430376	Attr
+Coor
+Coor
+430383	Resu
+430408	Resu
+430417	Coor
+430421	Adju
+430424	Attr
+430433	Adju
+430440	Adju
+Adju
+Coor
+Objc
+430464	Adju
+Attr
+430469	Objc
+Coor
+Adju
+Adju
+430474	Adju
+430479	Objc
+430499	Attr
+Resu
+430507	RgRc
+430510	Adju
+Objc
+430520	Coor
+430524	Attr
+430530	Adju
+430533	Attr
+430535	Spec
+Spec
+430540	Attr
+430542	RgRc
+Resu
+430557	ReVo
+430572	RgRc
+430578	Adju
+Coor
+430583	Attr
+430586	Adju
+430594	Objc
+Coor
+430599	Adju
+430601	Adju
+430613	Objc
+430624	Subj
+Adju
+430649	Adju
+430652	Attr
+430663	Objc
+430676	Objc
+430691	Adju
+430693	Objc
+430702	Attr
+430724	Objc
+Adju
+430744	Subj
+Coor
+430750	Adju
+430760	Adju
+430779	Adju
+430782	Adju
+430787	Attr
+430790	Attr
+430800	Objc
+Coor
+430803	Subj
+430822	RgRc
+Resu
+430828	RgRc
+430832	Attr
+430836	Attr
+430838	Attr
+Attr
+Adju
+430842	Adju
+Adju
+430851	RgRc
+430853	Adju
+430855	Adju
+430861	Adju
+430863	RgRc
+430865	Cmpl
+430875	Objc
+430878	Objc
+430882	Adju
+430892	RgRc
+430896	Attr
+430905	Attr
+430907	RgRc
+430909	Attr
+Coor
+430921	Attr
+Resu
+Coor
+430926	RgRc
+430930	Attr
+Attr
+Adju
+430934	Adju
+430936	Attr
+430939	Objc
+430941	RgRc
+430946	Subj
+430953	Adju
+430962	Adju
+430967	Adju
+430969	Objc
+430971	Adju
+430973	Adju
+430975	Adju
+430985	Subj
+430988	Objc
+430991	Objc
+431004	Cmpl
+431044	RgRc
+Resu
+431047	Resu
+431049	Attr
+431067	Attr
+431070	Adju
+431079	Attr
+431088	Adju
+431099	Adju
+431104	Adju
+431111	Adju
+Adju
+431114	Adju
+431117	Adju
+431122	Attr
+431129	Attr
+431133	Attr
+431143	Attr
+431146	Cmpl
+431154	Adju
+431157	Adju
+431164	Attr
+431167	RgRc
+Adju
+431170	Adju
+431175	Attr
+431186	Objc
+431189	Adju
+431191	Objc
+431194	Adju
+431220	Adju
+431223	Attr
+431235	Adju
+431237	Adju
+431248	Attr
+431257	Attr
+431264	Subj
+431270	Adju
+431273	Attr
+431284	Objc
+Coor
+431290	Attr
+Adju
+431294	Attr
+431303	Attr
+Adju
+431307	Attr
+431312	Attr
+Adju
+431322	Adju
+431325	Objc
+431328	Adju
+431330	Adju
+431332	Adju
+431336	Adju
+431339	Adju
+431341	Resu
+431354	Objc
+431357	Adju
+431361	Adju
+431364	Cmpl
+Adju
+Attr
+431370	Adju
+431376	Adju
+431381	Adju
+431386	Adju
+431388	Resu
+431392	Resu
+431396	Adju
+Adju
+Adju
+Adju
+431401	Resu
+431407	Adju
+431409	Adju
+431417	Attr
+431419	Coor
+Coor
+431424	RgRc
+431427	Adju
+431439	Attr
+Adju
+431442	RgRc
+431444	Attr
+431450	Attr
+431452	Attr
+431454	Attr
+Attr
+431457	Attr
+431460	Attr
+431463	Attr
+431465	Attr
+431469	Adju
+431474	Adju
+431488	Attr
+Resu
+431492	Attr
+431494	Attr
+431498	Attr
+431501	Adju
+431504	Adju
+431506	Adju
+Adju
+431512	Adju
+Adju
+431524	Adju
+431534	Attr
+431537	Attr
+431552	Attr
+431554	Attr
+431557	Adju
+431559	Cmpl
+431562	Resu
+431577	Coor
+431601	Attr
+Adju
+431613	Coor
+431616	Attr
+Adju
+431626	Attr
+431639	Coor
+Coor
+Coor
+Coor
+431654	Objc
+431657	Objc
+431661	Objc
+431664	Attr
+431674	Objc
+431684	Attr
+431686	Adju
+431690	Adju
+431706	Adju
+431711	Objc
+431715	Objc
+431722	Adju
+431724	Adju
+431733	Objc
+431741	Attr
+431743	Adju
+Adju
+431746	Adju
+431748	Attr
+431754	Adju
+431759	Attr
+Adju
+431771	Attr
+431782	Resu
+431784	Resu
+431793	Objc
+431804	Adju
+431806	Adju
+431830	Adju
+431840	Objc
+431844	Adju
+431846	Subj
+431860	Adju
+431862	Adju
+431867	Attr
+431869	Objc
+Coor
+431879	Objc
+431887	Adju
+431890	Attr
+431893	Attr
+431902	Adju
+431905	Adju
+431922	Adju
+431930	Adju
+431932	Attr
+431935	Objc
+431941	Adju
+431943	Adju
+431946	Adju
+431950	Adju
+431953	Adju
+431959	Attr
+431963	Attr
+431968	Objc
+Coor
+RgRc
+431975	RgRc
+431977	Adju
+RgRc
+431981	RgRc
+431983	RgRc
+431986	Attr
+431995	Objc
+431997	RgRc
+432001	Adju
+432005	Adju
+432007	Adju
+Adju
+432011	Adju
+432014	Adju
+432020	Adju
+Objc
+Coor
+432025	Adju
+432028	Adju
+432030	Adju
+432033	Adju
+Objc
+Coor
+432040	Adju
+432042	Adju
+432044	Attr
+Adju
+432047	Adju
+Coor
+432052	Adju
+Attr
+Adju
+432059	RgRc
+432065	Attr
+432067	RgRc
+432069	Adju
+432071	Objc
+432076	RgRc
+432083	Attr
+Attr
+432089	Attr
+Adju
+432101	Resu
+Coor
+432104	Resu
+432113	Resu
+432117	Attr
+432119	Adju
+432127	Objc
+432130	Resu
+Resu
+432138	Resu
+432143	RgRc
+432149	Adju
+432174	Subj
+432176	Adju
+432181	Adju
+432188	Adju
+432202	Adju
+432204	Adju
+432206	Adju
+432211	Resu
+432219	Subj
+432221	Adju
+432229	Subj
+432232	Resu
+Objc
+432236	Resu
+432238	Resu
+432241	Attr
+Resu
+432245	Attr
+Objc
+432249	Attr
+432258	Adju
+432270	Attr
+432275	Attr
+432277	Adju
+432290	Attr
+432301	Adju
+432306	Attr
+432309	Attr
+432311	Cmpl
+Adju
+Adju
+432315	Adju
+Attr
+432322	Attr
+432324	Adju
+Adju
+432332	Objc
+432336	RgRc
+432340	Adju
+432343	Objc
+432348	Objc
+432354	Adju
+432359	Adju
+RgRc
+432363	Resu
+Coor
+PreC
+432368	Adju
+432377	Adju
+432381	Attr
+432384	Adju
+432390	Adju
+432392	Resu
+Coor
+432398	Adju
+432402	Coor
+432405	Resu
+432408	PreC
+Adju
+432415	Adju
+432438	Adju
+432440	Attr
+Adju
+Coor
+432445	Adju
+432447	Adju
+432451	Resu
+432453	Objc
+432463	Coor
+Adju
+Coor
+432470	Adju
+432478	Adju
+Adju
+432483	RgRc
+Adju
+432487	Cmpl
+432492	Coor
+Coor
+432495	Resu
+432499	Objc
+432505	Objc
+Coor
+432517	Resu
+432519	Resu
+432523	Adju
+432533	Attr
+432537	Adju
+Adju
+Attr
+432544	Adju
+432546	Adju
+432559	Adju
+Objc
+432563	Adju
+432568	Objc
+432590	Attr
+432598	Adju
+Resu
+432608	Cmpl
+432614	Adju
+432620	Attr
+Adju
+Coor
+Coor
+432625	Attr
+432629	ReVo
+Adju
+432632	Adju
+Coor
+432638	Adju
+432640	Objc
+432652	Adju
+432654	Objc
+432657	Attr
+432662	Attr
+432673	Attr
+432680	Adju
+432691	Attr
+432693	Cmpl
+432699	Adju
+432705	Objc
+Adju
+432708	Adju
+Objc
+432714	Attr
+432720	Cmpl
+432727	Attr
+432730	Objc
+432736	Cmpl
+432738	Attr
+432741	Resu
+Coor
+432746	Resu
+Subj
+432752	Adju
+432754	Adju
+432761	Adju
+432765	Resu
+432769	Attr
+432771	Objc
+Attr
+432780	Coor
+432783	Cmpl
+432785	Attr
+Resu
+Coor
+432795	Adju
+432807	Cmpl
+432813	Adju
+432815	Subj
+432822	Cmpl
+432826	Cmpl
+432828	Resu
+432831	Objc
+432840	Adju
+432842	Resu
+432845	Adju
+Objc
+432850	Adju
+432858	Resu
+432860	Attr
+432862	Adju
+RgRc
+432867	Adju
+432875	Cmpl
+432882	Attr
+432890	Attr
+432892	Adju
+Coor
+432908	RgRc
+432912	RgRc
+432914	Objc
+Subj
+432917	RgRc
+432927	Adju
+432947	Resu
+432954	Attr
+Attr
+432963	Adju
+432969	Attr
+432971	Attr
+Adju
+432981	RgRc
+432992	Adju
+432999	Attr
+Adju
+433002	Attr
+433006	Attr
+433018	Attr
+433025	Attr
+433029	Subj
+Spec
+433033	Attr
+433038	Attr
+433042	Attr
+Attr
+Resu
+433046	Attr
+433048	Attr
+433050	Adju
+433054	Adju
+433060	Adju
+433067	Attr
+433071	RgRc
+433080	RgRc
+433085	RgRc
+433094	Adju
+433097	Attr
+433102	Adju
+433105	Resu
+433109	Coor
+433111	Adju
+433125	Adju
+433131	Attr
+Attr
+433136	Adju
+433167	Resu
+433171	Attr
+433180	Coor
+Coor
+433196	Adju
+433231	Attr
+Adju
+Resu
+433236	Attr
+433239	Adju
+Resu
+Spec
+433249	Attr
+433255	Cmpl
+433260	Objc
+433279	Attr
+Coor
+Attr
+433283	Attr
+433287	Objc
+433290	Adju
+433306	Adju
+433308	Adju
+433316	Attr
+433321	Objc
+433327	ReVo
+Coor
+Coor
+Attr
+433342	Cmpl
+433344	Cmpl
+433348	ReVo
+Resu
+433360	Adju
+Coor
+Attr
+433369	Resu
+433373	Attr
+433375	Objc
+433377	Objc
+433379	Adju
+433383	Coor
+Attr
+Coor
+433389	Resu
+Coor
+433392	Resu
+Coor
+433395	Attr
+433397	Coor
+433399	Resu
+433401	Coor
+433410	Attr
+433419	PreC
+Coor
+Adju
+Attr
+433428	Attr
+433430	Attr
+Attr
+Attr
+Resu
+433437	Attr
+433439	Adju
+433447	Adju
+433454	Adju
+433457	Adju
+433459	Adju
+433462	Attr
+Resu
+433471	Adju
+433473	Adju
+433480	Attr
+433487	Attr
+433489	Adju
+433492	Attr
+433494	RgRc
+Adju
+Adju
+433498	Objc
+433502	Attr
+433504	Adju
+433506	Adju
+433513	Adju
+433523	Adju
+Adju
+433538	Attr
+433540	Adju
+433547	Attr
+433561	Attr
+433573	Adju
+433576	Resu
+Coor
+433582	Attr
+433584	Attr
+Coor
+433595	Adju
+433613	Adju
+433615	Resu
+433622	Objc
+433625	Objc
+433631	Adju
+Objc
+433634	Adju
+433670	PrAd
+433673	Objc
+433684	Adju
+Adju
+433691	Adju
+433699	Adju
+433708	Adju
+433720	Adju
+433743	Resu
+433749	Objc
+Adju
+433760	Attr
+Resu
+433766	Adju
+433769	Attr
+433773	Adju
+Coor
+433778	Attr
+433791	Adju
+433802	PreC
+433805	Subj
+433817	Adju
+433819	Coor
+433830	Objc
+Adju
+Coor
+433835	Attr
+433890	Attr
+433895	RgRc
+433905	Objc
+433909	RgRc
+433914	Objc
+433917	Adju
+433924	Objc
+433930	Attr
+433936	Attr
+433945	Attr
+433951	Adju
+Adju
+433954	Attr
+433965	Adju
+433970	Objc
+433982	Adju
+433987	Attr
+Attr
+433992	Attr
+433996	Objc
+Coor
+434007	Attr
+Adju
+434024	Adju
+434026	Adju
+Adju
+434032	Attr
+434036	Adju
+434044	Adju
+434049	Cmpl
+434052	Adju
+434054	Adju
+434056	Adju
+434058	Attr
+Adju
+434061	Adju
+434064	Adju
+434073	Coor
+434083	Adju
+434086	Attr
+Adju
+Adju
+434092	Objc
+Adju
+Adju
+434098	ReVo
+434101	Adju
+434106	Objc
+434114	Resu
+434116	Adju
+Attr
+434119	Attr
+434130	Objc
+Attr
+434133	Attr
+Adju
+434140	Adju
+434145	Adju
+434152	Adju
+434179	Attr
+434182	PreC
+Adju
+434186	RgRc
+434188	Adju
+434191	RgRc
+434200	RgRc
+434209	Objc
+Adju
+Coor
+434213	Adju
+434217	Adju
+434219	Adju
+434221	Adju
+434229	Adju
+434235	Adju
+434240	Adju
+434244	Adju
+434248	Adju
+434250	Attr
+434253	Adju
+434260	Objc
+434263	Attr
+Attr
+434267	Attr
+434270	Adju
+434278	Adju
+434281	Attr
+434283	Attr
+434285	Attr
+434288	Cmpl
+434293	Adju
+434298	Adju
+434300	Cmpl
+434302	Adju
+434310	Adju
+434334	Adju
+434341	Objc
+434346	Attr
+434352	Objc
+434355	Adju
+434367	Adju
+434374	Adju
+434384	Adju
+434387	Attr
+434389	Attr
+Adju
+434392	Objc
+434405	Adju
+434407	Subj
+434412	Adju
+434417	Adju
+434424	Objc
+Adju
+Adju
+434442	Adju
+434445	Attr
+434450	Adju
+434465	Attr
+434472	Cmpl
+434476	Adju
+434487	Objc
+434493	Adju
+Coor
+434496	Adju
+434498	Attr
+Attr
+434503	RgRc
+434505	Attr
+Coor
+Resu
+434509	Subj
+Spec
+434513	Resu
+434523	Spec
+Adju
+434526	RgRc
+434530	Attr
+434539	Adju
+434542	Adju
+434544	Adju
+434549	Objc
+434551	Resu
+Objc
+434563	Objc
+434565	Adju
+434569	Adju
+434573	Adju
+Coor
+Objc
+434577	Attr
+434579	Objc
+434584	Adju
+434588	Adju
+Adju
+434592	Cmpl
+434594	Attr
+434596	Attr
+434598	Attr
+RgRc
+434607	Objc
+434613	PreC
+434620	Adju
+434622	Objc
+434633	RgRc
+434646	Attr
+434649	Adju
+434671	Adju
+Coor
+Adju
+434687	Adju
+434689	Objc
+Adju
+434693	Adju
+434698	Objc
+434700	RgRc
+434704	Objc
+434708	Adju
+434712	Adju
+Coor
+434721	Attr
+Attr
+434724	Attr
+Coor
+434728	Objc
+434731	Adju
+434733	Attr
+434738	Adju
+434743	Adju
+434747	Adju
+434749	Resu
+Adju
+434752	Adju
+434754	Attr
+Adju
+434763	Attr
+434767	Spec
+434771	Objc
+434783	Attr
+434787	Adju
+434794	RgRc
+Resu
+434800	Resu
+434807	RgRc
+Resu
+434818	Attr
+434820	Attr
+434822	Adju
+434824	Adju
+434828	Adju
+Adju
+434833	Attr
+Adju
+434841	Attr
+Adju
+Coor
+434848	Adju
+434852	Attr
+Attr
+434857	Attr
+434865	Adju
+434867	Adju
+434871	Adju
+Adju
+434888	Attr
+434892	Cmpl
+434895	Attr
+434900	Adju
+434917	Adju
+434921	Attr
+434923	Adju
+434928	Adju
+434931	Resu
+434934	Attr
+434940	Attr
+Adju
+434949	Adju
+434951	Adju
+434958	Adju
+434962	Attr
+Resu
+434970	Adju
+434976	Adju
+434983	Adju
+434988	Adju
+434994	Adju
+435001	Adju
+435003	Adju
+Adju
+435008	Adju
+435020	Objc
+435023	Subj
+435028	Adju
+435038	Attr
+435048	Adju
+435050	Adju
+435052	Attr
+Adju
+435057	Subj
+Cmpl
+435063	Attr
+435065	Objc
+Cmpl
+435078	Resu
+Coor
+435082	Objc
+Adju
+435085	Attr
+435114	Adju
+435116	Adju
+435120	Attr
+435126	PrAd
+435128	Attr
+435133	Adju
+435141	Coor
+435151	Resu
+435154	Resu
+435174	Attr
+Coor
+Coor
+435180	Attr
+435187	Resu
+435194	Attr
+435198	Attr
+435201	Attr
+435218	Cmpl
+435222	Adju
+435233	Objc
+435237	Attr
+435244	Attr
+Adju
+435249	Objc
+Adju
+Adju
+435253	Adju
+435263	Objc
+435265	Adju
+435269	Objc
+435272	Adju
+435274	Resu
+Subj
+435278	Adju
+435280	Adju
+Adju
+Attr
+435284	Resu
+435286	Coor
+435292	Adju
+435297	Adju
+435300	Adju
+435304	Objc
+435312	Attr
+435315	Adju
+435318	Objc
+435321	Attr
+435323	Attr
+435325	Adju
+Adju
+Adju
+435331	Subj
+Coor
+435335	Subj
+435337	Subj
+Adju
+435342	Resu
+435349	Adju
+435358	PreC
+435360	Objc
+435363	Objc
+435366	Adju
+435378	Adju
+435382	Adju
+435384	Objc
+435387	Adju
+435395	Attr
+435398	Attr
+Adju
+435404	Adju
+435407	Adju
+435409	Adju
+435411	Resu
+435415	Adju
+435427	Adju
+435429	Adju
+435437	Attr
+435446	Coor
+Adju
+435459	Adju
+Adju
+435463	Adju
+435466	Adju
+435476	Adju
+435484	Objc
+435489	RgRc
+Objc
+435493	Attr
+Cmpl
+435496	Coor
+Cmpl
+435501	Attr
+435507	Adju
+435511	Adju
+435514	RgRc
+435516	Attr
+Coor
+435519	Attr
+Attr
+435523	Attr
+Attr
+435526	Objc
+435528	Attr
+435531	Adju
+435534	Adju
+435537	RgRc
+435540	Attr
+435545	Adju
+435552	Attr
+435554	Attr
+435557	Objc
+435566	Attr
+Attr
+435579	Objc
+435583	RgRc
+435592	Adju
+435599	Adju
+435601	Coor
+435603	Objc
+Coor
+Coor
+435613	Attr
+435617	Attr
+435621	RgRc
+435626	Adju
+435636	Adju
+435638	Adju
+Coor
+435641	RgRc
+435648	Adju
+435657	Adju
+435662	Attr
+435664	Adju
+435672	Coor
+435682	Adju
+435685	Attr
+435689	Cmpl
+435691	Adju
+435699	Adju
+435704	Adju
+435706	Attr
+435709	Attr
+Coor
+Coor
+435715	Attr
+435717	Coor
+435720	Objc
+435722	Adju
+435727	Attr
+435729	RgRc
+435735	Attr
+435742	RgRc
+435744	Attr
+435756	Adju
+435761	Attr
+435765	Objc
+435771	Attr
+Coor
+435778	Adju
+435780	Attr
+435801	Adju
+435803	Attr
+435806	Adju
+Adju
+435821	Attr
+435823	Adju
+435825	Adju
+435841	Subj
+435855	Adju
+435884	RgRc
+435904	Subj
+435932	Objc
+435934	Adju
+435942	Attr
+Objc
+Subj
+435947	Adju
+435971	Attr
+435975	Adju
+435979	RgRc
+Subj
+435998	Adju
+436006	Objc
+436016	Attr
+436020	Adju
+436023	Adju
+Adju
+436027	Attr
+436030	Attr
+436032	Adju
+436056	RgRc
+436062	Adju
+436066	Attr
+436068	Adju
+Adju
+436076	Adju
+Coor
+Attr
+436086	RgRc
+436104	Attr
+436112	Adju
+Coor
+436133	Attr
+436148	RgRc
+Coor
+436154	Attr
+436158	Coor
+436167	Attr
+Adju
+436173	Adju
+436176	Subj
+436188	Adju
+436192	Attr
+436194	Attr
+436196	Coor
+Coor
+Coor
+Coor
+436203	RgRc
+Resu
+436213	Coor
+436219	Adju
+436223	Attr
+436233	PrAd
+436235	PreC
+436239	Attr
+436242	Attr
+RgRc
+436254	Attr
+436256	Adju
+436261	Attr
+436275	Attr
+436282	Attr
+436292	Attr
+436299	Adju
+436301	Adju
+436306	Attr
+436308	Adju
+436311	Adju
+436327	Attr
+Resu
+Attr
+436331	Spec
+Adju
+436339	Attr
+Adju
+436365	Attr
+436371	Attr
+436376	Attr
+436400	Adju
+436402	Resu
+436411	Adju
+436413	Adju
+436447	Resu
+436450	Adju
+436452	Attr
+436456	Adju
+436459	Attr
+436461	Adju
+Adju
+436464	Attr
+436467	Adju
+436470	Attr
+436474	Attr
+436493	Coor
+436501	PreC
+436505	Adju
+436514	Attr
+436518	Adju
+436521	Adju
+436524	Adju
+436536	Adju
+436538	Adju
+Coor
+436543	Objc
+436549	Attr
+436563	Adju
+436566	Adju
+Coor
+Adju
+436573	Attr
+Adju
+Adju
+436578	Attr
+Attr
+436607	Attr
+Attr
+436630	Attr
+436634	Attr
+Attr
+436638	Attr
+436645	Attr
+436649	Attr
+Coor
+Attr
+Coor
+436658	Attr
+Coor
+436661	Attr
+Adju
+436666	Attr
+436668	Attr
+Adju
+Adju
+436679	RgRc
+436683	Adju
+436685	Adju
+436690	RgRc
+436692	PreC
+436697	Attr
+436701	Attr
+Adju
+436707	Adju
+436711	Objc
+Attr
+Adju
+436727	Adju
+436731	Attr
+Attr
+Attr
+436736	Adju
+436738	Adju
+436747	Adju
+436750	Adju
+Adju
+436753	Adju
+436755	RgRc
+436759	RgRc
+436762	Adju
+Adju
+436767	Adju
+436769	Adju
+436772	Adju
+436776	Adju
+436780	Adju
+Adju
+436786	Adju
+436797	RgRc
+436800	Adju
+436802	Adju
+436809	Attr
+Coor
+Resu
+436818	Attr
+436821	Attr
+Resu
+436825	Attr
+Adju
+Resu
+436829	Adju
+436833	Adju
+Adju
+436836	Adju
+436838	Adju
+436840	Resu
+436843	RgRc
+436845	Attr
+436849	Adju
+436852	RgRc
+436854	Adju
+436856	Adju
+436859	Adju
+Objc
+436863	Subj
+436866	RgRc
+Resu
+436872	RgRc
+436874	Adju
+436880	Adju
+Adju
+Attr
+436884	Objc
+Adju
+436890	Attr
+436892	Attr
+Resu
+Objc
+436897	Attr
+436900	Attr
+436908	Attr
+436918	Adju
+Coor
+436921	Adju
+436926	Attr
+436928	Attr
+436935	Attr
+436949	Attr
+436951	Adju
+436953	Adju
+Coor
+436958	Attr
+Coor
+436962	Attr
+Coor
+436965	Attr
+Adju
+436968	Coor
+436970	Attr
+436973	Resu
+436975	Resu
+Attr
+436985	Adju
+436991	Attr
+436994	Adju
+437003	Objc
+437006	Attr
+437008	Attr
+Resu
+Objc
+437018	Objc
+Cmpl
+437028	Adju
+437032	Adju
+Coor
+Coor
+437040	Coor
+437055	Attr
+437058	Attr
+Resu
+437063	Adju
+437067	Resu
+437069	Adju
+Attr
+437074	Attr
+Attr
+Adju
+437086	Adju
+437095	Objc
+437103	RgRc
+Attr
+437106	Adju
+437109	Adju
+437111	Adju
+437113	Adju
+437118	PrAd
+437121	Adju
+437123	Adju
+437131	Objc
+437141	Objc
+437149	Subj
+437151	Adju
+437153	Attr
+437156	Attr
+437158	Coor
+437165	Objc
+437167	Objc
+437170	Cmpl
+437177	Adju
+437180	Adju
+437187	Attr
+Attr
+437198	Adju
+437206	Attr
+Attr
+Coor
+Coor
+Coor
+Coor
+437225	Attr
+437227	Attr
+437229	Attr
+437231	Objc
+437234	Adju
+Attr
+Coor
+437243	Resu
+Coor
+437255	Attr
+437274	Adju
+Adju
+437288	Adju
+437290	Adju
+437292	Objc
+Adju
+437297	Adju
+437303	RgRc
+437305	Adju
+437308	Adju
+Adju
+Adju
+437313	Objc
+437315	Objc
+437317	Adju
+Adju
+437322	Attr
+Adju
+437327	RgRc
+437330	Adju
+437332	Attr
+Adju
+437342	RgRc
+437349	Attr
+437353	Spec
+Adju
+437357	Attr
+437359	RgRc
+437363	Attr
+437365	Attr
+437367	RgRc
+437369	RgRc
+437371	Resu
+437374	Attr
+437378	Attr
+Adju
+Attr
+Adju
+Resu
+437387	Coor
+Adju
+437390	Spec
+437392	Coor
+437394	Adju
+437396	Adju
+437398	Attr
+Adju
+Adju
+RgRc
+437403	Attr
+RgRc
+Adju
+Adju
+437408	Attr
+Adju
+437412	Attr
+Adju
+Attr
+437416	Adju
+437418	Adju
+Attr
+Adju
+437423	Adju
+437426	Adju
+437428	Adju
+437436	Adju
+437438	Adju
+437443	Attr
+437447	Adju
+437459	Adju
+Adju
+437464	Attr
+437468	Attr
+437490	Adju
+437493	Attr
+437502	Spec
+437517	Adju
+437527	Coor
+437540	Attr
+437542	Adju
+437545	Adju
+437547	Attr
+Attr
+437560	Attr
+437567	Attr
+437576	Attr
+437583	Adju
+437604	Adju
+437608	Attr
+437611	Attr
+437620	Attr
+437646	Attr
+437648	RgRc
+437651	Attr
+Resu
+437656	RgRc
+437658	Adju
+437660	Coor
+437666	Attr
+437669	Adju
+437671	Attr
+Adju
+437676	Adju
+Coor
+437679	Attr
+437682	Attr
+Resu
+Coor
+437686	Adju
+437688	Attr
+Coor
+437692	Adju
+437697	Attr
+Coor
+Attr
+437702	Attr
+437706	Attr
+437708	Resu
+Coor
+437719	Attr
+437723	Adju
+437725	Adju
+437731	Attr
+437735	Adju
+Adju
+437742	Adju
+437747	Adju
+Adju
+437751	RgRc
+437760	Attr
+437763	Spec
+Spec
+437766	RgRc
+Resu
+437772	Resu
+437775	Adju
+437792	RgRc
+437809	Adju
+437812	Adju
+437815	RgRc
+Resu
+437826	Adju
+437834	Adju
+437837	Adju
+437840	Adju
+437843	Adju
+437847	Adju
+437850	Adju
+437852	Adju
+Coor
+437855	Adju
+437862	Cmpl
+437866	Adju
+437869	RgRc
+437874	Adju
+437878	Resu
+437882	Resu
+437886	Adju
+437890	Attr
+437896	Attr
+Attr
+437901	Attr
+437904	Resu
+437909	Attr
+Attr
+437915	Attr
+437927	Attr
+437929	Attr
+437931	Resu
+Coor
+437938	Attr
+437943	Attr
+Coor
+Coor
+Attr
+437949	Attr
+437957	Attr
+437962	Attr
+437966	Attr
+437968	Resu
+437970	Resu
+437977	Attr
+437982	Attr
+437992	Attr
+Attr
+437995	Attr
+Attr
+437998	Resu
+438000	Attr
+Attr
+438011	Attr
+Attr
+Attr
+438015	Attr
+Attr
+438018	Resu
+438028	Attr
+Attr
+Attr
+Attr
+438033	Resu
+438038	Subj
+438040	Adju
+438042	Adju
+438044	Resu
+Attr
+Coor
+438048	Adju
+438050	Attr
+438059	Attr
+438061	Attr
+438063	Attr
+Attr
+438066	Attr
+Attr
+438069	Resu
+Adju
+438079	Attr
+438082	Attr
+438091	Attr
+Attr
+438094	Attr
+438098	Adju
+438104	Adju
+438108	Attr
+438111	Attr
+438115	RgRc
+438124	Adju
+Attr
+438128	Attr
+438130	Attr
+438137	Adju
+438145	RgRc
+438150	Adju
+438153	Attr
+438156	Resu
+Coor
+Coor
+Coor
+Coor
+438164	Resu
+Coor
+438169	Attr
+438174	Resu
+Adju
+Adju
+Coor
+438179	RgRc
+438186	Objc
+438188	Attr
+438192	Attr
+Spec
+Coor
+438197	Objc
+438202	Objc
+438206	Attr
+438210	Attr
+438219	Attr
+438223	Adju
+438225	Resu
+Coor
+438228	Adju
+438230	Objc
+438236	Resu
+Coor
+Attr
+Coor
+438244	Attr
+Coor
+438250	Adju
+438252	Resu
+Coor
+438259	RgRc
+Adju
+438265	Attr
+Attr
+Attr
+Attr
+RgRc
+438272	Cmpl
+438274	RgRc
+438279	RgRc
+438281	Adju
+438283	Adju
+438288	Resu
+438292	Attr
+438308	Attr
+438312	Objc
+438318	Adju
+438322	RgRc
+438324	Adju
+438326	Attr
+RgRc
+438337	Attr
+438343	Adju
+438345	Adju
+438348	RgRc
+438351	Attr
+438354	RgRc
+438356	Objc
+438359	Attr
+438366	Attr
+Adju
+438372	RgRc
+438375	Attr
+Attr
+Attr
+438379	Resu
+438389	Attr
+Resu
+438392	Attr
+Resu
+Attr
+438397	Attr
+RgRc
+Attr
+438402	Attr
+Coor
+Adju
+438406	Attr
+438409	Attr
+Attr
+438412	Attr
+438417	Attr
+Resu
+438423	RgRc
+438425	Resu
+Subj
+438428	Subj
+438431	Subj
+438435	Attr
+438437	Attr
+438440	Resu
+438442	Resu
+Attr
+438447	Resu
+Coor
+Attr
+438452	Adju
+438454	Adju
+438459	RgRc
+Attr
+Resu
+Attr
+438465	Attr
+Resu
+438468	Adju
+438470	Adju
+Subj
+438475	Resu
+438477	Adju
+438482	Spec
+Resu
+438487	RgRc
+Adju
+Attr
+Cmpl
+RgRc
+438495	Attr
+RgRc
+Cmpl
+438499	Adju
+438503	Adju
+438507	Attr
+Adju
+438521	Adju
+438524	RgRc
+438528	Adju
+438531	Adju
+438536	Adju
+438545	Adju
+438547	Attr
+438550	Adju
+438561	Adju
+438571	Attr
+438573	Attr
+438584	Adju
+438586	Attr
+438592	Attr
+Adju
+Adju
+438597	Objc
+438599	RgRc
+438601	Adju
+438603	Adju
+Adju
+438610	Attr
+438617	Adju
+438620	Adju
+438622	Attr
+438625	Objc
+438630	Attr
+Objc
+Coor
+438639	Adju
+438642	Attr
+438648	Adju
+438659	Attr
+438668	Attr
+438675	Adju
+438679	Adju
+438693	Attr
+438699	PreC
+Adju
+438710	Adju
+438718	Attr
+438724	Adju
+438726	Adju
+438729	Coor
+Coor
+Attr
+438734	Attr
+438744	Adju
+438746	Adju
+438750	Adju
+438754	Adju
+Adju
+438759	Adju
+438768	Adju
+438770	Adju
+438772	Attr
+Attr
+438775	RgRc
+Coor
+Coor
+Resu
+438801	RgRc
+438803	RgRc
+Resu
+438806	RgRc
+Attr
+Resu
+438813	RgRc
+Resu
+438826	Attr
+Resu
+438829	Attr
+Attr
+Adju
+438835	Attr
+Resu
+438839	RgRc
+438841	RgRc
+438844	Attr
+Coor
+Coor
+Resu
+438849	RgRc
+438851	RgRc
+Attr
+Resu
+438855	RgRc
+438857	Subj
+438861	Attr
+438866	RgRc
+438868	RgRc
+438870	Attr
+438874	Attr
+Resu
+RgRc
+438879	Attr
+Attr
+438882	Attr
+438884	RgRc
+438890	Subj
+438892	Attr
+438898	Attr
+Subj
+438902	Subj
+438905	Subj
+438908	Attr
+Resu
+438912	RgRc
+RgRc
+RgRc
+Attr
+Resu
+438919	Attr
+438927	Attr
+438929	Attr
+Adju
+438934	Attr
+438936	Attr
+Adju
+Attr
+Attr
+438941	Adju
+438943	Adju
+438945	Resu
+Coor
+438953	Adju
+438958	Adju
+438963	RgRc
+438971	Adju
+438973	Resu
+Coor
+438999	Adju
+439007	Resu
+Coor
+439019	Coor
+439026	RgRc
+439030	Resu
+Coor
+439041	Resu
+Coor
+439066	Resu
+Coor
+439093	Resu
+439118	Resu
+439134	Resu
+439142	Resu
+439152	Adju
+439158	Attr
+Resu
+Coor
+439163	Objc
+439165	RgRc
+439170	Resu
+Coor
+Coor
+439180	RgRc
+439184	Attr
+439192	Objc
+439195	Adju
+439205	Adju
+439210	Objc
+439212	Attr
+Resu
+439217	Adju
+Coor
+439220	Adju
+439231	Resu
+439233	Attr
+439235	Cmpl
+439251	Attr
+439257	RgRc
+439266	Attr
+439269	Attr
+439271	Objc
+Attr
+439276	Adju
+439284	Adju
+439286	Attr
+439289	Attr
+439300	Attr
+439302	Attr
+439304	Objc
+Attr
+Adju
+439308	Adju
+Objc
+Coor
+Coor
+439314	RgRc
+Attr
+439317	Adju
+439319	Attr
+439322	Subj
+439324	Adju
+439329	Adju
+439331	RgRc
+439333	Adju
+439344	Attr
+439348	Attr
+439355	Adju
+Coor
+Coor
+439366	Subj
+RgRc
+439369	Subj
+439371	Subj
+439375	Adju
+439379	Adju
+439391	Adju
+439394	Adju
+439399	Resu
+439405	Attr
+439407	Attr
+439409	Attr
+439413	Subj
+Attr
+439418	Subj
+439426	Attr
+439428	RgRc
+RgRc
+439431	Subj
+439435	RgRc
+Coor
+Resu
+Coor
+439441	Attr
+439457	Resu
+Coor
+439460	Attr
+Resu
+Coor
+439464	Attr
+Resu
+Coor
+439469	Coor
+Resu
+439472	RgRc
+439474	RgRc
+439476	RgRc
+439478	RgRc
+439482	RgRc
+Attr
+439487	Coor
+Attr
+Adju
+439495	Attr
+439498	Coor
+Resu
+439502	Attr
+439504	Attr
+439506	RgRc
+439520	Adju
+Attr
+439523	Coor
+Adju
+Coor
+Coor
+439528	Attr
+439530	Adju
+Coor
+439535	Attr
+439550	Attr
+439558	Attr
+439561	Attr
+Adju
+Adju
+439565	Attr
+439568	Attr
+439574	Attr
+439580	Attr
+439583	Adju
+439588	Attr
+439590	Adju
+Adju
+Coor
+439595	Attr
+439603	Adju
+439613	Attr
+Adju
+439623	Subj
+439627	Attr
+Adju
+439631	Subj
+439637	Attr
+439639	Adju
+439643	Coor
+439645	Attr
+Coor
+Adju
+439653	Adju
+439655	Adju
+439657	Adju
+439661	Attr
+Adju
+439664	Attr
+Coor
+Coor
+Adju
+Resu
+439671	Adju
+Attr
+Coor
+Coor
+439678	Attr
+439682	Attr
+Attr
+Coor
+Adju
+Resu
+439688	Attr
+Attr
+Resu
+Attr
+Coor
+439694	Resu
+Coor
+Adju
+439698	Resu
+439702	Attr
+439704	Attr
+Attr
+Attr
+Resu
+Coor
+439710	Resu
+Resu
+439715	Resu
+439717	RgRc
+439719	Attr
+Resu
+Coor
+Coor
+Coor
+439728	Adju
+439733	Attr
+439735	Attr
+439739	Adju
+439742	Attr
+Coor
+439746	Resu
+Adju
+439755	Resu
+439757	Resu
+439761	Resu
+439776	Adju
+439780	Adju
+Adju
+439783	Adju
+439785	Adju
+439787	Adju
+439793	Adju
+439795	Adju
+439799	Attr
+439805	Attr
+439807	Attr
+439810	Adju
+Adju
+Attr
+439814	RgRc
+Resu
+Attr
+439818	Adju
+Attr
+439823	Adju
+439829	Resu
+Coor
+439840	Subj
+439845	Subj
+439849	Adju
+Adju
+439859	Adju
+439891	Attr
+439897	Resu
+439899	Attr
+439901	Attr
+439910	Adju
+439921	Adju
+439929	Adju
+439938	Attr
+439945	Attr
+439950	Adju
+439953	Attr
+Attr
+439959	Adju
+Coor
+439962	Adju
+Adju
+439966	RgRc
+Adju
+439969	Attr
+Adju
+Resu
+Coor
+439979	Attr
+439981	Attr
+439985	Attr
+Coor
+Resu
+439989	Attr
+439993	Attr
+Resu
+439998	Attr
+Resu
+440003	Attr
+Resu
+440008	Attr
+440011	Attr
+Adju
+Resu
+440017	Attr
+Coor
+Coor
+Resu
+440025	Attr
+Coor
+Resu
+440034	Attr
+Resu
+440039	Attr
+Resu
+440046	Attr
+Adju
+440049	Attr
+440055	Adju
+440057	Attr
+440061	RgRc
+Attr
+Adju
+440067	Adju
+440070	Resu
+440078	Attr
+440080	Attr
+Attr
+Resu
+440084	Adju
+440094	Attr
+440100	Attr
+440103	Adju
+Resu
+440107	Attr
+Attr
+Coor
+Adju
+Resu
+Coor
+440121	Resu
+440125	Attr
+440127	Adju
+440129	Adju
+440131	Attr
+Adju
+440134	Attr
+Coor
+Attr
+Coor
+440139	Attr
+Adju
+440143	Adju
+440150	Attr
+440153	Adju
+440157	Attr
+440162	Attr
+Attr
+Coor
+Resu
+440169	Coor
+Adju
+440172	Subj
+440174	Attr
+440176	Attr
+Attr
+Attr
+440180	Attr
+Resu
+Coor
+440189	Adju
+440196	Attr
+440200	Resu
+Coor
+440203	Resu
+440206	Resu
+440209	Coor
+Coor
+440213	Resu
+Coor
+Coor
+440217	Attr
+440219	Adju
+440221	Attr
+440223	Adju
+440227	Attr
+Attr
+Resu
+440231	RgRc
+440234	Resu
+Adju
+Coor
+440240	Resu
+Coor
+440243	Resu
+440252	Adju
+440255	Resu
+440258	Resu
+440270	Attr
+Attr
+Adju
+440275	Adju
+440279	Attr
+440281	Resu
+440287	Attr
+440297	Adju
+440301	Attr
+440307	RgRc
+440309	Attr
+440311	Coor
+440313	Adju
+440316	RgRc
+440336	Adju
+Adju
+440342	Adju
+440344	Adju
+440349	Adju
+440356	Adju
+440358	Attr
+Resu
+440361	Attr
+Resu
+440369	Adju
+440371	Adju
+440381	Attr
+Adju
+440384	Attr
+440386	Adju
+440397	Objc
+Adju
+440402	Adju
+440405	Adju
+440413	Adju
+440416	Coor
+440431	Adju
+440433	Adju
+440438	Adju
+440440	Resu
+440443	Subj
+440446	Adju
+440449	Resu
+440452	Subj
+440454	Resu
+440456	Resu
+440461	Resu
+440463	Subj
+440465	Subj
+440473	Adju
+440475	Adju
+440479	Attr
+440491	Attr
+440493	Attr
+Adju
+440503	Adju
+440505	Adju
+440514	Adju
+440518	Adju
+440525	Adju
+440543	Adju
+440552	Attr
+440555	Adju
+Resu
+Coor
+440560	Attr
+440563	RgRc
+440565	RgRc
+440569	Adju
+Resu
+Adju
+440574	Adju
+440576	Attr
+Attr
+Cmpl
+440581	Attr
+440585	Resu
+440589	Resu
+440596	Resu
+440603	Attr
+Adju
+Coor
+440615	Attr
+440620	Attr
+Resu
+Attr
+Resu
+440625	Attr
+Resu
+440628	Attr
+Attr
+440632	Adju
+440635	Resu
+440639	Adju
+440647	Adju
+440661	Attr
+440666	Adju
+440703	Attr
+Adju
+440711	Adju
+Adju
+440715	Attr
+Coor
+440724	Subj
+440727	Adju
+440736	Adju
+440748	Attr
+440753	Resu
+440772	Attr
+440778	RgRc
+440783	RgRc
+Objc
+Adju
+440787	Resu
+440793	Adju
+440799	Subj
+440802	Attr
+Coor
+Coor
+Coor
+440814	Adju
+440817	Coor
+440820	Adju
+440823	Adju
+Adju
+440827	Attr
+Adju
+440831	Attr
+440833	Adju
+440837	Resu
+Coor
+440845	Coor
+440852	Coor
+440857	RgRc
+440859	Attr
+Resu
+RgRc
+440870	Attr
+Resu
+440877	Resu
+440879	Adju
+440890	Attr
+440893	Subj
+440900	Adju
+440903	Attr
+440908	Adju
+Coor
+440913	Attr
+Resu
+440924	Attr
+RgRc
+440928	Resu
+440930	Attr
+440933	Resu
+Coor
+440938	RgRc
+Resu
+440947	Attr
+440949	Adju
+Adju
+440953	RgRc
+Resu
+440957	Resu
+440959	Attr
+440966	Resu
+Coor
+440976	Attr
+440979	Adju
+440984	Resu
+440987	Resu
+440990	Resu
+440993	Resu
+440996	Resu
+440999	Resu
+Resu
+441002	Coor
+Resu
+441006	Resu
+441009	Resu
+441012	Resu
+441015	Resu
+441018	Attr
+441021	RgRc
+441025	Adju
+441029	RgRc
+441034	Adju
+441036	Adju
+441038	Attr
+441040	Adju
+Coor
+441046	RgRc
+441049	Adju
+Adju
+441054	PreC
+441058	PreC
+441061	Coor
+441070	PreC
+441073	Coor
+441079	Adju
+441097	PreC
+441100	Coor
+441108	Adju
+441110	RgRc
+441115	RgRc
+441120	Attr
+Adju
+441123	Adju
+441127	Adju
+441132	Adju
+441134	Adju
+441142	Adju
+441144	Resu
+441148	RgRc
+441152	Adju
+441155	Resu
+441157	Adju
+441162	Coor
+441164	Coor
+441167	Resu
+441170	Resu
+441172	Resu
+441176	Coor
+Attr
+441180	Resu
+441185	Attr
+441190	Resu
+441197	Subj
+Attr
+441201	Attr
+441209	Adju
+441212	Adju
+441218	Attr
+Resu
+441223	RgRc
+441225	Cmpl
+441228	Adju
+441230	Adju
+441233	RgRc
+Adju
+441237	Adju
+441251	Attr
+441258	Attr
+441265	Attr
+441269	Adju
+Adju
+441272	Adju
+441277	RgRc
+441279	Adju
+441284	Adju
+441287	Adju
+441289	Adju
+Adju
+441293	Adju
+441296	RgRc
+Adju
+Adju
+441300	Adju
+Coor
+441303	Attr
+441305	Attr
+RgRc
+441313	Resu
+441315	RgRc
+Adju
+441325	RgRc
+441328	RgRc
+Attr
+441331	Spec
+RgRc
+Resu
+441335	RgRc
+Attr
+441338	Spec
+RgRc
+Resu
+441342	Attr
+441344	Attr
+441346	RgRc
+Adju
+Resu
+441350	Adju
+441352	Attr
+441354	Adju
+441357	RgRc
+441361	Attr
+441364	Adju
+441367	Adju
+441370	Resu
+Adju
+Coor
+441374	Attr
+441378	Adju
+441380	Adju
+441382	Attr
+Coor
+Attr
+441386	Attr
+441388	Resu
+441390	Subj
+Resu
+441393	Adju
+441397	Resu
+Coor
+Coor
+Coor
+Coor
+441416	Coor
+Attr
+441422	Attr
+441435	Resu
+Coor
+Coor
+441441	Adju
+Coor
+441444	Adju
+Coor
+441471	Attr
+Coor
+Coor
+Attr
+Coor
+Resu
+Coor
+441481	Adju
+441486	Adju
+Adju
+Resu
+441493	RgRc
+441495	Adju
+Attr
+441500	RgRc
+441502	Resu
+441513	Adju
+441521	RgRc
+441528	Attr
+441530	Attr
+441539	Attr
+441544	Adju
+441549	Attr
+Adju
+441552	Attr
+441554	Adju
+441556	Adju
+441568	RgRc
+Adju
+441577	PreC
+441583	Adju
+441586	Adju
+441588	Adju
+441597	RgRc
+441602	Subj
+441605	Attr
+Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+441616	Attr
+Attr
+Attr
+441620	Attr
+Coor
+441623	Coor
+441627	Attr
+Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+441638	Attr
+Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+441649	Attr
+Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+441660	Attr
+Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+441671	Attr
+Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+441682	Attr
+Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+441693	Attr
+Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+441704	Attr
+Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+441715	Attr
+Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+441726	Attr
+Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+441736	RgRc
+Coor
+441742	Attr
+441749	Adju
+441751	Adju
+Resu
+Attr
+Attr
+441757	Adju
+441760	Adju
+441764	Adju
+441769	Attr
+441771	Adju
+441775	Adju
+441782	Attr
+441790	Adju
+441794	Adju
+441800	Adju
+441808	RgRc
+441811	Adju
+Coor
+441814	Adju
+441816	RgRc
+441822	Adju
+441824	Adju
+Adju
+441828	Adju
+441830	PreC
+441832	Adju
+441836	Adju
+441840	Adju
+Adju
+441846	Adju
+441848	RgRc
+441852	Attr
+Coor
+Cmpl
+Resu
+441859	Adju
+441863	Objc
+441865	Adju
+441867	Adju
+441869	Adju
+Coor
+Resu
+441878	Attr
+Coor
+Coor
+Adju
+Resu
+441890	RgRc
+441896	RgRc
+Resu
+441899	RgRc
+Resu
+441904	RgRc
+441906	Resu
+441909	PreC
+441913	PreC
+441919	Coor
+Adju
+Adju
+441925	Adju
+441930	Adju
+441940	Attr
+441943	Attr
+441946	Adju
+441951	Attr
+441976	Adju
+441982	Attr
+441990	Attr
+442001	Objc
+442006	Attr
+442010	Adju
+442012	Adju
+442014	Adju
+442021	Adju
+442036	Attr
+442042	Attr
+442047	Resu
+Coor
+442057	Adju
+442059	Attr
+Adju
+442066	Adju
+442071	Adju
+Attr
+442074	Adju
+442076	Adju
+442080	Cmpl
+442088	Attr
+Objc
+442095	Attr
+442103	Adju
+442114	Adju
+Coor
+442117	Attr
+442119	Adju
+442123	Attr
+442134	Objc
+442143	Attr
+442146	Adju
+442163	ReVo
+442178	Resu
+Adju
+442187	Attr
+442194	Attr
+442206	Resu
+Coor
+442215	Adju
+442225	ReVo
+Attr
+Coor
+442229	Attr
+Coor
+442232	Adju
+442234	ReVo
+442242	Adju
+442246	Adju
+442249	Attr
+442264	Resu
+442270	Attr
+Adju
+442274	Adju
+442279	Objc
+442281	Attr
+442287	Attr
+442291	Attr
+442304	Cmpl
+442314	Attr
+442316	Adju
+442324	Attr
+442328	Attr
+442340	Attr
+442342	Cmpl
+442345	Attr
+Adju
+442348	Attr
+Adju
+Resu
+Attr
+442353	Attr
+442365	Adju
+442368	Subj
+442370	Adju
+442375	Attr
+442377	Adju
+442379	Attr
+Adju
+Resu
+442386	Attr
+442394	Adju
+442399	Attr
+442405	Objc
+442408	Objc
+442410	Attr
+442417	Attr
+Adju
+442420	Cmpl
+Attr
+442425	Adju
+Adju
+442428	Coor
+442432	Coor
+442438	Attr
+Attr
+Coor
+Coor
+Resu
+Attr
+442447	Coor
+Resu
+Attr
+Coor
+442455	Adju
+442457	Attr
+442459	Attr
+442464	Adju
+442466	Attr
+442468	Attr
+Adju
+442472	Attr
+442474	Resu
+Coor
+Attr
+442480	Adju
+442482	Attr
+442486	Attr
+442490	Attr
+Adju
+Coor
+Coor
+Adju
+Resu
+Attr
+442498	Attr
+Adju
+442504	Adju
+442507	Attr
+442520	Adju
+442523	Attr
+442527	Adju
+442531	Attr
+442533	Adju
+Coor
+Adju
+442537	Subj
+Attr
+442541	Attr
+442545	Adju
+Coor
+442548	Attr
+442553	Attr
+442555	Adju
+442557	Coor
+442559	Adju
+442562	Resu
+Coor
+Coor
+442566	Attr
+442568	Adju
+442572	Attr
+442574	Adju
+442581	Attr
+RgRc
+Attr
+442595	Attr
+442600	Attr
+Adju
+442604	Attr
+Resu
+Adju
+442608	Attr
+Resu
+Coor
+442617	Attr
+442619	Subj
+Attr
+442623	Subj
+442630	Adju
+442632	Adju
+442642	Attr
+442647	Attr
+Adju
+442657	Resu
+Coor
+442663	Adju
+442665	Resu
+Objc
+Coor
+442670	Objc
+442678	Attr
+Resu
+442686	Subj
+Adju
+Adju
+Coor
+Adju
+442694	PreC
+442696	Resu
+Adju
+442699	Adju
+442703	Subj
+Adju
+442718	Adju
+442721	Adju
+442723	Adju
+442725	Adju
+442733	Adju
+442742	Adju
+442744	Adju
+442750	Adju
+442753	RgRc
+442757	PrAd
+442761	Objc
+Adju
+Coor
+442770	RgRc
+442773	Objc
+442775	Adju
+Adju
+442778	Attr
+442781	Attr
+442783	RgRc
+442787	Attr
+442792	Attr
+442794	Adju
+442800	Resu
+442805	Attr
+442809	Attr
+Adju
+Coor
+Adju
+442814	Adju
+442817	Adju
+442823	Adju
+442836	Adju
+442844	Subj
+Adju
+442849	Adju
+442857	Attr
+442860	Attr
+Resu
+442863	Attr
+442877	Adju
+442883	Adju
+442886	Adju
+442891	RgRc
+Coor
+442894	Adju
+442911	Resu
+Adju
+Adju
+442918	Attr
+442921	Resu
+442923	Resu
+Coor
+442927	Attr
+Resu
+442938	Attr
+Resu
+442941	RgRc
+Attr
+442946	Attr
+442958	Attr
+442965	Resu
+Attr
+442968	Adju
+Adju
+442975	Attr
+442979	Adju
+442983	Attr
+442987	Attr
+442997	Adju
+443001	Adju
+443003	Attr
+Adju
+443007	Attr
+Coor
+443023	Subj
+443031	Subj
+443034	Attr
+443036	Resu
+443042	RgRc
+Attr
+Coor
+Resu
+443052	Adju
+Resu
+RgRc
+RgRc
+443057	Attr
+Resu
+443060	RgRc
+443066	Attr
+Coor
+443074	Attr
+Coor
+Resu
+443083	Subj
+443085	RgRc
+443087	Attr
+443096	Adju
+443098	Adju
+443100	Adju
+443102	Adju
+443105	Adju
+443110	Adju
+443118	Adju
+443130	Adju
+Resu
+Attr
+443134	Attr
+Coor
+443139	Attr
+Coor
+Coor
+Coor
+443153	Adju
+443157	Adju
+443167	Adju
+443169	Objc
+Objc
+443175	Adju
+443178	Attr
+Adju
+443187	Adju
+443194	Objc
+443197	Attr
+Objc
+443210	Adju
+443214	Adju
+443244	Attr
+443249	Attr
+Attr
+443256	Attr
+Adju
+Coor
+443261	Attr
+443269	Resu
+Coor
+443275	Attr
+443278	Adju
+443283	Adju
+443285	Objc
+443288	Adju
+443297	Resu
+Coor
+Coor
+443317	Attr
+443320	Adju
+443323	Attr
+443327	Adju
+443332	Adju
+Attr
+443340	RgRc
+443346	Adju
+443349	Attr
+Adju
+Adju
+443360	Objc
+443363	Subj
+Objc
+Coor
+Subj
+443374	Adju
+443382	Attr
+Resu
+443387	Cmpl
+443397	Adju
+Adju
+443403	Objc
+443405	Objc
+443410	Adju
+443413	RgRc
+443420	Cmpl
+Adju
+443425	Objc
+Objc
+443430	Adju
+443434	Attr
+Resu
+443440	Adju
+443445	PrAd
+Coor
+443450	Adju
+443458	Adju
+443460	Objc
+443462	Attr
+Adju
+443478	Attr
+443480	Adju
+443485	PrAd
+Coor
+443501	Objc
+Adju
+443509	Attr
+Resu
+443513	Objc
+443515	Adju
+Attr
+Attr
+443520	Adju
+443523	Objc
+443528	Objc
+443530	Attr
+Resu
+443536	Attr
+443545	Adju
+443551	Adju
+443553	RgRc
+Resu
+443586	Adju
+443592	Objc
+443594	Adju
+443597	Attr
+443626	Coor
+443630	Coor
+443649	Adju
+Coor
+443657	Adju
+443659	RgRc
+Resu
+443667	Attr
+443672	Adju
+443675	Objc
+Adju
+443678	Adju
+443682	PrAd
+443689	RgRc
+Attr
+443709	Subj
+443712	Subj
+443716	Adju
+443726	Attr
+Adju
+443730	Cmpl
+Adju
+Objc
+443738	Objc
+443744	RgRc
+Coor
+443770	PreC
+443776	Adju
+443787	Adju
+443799	Adju
+Attr
+443811	Subj
+443813	Adju
+443815	Adju
+443820	Adju
+Coor
+443823	Attr
+Attr
+443826	Attr
+443829	Adju
+443833	Attr
+Attr
+443837	Adju
+443839	RgRc
+443841	Adju
+443843	Adju
+Attr
+443855	Attr
+Adju
+Coor
+Coor
+Adju
+Coor
+443912	Resu
+443957	Adju
+443972	Attr
+443976	Adju
+443981	Attr
+443983	Attr
+443992	Adju
+443995	Attr
+444003	Adju
+444008	Adju
+444010	Resu
+Coor
+444013	Coor
+444015	Coor
+444017	Coor
+444019	Attr
+444022	Adju
+444026	Attr
+444029	Adju
+Adju
+Adju
+444034	Adju
+444036	Attr
+Coor
+Coor
+Coor
+444041	Attr
+444044	Attr
+444055	Adju
+444060	Adju
+444062	Adju
+444066	Adju
+444069	Attr
+444074	Attr
+444076	Attr
+444083	Attr
+Coor
+444088	Attr
+444090	Attr
+444092	Attr
+444096	Resu
+444110	Attr
+444115	Adju
+444117	Attr
+444124	Adju
+444129	Attr
+444134	Adju
+444143	Attr
+444148	Adju
+444155	Attr
+444166	Attr
+444196	RgRc
+444198	Adju
+444200	Attr
+444203	Coor
+Adju
+Resu
+444207	RgRc
+444209	Resu
+Coor
+Coor
+Attr
+Coor
+444216	Attr
+444218	RgRc
+444220	Attr
+444226	Attr
+444228	RgRc
+444232	Attr
+444234	RgRc
+444236	Attr
+Attr
+444240	Resu
+RgRc
+444249	Attr
+444251	RgRc
+444256	Adju
+Resu
+Coor
+444261	Attr
+444264	RgRc
+444266	Adju
+444269	Attr
+444271	Adju
+444275	Adju
+444278	Adju
+444285	Adju
+444294	Attr
+444296	Adju
+444298	Attr
+444302	Adju
+444307	Attr
+444309	Attr
+444312	RgRc
+RgRc
+Resu
+444317	Attr
+444319	Attr
+444321	Spec
+Attr
+444326	RgRc
+444331	Adju
+444334	Attr
+444336	Attr
+444342	Adju
+444344	Attr
+Coor
+Coor
+444348	Attr
+Resu
+444351	RgRc
+444360	Adju
+444362	Attr
+Attr
+Resu
+444370	Adju
+444372	Attr
+444375	Attr
+444378	Adju
+Attr
+444381	Adju
+444384	Attr
+444386	Adju
+444395	Adju
+444397	Spec
+Attr
+Resu
+444409	Adju
+Attr
+444412	Adju
+Adju
+444417	Adju
+Attr
+444421	Adju
+444423	Attr
+Attr
+Objc
+444430	Adju
+Attr
+Objc
+444434	Adju
+444437	Adju
+444444	PrAd
+444448	Adju
+Adju
+444456	Adju
+444464	Attr
+444468	Objc
+444470	Adju
+444472	Adju
+444475	Adju
+444484	Adju
+Objc
+444495	Attr
+444497	Attr
+444501	Attr
+444511	Attr
+444517	Objc
+444524	Attr
+444527	Attr
+444548	Adju
+444598	Spec
+444602	Adju
+444621	Adju
+444632	Adju
+444636	Adju
+444641	Subj
+444643	Coor
+444645	Attr
+444647	Adju
+Adju
+444651	Adju
+444656	Attr
+444667	Resu
+444669	Resu
+444673	Cmpl
+444686	Adju
+444688	Attr
+Attr
+Adju
+444695	Adju
+444697	Attr
+444700	Adju
+444707	Resu
+Coor
+444714	PreC
+Adju
+444717	Adju
+444720	Adju
+444723	Adju
+444726	Attr
+444734	Attr
+Attr
+Adju
+Resu
+444739	Attr
+444741	Attr
+Resu
+Coor
+444745	Attr
+444747	Adju
+444754	Attr
+444757	Adju
+444759	Attr
+Resu
+444765	Adju
+RgRc
+444772	Attr
+444777	Attr
+444782	Resu
+Adju
+Coor
+444793	Adju
+444797	Attr
+Adju
+444800	Coor
+444806	Attr
+444808	Attr
+444810	Attr
+444818	Resu
+444820	Adju
+444822	Attr
+Spec
+444826	Adju
+Adju
+Adju
+444830	Attr
+444832	Resu
+444834	Attr
+444837	Attr
+Attr
+444844	Adju
+444846	Adju
+444850	Attr
+444854	Attr
+444857	Adju
+444860	Attr
+Adju
+444866	Resu
+444868	Attr
+444870	Adju
+Coor
+444873	Resu
+Adju
+444880	Attr
+444882	Attr
+444886	RgRc
+Adju
+Attr
+Attr
+444891	Objc
+Adju
+444894	Adju
+444896	Subj
+444906	Attr
+Adju
+444909	Adju
+444911	Objc
+444916	Adju
+444923	Attr
+Adju
+444929	Adju
+444936	Resu
+444938	Attr
+444941	Attr
+444944	Attr
+Adju
+444949	Attr
+444954	Adju
+444962	Attr
+Attr
+444976	Attr
+444978	Adju
+444983	Adju
+Adju
+444987	Adju
+444989	Attr
+Attr
+444995	Attr
+Resu
+RgRc
+444999	Attr
+Objc
+Adju
+Attr
+Adju
+445005	Attr
+Adju
+Adju
+Adju
+Attr
+445014	Adju
+445016	Attr
+Adju
+445019	Resu
+Coor
+Attr
+Adju
+445024	Adju
+445027	Attr
+Resu
+Coor
+445032	Attr
+445034	Attr
+Resu
+Coor
+445046	RgRc
+445048	Adju
+445050	Adju
+445063	Attr
+Adju
+445066	Adju
+445073	Attr
+445076	Adju
+445079	Adju
+445081	Subj
+445084	Adju
+445086	Attr
+445098	Objc
+445102	Attr
+445110	Attr
+445117	Adju
+Attr
+445123	Attr
+Adju
+Adju
+Adju
+445128	Adju
+Adju
+445131	Adju
+Adju
+445135	Adju
+445145	Attr
+445149	Adju
+Attr
+Attr
+Coor
+445155	Attr
+Resu
+Attr
+445168	Objc
+Attr
+Coor
+Coor
+445173	Adju
+445182	Adju
+Attr
+Attr
+Adju
+Attr
+445188	Objc
+445191	Adju
+Adju
+445196	Objc
+445199	Adju
+445201	Adju
+445209	Attr
+445211	Attr
+Attr
+Attr
+445216	RgRc
+445220	Cmpl
+445225	Adju
+Attr
+445229	Adju
+445232	Attr
+445235	Adju
+445239	Attr
+445250	Attr
+445261	Adju
+445263	Adju
+445268	Objc
+Attr
+Adju
+Coor
+Attr
+445274	Adju
+Attr
+445277	Adju
+445279	PreC
+RgRc
+445282	Attr
+445285	Resu
+PreC
+445288	Adju
+445291	Adju
+445293	Attr
+445296	Attr
+445302	Objc
+445312	Attr
+445317	Attr
+Adju
+445322	Attr
+445324	Attr
+445326	Adju
+Attr
+445329	PreC
+Objc
+445332	Attr
+Resu
+445335	Attr
+Resu
+445339	Adju
+Adju
+Attr
+Adju
+445346	Attr
+Coor
+445350	Attr
+Attr
+Adju
+RgRc
+445355	Attr
+Attr
+445359	Adju
+Attr
+Coor
+445364	Attr
+Adju
+445368	Attr
+Adju
+Attr
+445375	Resu
+445380	Attr
+Adju
+445384	Adju
+Adju
+Attr
+Adju
+445390	RgRc
+Adju
+Coor
+445394	Attr
+Attr
+RgRc
+Attr
+445403	Attr
+445406	Adju
+445410	Adju
+Coor
+Attr
+445418	Adju
+Attr
+Coor
+RgRc
+445423	Resu
+Coor
+445430	Objc
+Adju
+445433	Objc
+Attr
+Adju
+445440	Attr
+445442	Attr
+Coor
+Coor
+Coor
+445451	Resu
+445457	Attr
+445459	Attr
+Attr
+445464	Attr
+Adju
+445468	Adju
+Adju
+RgRc
+445472	Adju
+Objc
+Resu
+445477	Adju
+445483	Adju
+Adju
+Adju
+445489	Objc
+Resu
+445493	Attr
+Adju
+Coor
+Attr
+445498	Adju
+Attr
+445501	Coor
+Coor
+445507	Attr
+445509	Attr
+Adju
+Attr
+Attr
+Adju
+Coor
+Attr
+Attr
+445522	Attr
+445525	Adju
+445529	Attr
+445532	Adju
+445535	Adju
+445537	Attr
+445540	Attr
+Coor
+Coor
+445546	Attr
+Coor
+445550	Objc
+445552	Adju
+Adju
+445558	Attr
+445561	Objc
+Coor
+445564	Adju
+445566	Adju
+445569	Attr
+445576	RgRc
+445582	Adju
+Coor
+445590	Objc
+Coor
+445596	Adju
+445599	Attr
+Attr
+445604	RgRc
+445606	RgRc
+445610	Adju
+445613	Attr
+445615	RgRc
+445618	Adju
+Coor
+445625	Resu
+445627	Attr
+Coor
+Attr
+Adju
+445632	Adju
+Adju
+445636	Attr
+445640	Attr
+445642	Attr
+Adju
+Adju
+Attr
+Adju
+445648	Adju
+Attr
+445654	Adju
+Adju
+Coor
+Adju
+445661	Resu
+445664	Attr
+445667	Adju
+Coor
+Coor
+Coor
+445677	Attr
+Adju
+Attr
+Attr
+Attr
+Attr
+Attr
+445687	Adju
+Attr
+445693	Attr
+445698	Adju
+445700	Attr
+445705	Attr
+Adju
+Adju
+445709	Adju
+445711	Attr
+445717	Adju
+Adju
+Attr
+445721	Adju
+Adju
+Adju
+Adju
+445728	Adju
+Adju
+445731	Attr
+Adju
+445734	Attr
+445754	Adju
+Attr
+445757	Adju
+Coor
+445761	Adju
+Coor
+Attr
+Coor
+445766	Objc
+Resu
+Attr
+Coor
+Adju
+445774	Attr
+Adju
+445781	Attr
+445786	Attr
+Adju
+445790	Coor
+445793	Attr
+Resu
+445797	Attr
+445804	Cmpl
+445807	Objc
+445809	Attr
+Attr
+445812	Attr
+445814	Adju
+445817	Coor
+445820	Objc
+445824	Adju
+445828	Adju
+445840	Attr
+Adju
+445846	Attr
+445848	Attr
+Adju
+Adju
+Adju
+Objc
+445858	Attr
+Coor
+Adju
+Objc
+Coor
+445866	Objc
+Adju
+445869	Adju
+Coor
+445872	Attr
+Coor
+Coor
+Attr
+Coor
+Coor
+Attr
+Coor
+445883	Attr
+445885	Adju
+Adju
+Attr
+Coor
+445895	RgRc
+445898	Attr
+Coor
+Attr
+Coor
+Coor
+Attr
+Adju
+Coor
+Adju
+445911	PreC
+Adju
+Adju
+Attr
+445922	Objc
+445924	Attr
+445930	Adju
+Adju
+Attr
+Attr
+Attr
+Coor
+445938	Objc
+Resu
+PreC
+445945	Adju
+445947	Adju
+Adju
+445950	Adju
+445953	Adju
+445955	Coor
+Attr
+445958	Objc
+Adju
+445962	Coor
+Objc
+445965	Attr
+Adju
+445969	Adju
+Adju
+Adju
+Attr
+445977	Attr
+445979	Attr
+445986	Attr
+445988	Attr
+445991	Adju
+445998	Attr
+446008	Attr
+446015	Attr
+Adju
+Objc
+Adju
+446020	Attr
+Adju
+446024	Adju
+446027	Attr
+446030	Adju
+Adju
+446033	Attr
+446036	Adju
+446039	Attr
+446044	RgRc
+446046	Attr
+446048	Adju
+446052	ReVo
+Attr
+Attr
+446058	Attr
+Adju
+Cmpl
+Attr
+446064	Adju
+446066	Attr
+446072	Attr
+Attr
+446080	Attr
+446085	Attr
+446087	Adju
+446095	Adju
+Coor
+Adju
+Coor
+446101	Resu
+Adju
+446106	Objc
+446112	Attr
+Adju
+446118	Adju
+Adju
+Coor
+Coor
+Adju
+Attr
+Adju
+446127	RgRc
+446129	Adju
+446134	Resu
+Attr
+Coor
+Attr
+Coor
+Adju
+446148	Attr
+Attr
+446155	Objc
+Attr
+Coor
+446159	Attr
+Coor
+Attr
+Adju
+Coor
+Coor
+Adju
+Coor
+Attr
+Coor
+446170	Attr
+446172	PreC
+Attr
+446175	Attr
+446179	Attr
+Adju
+Coor
+Attr
+Adju
+446185	Attr
+Adju
+Resu
+Attr
+Attr
+Coor
+446192	Attr
+Adju
+446196	Attr
+Resu
+446200	Attr
+Adju
+Coor
+446209	Adju
+Coor
+Coor
+Coor
+446218	Attr
+446223	Adju
+Adju
+Coor
+Coor
+Coor
+446230	Attr
+Adju
+446233	Attr
+Adju
+Adju
+Adju
+Coor
+446240	Attr
+446242	Attr
+446246	Attr
+Adju
+446251	Adju
+Attr
+Coor
+Adju
+Coor
+Attr
+Adju
+Attr
+446261	Attr
+Adju
+446266	Attr
+446268	Adju
+Adju
+Attr
+446274	Adju
+Attr
+446277	Attr
+Adju
+Attr
+Adju
+Attr
+446283	Attr
+Attr
+446292	Attr
+Adju
+Adju
+446299	Attr
+446301	RgRc
+446303	RgRc
+446305	Attr
+446308	Attr
+446313	Attr
+Adju
+Resu
+RgRc
+Attr
+446319	Attr
+446322	Adju
+Attr
+446325	Attr
+Resu
+Coor
+RgRc
+446331	Attr
+446336	Cmpl
+Attr
+446339	Attr
+Attr
+446343	Adju
+446345	Adju
+446349	Adju
+446352	Attr
+Adju
+446355	Attr
+Adju
+446359	Resu
+446362	Adju
+446364	Resu
+Coor
+446371	Objc
+446373	Attr
+446375	Attr
+446381	Attr
+446384	Objc
+Coor
+446387	Attr
+Adju
+446392	Adju
+Adju
+Coor
+Adju
+446400	Attr
+446403	Attr
+Resu
+Adju
+446411	Attr
+Adju
+446414	Attr
+446418	Adju
+Objc
+446428	Attr
+Coor
+Adju
+Attr
+Adju
+446435	Attr
+Adju
+446439	Attr
+Attr
+Attr
+Coor
+446450	Adju
+446455	Adju
+Attr
+446460	Adju
+446462	Attr
+Adju
+Adju
+446467	Adju
+446470	Attr
+446479	RgRc
+446489	Adju
+446491	Adju
+Attr
+Adju
+Objc
+446500	Adju
+Attr
+446504	Attr
+446506	Coor
+446508	Attr
+Coor
+Coor
+Resu
+446515	Coor
+446519	Coor
+446524	RgRc
+446526	RgRc
+446528	RgRc
+446532	PreC
+446541	Resu
+446546	Attr
+446552	Attr
+446554	Attr
+Adju
+446557	Adju
+446560	Objc
+446562	Attr
+Adju
+446568	Attr
+446570	RgRc
+RgRc
+446575	Attr
+Resu
+446582	Attr
+446586	Attr
+446590	Attr
+446595	Objc
+446598	Attr
+Adju
+446602	Adju
+Adju
+Attr
+446606	Adju
+446612	Attr
+446617	Attr
+446619	Adju
+Adju
+446628	Adju
+446632	Adju
+446638	Adju
+446640	Objc
+446643	Objc
+Coor
+446657	Adju
+446660	RgRc
+446662	Attr
+Resu
+446667	Attr
+446678	Attr
+Adju
+446684	RgRc
+446687	Attr
+446689	Cmpl
+Attr
+446692	Attr
+Adju
+Adju
+RgRc
+446698	Attr
+446705	Adju
+446707	Adju
+446709	Attr
+Adju
+446712	Attr
+Attr
+Attr
+Adju
+446717	Objc
+446721	Adju
+446723	Attr
+446725	Attr
+446729	Attr
+446732	Attr
+446734	Attr
+446744	Attr
+446746	Attr
+446748	Attr
+446750	Attr
+446753	Attr
+Attr
+Objc
+Adju
+446760	Attr
+446768	Attr
+446775	Adju
+446782	Attr
+446784	Attr
+446788	Attr
+Attr
+446791	Adju
+RgRc
+446794	Attr
+Attr
+446797	Attr
+446799	Attr
+Adju
+Attr
+Adju
+Resu
+446809	Attr
+446814	Attr
+446816	Attr
+446819	Cmpl
+Attr
+446823	Adju
+446826	Adju
+446831	Adju
+446835	Adju
+Adju
+Adju
+Adju
+Adju
+Coor
+446846	Resu
+Adju
+446854	Adju
+Adju
+446857	Attr
+446859	Attr
+446861	Attr
+446864	Attr
+446866	Adju
+446868	Subj
+Coor
+Coor
+Coor
+Coor
+Coor
+446875	RgRc
+446879	Attr
+446881	Resu
+446885	RgRc
+Adju
+446888	Adju
+446893	Objc
+446897	RgRc
+446900	Attr
+Attr
+Resu
+446904	Attr
+Adju
+Attr
+Adju
+Coor
+Resu
+446912	Attr
+446914	Coor
+Coor
+Resu
+Attr
+446921	Attr
+446925	Attr
+Adju
+446929	Attr
+446931	Adju
+446933	Attr
+Coor
+446937	Coor
+Adju
+Coor
+Adju
+Coor
+Coor
+Coor
+Resu
+Coor
+446954	Adju
+446957	Adju
+446959	Attr
+Adju
+446962	Adju
+Attr
+Adju
+Coor
+446968	Attr
+446971	Attr
+Coor
+Coor
+Coor
+Coor
+Coor
+446985	Attr
+Attr
+Attr
+Adju
+446991	Attr
+446994	Adju
+446996	Attr
+Attr
+447002	Adju
+Adju
+447008	Adju
+447017	Attr
+447020	Attr
+447022	Adju
+447034	PreC
+Adju
+Adju
+447038	Adju
+447040	Attr
+Coor
+447047	Attr
+Coor
+447054	Attr
+Coor
+447061	Adju
+447068	Adju
+Adju
+447072	Adju
+447079	Attr
+447087	RgRc
+447089	Attr
+447091	Attr
+Attr
+447094	Attr
+447096	Adju
+447098	Adju
+Attr
+447102	Adju
+Adju
+447105	Adju
+447109	Adju
+447111	Attr
+Objc
+Resu
+Coor
+Coor
+Attr
+Adju
+447119	Attr
+Adju
+PrAd
+447123	Subj
+447126	Attr
+447129	Attr
+Resu
+Attr
+Coor
+447134	Attr
+Coor
+447139	Adju
+Coor
+447143	Attr
+Attr
+447150	Attr
+447156	Objc
+447177	Adju
+447179	Attr
+Coor
+447185	RgRc
+Attr
+Cmpl
+447189	Adju
+RgRc
+447202	Coor
+447215	Attr
+447217	PrAd
+447224	Adju
+447229	Attr
+Coor
+447232	Cmpl
+447234	PrAd
+447252	Subj
+447256	Attr
+447260	Attr
+447277	Adju
+447288	Cmpl
+447295	Adju
+447298	Attr
+447301	Attr
+447304	Attr
+447311	RgRc
+447313	RgRc
+447319	Attr
+447324	Adju
+Coor
+Resu
+447331	Attr
+447336	Attr
+447338	Adju
+447340	Objc
+447348	Adju
+Adju
+Coor
+Adju
+447353	Adju
+447362	Attr
+Resu
+447367	Attr
+447371	Adju
+447374	Adju
+447380	Adju
+447385	Adju
+Coor
+447391	Attr
+447393	Attr
+Attr
+447401	Attr
+447405	Attr
+Adju
+447409	Adju
+447413	Adju
+447416	Coor
+Adju
+Objc
+447441	Attr
+447443	Attr
+Cmpl
+Adju
+Adju
+Adju
+447450	Attr
+447456	Attr
+447460	Attr
+Coor
+Coor
+447466	Adju
+Coor
+RgRc
+Adju
+447471	Adju
+447473	Objc
+Adju
+447477	Adju
+447480	Attr
+447484	Adju
+447489	Attr
+447498	Adju
+447503	Objc
+Coor
+447506	Adju
+447510	Adju
+447520	Objc
+447522	Adju
+447535	Adju
+447538	Adju
+447548	Attr
+447551	Adju
+447555	Adju
+447557	Subj
+447563	Adju
+447570	Attr
+447575	Adju
+447585	Attr
+447588	Objc
+Adju
+Objc
+Coor
+RgRc
+447596	Adju
+Attr
+Adju
+447603	Attr
+447607	Attr
+Attr
+447611	Attr
+Adju
+447614	Attr
+447617	Objc
+Attr
+Adju
+447639	Attr
+447644	Attr
+Attr
+447647	Adju
+447654	Attr
+447662	RgRc
+447665	Attr
+Adju
+447668	Adju
+447672	Adju
+Coor
+Coor
+Coor
+447677	Adju
+Adju
+Coor
+Coor
+Attr
+447683	Coor
+Adju
+447686	Adju
+447688	Attr
+447690	Attr
+Attr
+447695	Adju
+Adju
+Attr
+Adju
+447700	Adju
+447702	Attr
+447715	Adju
+447722	Attr
+447724	Adju
+447726	Adju
+Adju
+447734	Attr
+Coor
+447740	Subj
+447744	Subj
+447748	Subj
+447752	Subj
+447756	Subj
+447761	Subj
+447765	Subj
+447769	Subj
+447773	Subj
+447777	Subj
+Adju
+447782	Subj
+Adju
+447788	Adju
+Adju
+Attr
+447800	Adju
+447802	Adju
+447804	Attr
+Objc
+447810	Attr
+447812	Adju
+447816	Objc
+447819	Attr
+Adju
+447822	Adju
+Coor
+447831	Attr
+Adju
+Coor
+447835	Attr
+Adju
+Adju
+447840	Adju
+Adju
+Attr
+447850	Adju
+447852	Adju
+447854	Attr
+Adju
+Coor
+Attr
+447859	Adju
+Attr
+Adju
+447864	Adju
+447866	Attr
+447868	Attr
+447871	Adju
+447873	Objc
+447880	Attr
+Cmpl
+447884	Adju
+447905	Attr
+447908	Attr
+447910	Attr
+Cmpl
+447913	Attr
+Attr
+447917	Attr
+447934	Attr
+447943	Adju
+447945	Adju
+Attr
+447949	Adju
+447951	Attr
+447953	Adju
+447955	Adju
+Attr
+447958	Attr
+Coor
+Coor
+Adju
+Coor
+Adju
+447965	Adju
+Attr
+447968	Attr
+447970	Attr
+Attr
+447973	Attr
+Coor
+Resu
+Attr
+Adju
+Attr
+Adju
+Attr
+447982	Attr
+Adju
+Adju
+Coor
+Resu
+447988	Attr
+Attr
+447991	Attr
+447993	Adju
+Attr
+Adju
+447998	Attr
+448001	Attr
+Adju
+448004	Adju
+448008	Adju
+Coor
+Resu
+Adju
+Coor
+448014	Attr
+Adju
+448018	Attr
+448030	Attr
+Attr
+448033	Attr
+448035	Adju
+448039	Attr
+Adju
+448042	Attr
+448046	RgRc
+Attr
+448049	Spec
+Spec
+Spec
+448058	Objc
+448061	Adju
+448068	RgRc
+448071	Attr
+Adju
+Attr
+Adju
+Coor
+Adju
+Coor
+448080	Adju
+Attr
+Coor
+448084	Objc
+Coor
+Attr
+448088	Attr
+448090	Attr
+Adju
+Adju
+448094	Attr
+448096	Adju
+448098	Adju
+448101	Adju
+448103	Objc
+448106	Attr
+448109	Attr
+448111	Attr
+Attr
+Coor
+Attr
+Coor
+448121	Attr
+448127	Attr
+Adju
+Coor
+Coor
+Coor
+Attr
+Coor
+448135	Adju
+Attr
+448142	Adju
+448145	Attr
+448147	Attr
+448150	RgRc
+448155	Attr
+448160	Attr
+448165	Adju
+Adju
+448168	Attr
+448172	Attr
+448175	Adju
+Adju
+448178	Adju
+Attr
+448182	Attr
+Resu
+Coor
+Coor
+Adju
+448192	Adju
+448199	Adju
+448202	Attr
+Adju
+Adju
+Coor
+448209	Attr
+Adju
+448217	Objc
+448219	Attr
+Adju
+Adju
+448227	Adju
+Adju
+Coor
+448231	Adju
+Attr
+Adju
+448239	Cmpl
+Coor
+448244	Resu
+448246	Coor
+448248	Resu
+Adju
+448251	Adju
+Attr
+448255	Attr
+448261	Resu
+PreC
+448270	Attr
+Adju
+448274	Resu
+PreC
+448283	Attr
+448285	Adju
+448287	Adju
+Adju
+Attr
+448291	Attr
+448296	Adju
+448298	Attr
+448300	Adju
+Attr
+Attr
+Adju
+448306	Adju
+448318	Attr
+448321	Attr
+448326	Adju
+448330	Adju
+448332	Attr
+448340	Attr
+Attr
+448354	Attr
+Adju
+Attr
+448364	Attr
+448367	Adju
+Adju
+Adju
+448371	Adju
+448377	Adju
+448384	Objc
+Coor
+Attr
+448389	Objc
+Adju
+448392	Adju
+448400	Coor
+448404	Resu
+448407	Resu
+448409	Subj
+Coor
+448414	Attr
+Coor
+448423	Adju
+Adju
+448433	Attr
+Coor
+Coor
+Coor
+Coor
+448452	Attr
+448457	Attr
+Coor
+Attr
+Attr
+Attr
+448463	Attr
+448465	Attr
+448471	Objc
+448473	Coor
+Attr
+448486	Coor
+448489	Coor
+448507	PreC
+Coor
+448512	Coor
+448516	Coor
+448520	RgRc
+448523	Subj
+448527	Objc
+Coor
+448532	Attr
+Attr
+Coor
+448539	Objc
+Resu
+Coor
+448564	Adju
+448567	Attr
+448569	Adju
+Adju
+448574	Attr
+Adju
+448577	Adju
+448579	Attr
+Attr
+448582	Attr
+448584	Attr
+448586	Adju
+Coor
+Adju
+Coor
+448592	Attr
+448594	Attr
+448608	Adju
+448621	Attr
+Coor
+Attr
+448625	Coor
+Coor
+448637	Adju
+448640	Attr
+Coor
+448644	Attr
+448653	Resu
+448661	Adju
+448693	Attr
+Coor
+448704	ReVo
+448706	Attr
+Coor
+448711	Attr
+448717	Attr
+Adju
+448734	Adju
+448736	Attr
+Attr
+Adju
+Attr
+448742	Adju
+448747	Attr
+448749	Attr
+Resu
+Adju
+448754	Adju
+448761	Attr
+Adju
+448765	Adju
+Adju
+Attr
+448770	RgRc
+448774	Adju
+RgRc
+448784	RgRc
+448786	Adju
+448789	Adju
+448792	Adju
+Adju
+Attr
+Adju
+448797	Adju
+448799	Attr
+Adju
+448804	Attr
+448807	Adju
+Coor
+Attr
+448812	Attr
+448814	Adju
+448816	RgRc
+448818	RgRc
+448820	RgRc
+Resu
+448823	Adju
+448825	Attr
+Coor
+RgRc
+448831	Attr
+Adju
+448840	Adju
+448843	Adju
+448845	Adju
+448847	Attr
+Attr
+448850	Adju
+448856	Objc
+448859	Adju
+448867	Attr
+448871	Subj
+448877	Objc
+Coor
+Coor
+448881	Objc
+Adju
+Coor
+Attr
+Objc
+448890	Resu
+448893	Objc
+448897	RgRc
+448901	Adju
+448904	Adju
+448913	Adju
+448917	Attr
+448920	Attr
+448924	RgRc
+Resu
+448928	RgRc
+Resu
+448933	Attr
+448936	Resu
+448951	RgRc
+448963	Adju
+448965	PrAd
+448970	Adju
+Attr
+448977	Adju
+448984	Objc
+448986	Objc
+Adju
+448989	Adju
+Adju
+448997	Objc
+Coor
+449004	Adju
+449007	Attr
+Resu
+449010	Adju
+Adju
+449013	Coor
+Coor
+449017	Attr
+449019	Attr
+449021	Subj
+449026	Adju
+Adju
+449029	Adju
+Adju
+449032	Adju
+449034	Adju
+449036	Adju
+449038	Adju
+449041	Attr
+449043	Attr
+449047	Adju
+449050	Adju
+449053	Adju
+Adju
+449058	Adju
+449060	Adju
+449066	Adju
+Attr
+Adju
+Coor
+449073	Adju
+Adju
+449077	Adju
+449081	Adju
+449083	Adju
+449087	Adju
+449090	Adju
+449097	Attr
+449099	Adju
+449101	Adju
+449104	Adju
+449107	Adju
+Adju
+Attr
+Adju
+Adju
+Objc
+Coor
+449115	Adju
+Attr
+Attr
+Objc
+Adju
+449129	Attr
+449131	Attr
+Resu
+Adju
+449135	Attr
+449137	Attr
+Adju
+449140	Adju
+Attr
+Attr
+Coor
+Objc
+Attr
+Adju
+449152	Adju
+Adju
+449155	Adju
+449163	Adju
+449167	Adju
+449187	Attr
+Resu
+449204	Adju
+Coor
+449209	Adju
+449219	Adju
+449221	Attr
+449230	Adju
+449234	RgRc
+449244	Attr
+449256	Adju
+449265	RgRc
+449267	RgRc
+449269	Attr
+449271	Adju
+Coor
+Coor
+Coor
+449276	Resu
+Coor
+449281	Adju
+449285	Adju
+449288	RgRc
+449290	Attr
+449293	RgRc
+Adju
+449297	RgRc
+449301	RgRc
+449304	RgRc
+449307	Attr
+Adju
+449310	Adju
+449312	Attr
+Coor
+449322	Attr
+449324	Adju
+449349	Adju
+Adju
+449355	Adju
+449365	Attr
+449371	Cmpl
+449375	Adju
+449384	Resu
+Cmpl
+Adju
+449390	Attr
+449392	Attr
+449394	Attr
+449396	Subj
+449399	RgRc
+449416	Objc
+449436	RgRc
+449456	Adju
+449459	Objc
+449461	Adju
+449465	Adju
+449471	Attr
+449474	Adju
+Adju
+449478	Adju
+449481	Adju
+449487	Adju
+449500	Attr
+449508	Attr
+449512	Adju
+449516	Adju
+449519	Objc
+449523	Attr
+Adju
+449528	Attr
+449533	Attr
+449536	Attr
+449539	Adju
+449548	Adju
+449550	Attr
+449552	Objc
+Coor
+449557	Adju
+449566	Adju
+Adju
+Attr
+449570	Adju
+449574	RgRc
+449576	Attr
+Adju
+449579	Attr
+449584	Adju
+449589	Adju
+Adju
+449592	Attr
+449596	Attr
+449600	Adju
+Adju
+449603	RgRc
+449605	RgRc
+Attr
+Attr
+449609	Adju
+Attr
+449612	Adju
+449614	Objc
+449640	RgRc
+RgRc
+Attr
+Attr
+449645	Adju
+449648	Adju
+449655	RgRc
+Adju
+449660	Attr
+449669	Adju
+449672	Adju
+449674	Objc
+Coor
+449685	Cmpl
+449689	Attr
+449693	Adju
+449696	Adju
+449698	Adju
+449707	Subj
+Adju
+Coor
+449715	Spec
+449720	Attr
+449722	Adju
+Objc
+Coor
+Adju
+449727	Coor
+Coor
+449734	Adju
+449744	Adju
+449762	Adju
+449767	Subj
+Adju
+449770	RgRc
+449773	ReVo
+449778	Adju
+449782	Adju
+449784	Adju
+449790	Adju
+449792	Attr
+449796	Adju
+449801	Adju
+449804	Adju
+Adju
+Adju
+449817	Adju
+449820	Attr
+449831	Attr
+449836	PreC
+449838	RgRc
+449842	Attr
+449847	Attr
+449850	Adju
+449856	Attr
+449859	Adju
+449867	Attr
+RgRc
+449870	Adju
+449880	Attr
+RgRc
+449887	Attr
+449889	RgRc
+449891	Attr
+449898	Attr
+449901	Resu
+Coor
+449906	Adju
+449913	Adju
+449916	Attr
+Coor
+Coor
+Coor
+449924	Attr
+449929	Adju
+449943	Adju
+449950	Resu
+449952	Attr
+449959	Adju
+449961	Attr
+Resu
+449966	Adju
+449968	Adju
+449972	RgRc
+449975	Attr
+449981	Attr
+449984	Adju
+Adju
+Adju
+Adju
+Adju
+Adju
+449996	RgRc
+450000	Attr
+Coor
+450003	Attr
+Attr
+Attr
+450008	Attr
+Coor
+450013	Attr
+Attr
+450019	Attr
+450056	Adju
+450058	Attr
+450061	Attr
+450063	Attr
+450065	Cmpl
+450067	Resu
+450069	Adju
+450073	Attr
+Adju
+450076	Attr
+Attr
+450079	Attr
+450082	Attr
+450090	Resu
+Adju
+450094	Attr
+Attr
+450097	Attr
+450103	Attr
+Coor
+450110	Attr
+450118	Attr
+450122	PreC
+450125	Resu
+Adju
+450128	PreC
+Coor
+450131	Adju
+450137	Adju
+450140	Resu
+450145	Attr
+450147	Adju
+Adju
+450150	Adju
+450152	Attr
+450155	Adju
+450157	Attr
+Coor
+450162	Adju
+Adju
+Attr
+450168	Coor
+RgRc
+450172	Coor
+Coor
+450176	Attr
+450178	Objc
+450182	Adju
+450186	Adju
+450192	Attr
+450210	Attr
+Attr
+450217	Attr
+Attr
+450235	Resu
+450243	Coor
+Resu
+450248	Adju
+450250	Adju
+450275	Coor
+Coor
+Coor
+450280	Coor
+Coor
+Coor
+Coor
+450286	Coor
+Coor
+450291	RgRc
+450295	Coor
+450297	Coor
+Coor
+450301	Coor
+Coor
+450306	Coor
+Coor
+450310	Coor
+450316	Coor
+450319	Adju
+450322	Attr
+450342	Attr
+450358	Adju
+450360	Cmpl
+450363	Attr
+450367	Attr
+450382	Cmpl
+450384	Adju
+450386	Adju
+450390	Adju
+450393	Adju
+450402	Attr
+Adju
+Coor
+450406	Adju
+450421	Attr
+450424	Adju
+Adju
+Attr
+450442	Attr
+450446	Adju
+Adju
+450468	Attr
+450471	Attr
+450479	Attr
+Attr
+450486	Attr
+450496	Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+450515	Attr
+450525	Attr
+450531	Attr
+450538	Coor
+Coor
+Coor
+450546	Coor
+450573	Coor
+Coor
+Coor
+Coor
+Coor
+450588	Adju
+450591	Attr
+450595	Attr
+450597	Adju
+450599	Adju
+450601	Adju
+450603	Attr
+Adju
+450615	Coor
+450617	Adju
+450619	Attr
+450622	Attr
+450629	Attr
+Adju
+Coor
+Adju
+450635	Adju
+450637	Cmpl
+Spec
+450646	Adju
+450648	Attr
+450672	Resu
+450721	Attr
+Resu
+450728	Attr
+Adju
+450733	RgRc
+450737	Attr
+450742	RgRc
+450744	RgRc
+450748	Adju
+450752	Attr
+450754	Adju
+Attr
+Adju
+Coor
+Coor
+Coor
+Coor
+450769	Adju
+450774	Attr
+Adju
+Attr
+450778	Attr
+450782	Adju
+450786	Adju
+450791	Resu
+450794	Adju
+450797	Attr
+Adju
+Adju
+Adju
+450802	Attr
+Coor
+450810	Attr
+450814	Adju
+450822	Resu
+Coor
+Resu
+450828	Adju
+Adju
+450831	Coor
+450833	Resu
+450835	Adju
+450837	Adju
+450843	Adju
+450846	Adju
+450850	Adju
+450858	Attr
+450863	Adju
+Coor
+Adju
+Attr
+450868	Attr
+Attr
+450873	Objc
+450881	Adju
+Adju
+Attr
+450885	Objc
+Cmpl
+450888	Adju
+450896	RgRc
+450898	Resu
+PreC
+450903	Attr
+450905	Resu
+Coor
+450908	Adju
+450910	Adju
+Coor
+RgRc
+Adju
+Coor
+450920	Adju
+450923	Resu
+450926	Resu
+PreC
+Adju
+450930	Adju
+450932	Adju
+Coor
+Coor
+Coor
+Coor
+Objc
+Adju
+450940	Adju
+Attr
+450945	Objc
+Attr
+450951	Attr
+Resu
+Adju
+Attr
+450956	Attr
+Coor
+Coor
+Coor
+Resu
+450962	Attr
+450976	Adju
+450980	Adju
+450990	Objc
+450993	Attr
+451002	Adju
+451004	Adju
+451016	Attr
+Attr
+451020	Attr
+451025	Attr
+451028	Adju
+451030	Objc
+451032	Attr
+Attr
+Coor
+Attr
+451040	Cmpl
+Adju
+451043	Resu
+PreC
+Coor
+Coor
+Attr
+Attr
+451050	Attr
+451055	Cmpl
+451064	Adju
+451071	Adju
+451076	Attr
+451086	Attr
+451090	Attr
+451097	Attr
+451099	Attr
+Coor
+Attr
+451103	Attr
+Attr
+Coor
+451108	Attr
+451111	Adju
+451113	Adju
+451134	Attr
+Adju
+451144	Adju
+Attr
+451147	Attr
+451154	Coor
+Resu
+451157	Attr
+451160	Adju
+451162	Adju
+451172	Attr
+451177	Attr
+451184	PreC
+451187	Adju
+451190	Attr
+451210	Adju
+451216	Attr
+451229	Adju
+451231	Adju
+451239	Attr
+451243	Resu
+451252	Adju
+451259	Adju
+Adju
+451262	Attr
+Coor
+Attr
+451269	Attr
+451271	Attr
+451273	Objc
+451276	Attr
+451278	Attr
+451288	Cmpl
+451290	RgRc
+Adju
+Coor
+451298	Coor
+451300	Attr
+Adju
+451310	Adju
+Adju
+Coor
+451316	Adju
+Attr
+Coor
+451320	Adju
+Attr
+Coor
+Adju
+Cmpl
+Adju
+Adju
+451329	Adju
+451332	Attr
+Adju
+RgRc
+Adju
+Adju
+Adju
+451339	Attr
+Adju
+451342	Adju
+Adju
+Objc
+Attr
+451351	Objc
+451360	Attr
+451369	Adju
+Objc
+451373	Objc
+451389	Adju
+Adju
+451393	Attr
+451400	RgRc
+451403	Attr
+451425	Adju
+451434	Adju
+451438	Adju
+451448	Cmpl
+451457	Adju
+Objc
+451461	Attr
+451468	Resu
+Coor
+451488	Attr
+451497	Attr
+451499	Objc
+451501	Attr
+451505	Attr
+451518	Adju
+451552	Adju
+451556	Attr
+451564	Adju
+451566	Adju
+Adju
+Coor
+451575	Resu
+Coor
+451578	Adju
+Coor
+ReVo
+Coor
+Coor
+Coor
+Attr
+451590	Adju
+451592	Coor
+451596	Resu
+451599	Attr
+451602	Coor
+Coor
+ReVo
+451620	Coor
+451626	Resu
+451630	Adju
+451634	Resu
+451638	Attr
+Adju
+451672	Resu
+451676	Adju
+451681	Coor
+451688	PreC
+451691	Objc
+451695	Attr
+451702	Adju
+451710	Adju
+451726	Attr
+451730	Attr
+Attr
+451733	Adju
+451743	Attr
+Adju
+451764	Attr
+451766	Adju
+451771	Adju
+451784	Attr
+451790	Objc
+451801	Objc
+451806	Attr
+451808	Attr
+451810	Attr
+451814	Attr
+451817	Adju
+451819	Adju
+Adju
+451826	Attr
+451828	Attr
+451830	Adju
+451841	Attr
+451843	RgRc
+451846	Subj
+451852	Adju
+451865	Adju
+451868	Adju
+451873	Objc
+Adju
+451891	Attr
+451896	Attr
+Adju
+451899	Adju
+451903	Adju
+451916	Resu
+451918	RgRc
+451920	Resu
+451924	RgRc
+Adju
+Resu
+451928	RgRc
+Adju
+451931	RgRc
+451933	Adju
+451936	Attr
+451939	Adju
+451942	Adju
+451951	Adju
+451954	Objc
+451958	Attr
+451961	Attr
+451979	Adju
+451994	Resu
+451996	RgRc
+452001	Attr
+452005	Attr
+452010	Adju
+452014	Adju
+452024	Adju
+452026	Adju
+452038	Adju
+Adju
+Adju
+452047	Adju
+452049	Adju
+452052	Attr
+452056	Attr
+452064	Adju
+Coor
+452069	Adju
+452071	Adju
+452076	Coor
+RgRc
+452079	Attr
+452081	RgRc
+452095	Attr
+Adju
+452105	Attr
+452127	Attr
+452138	Adju
+452146	Attr
+Attr
+Attr
+452155	Adju
+452160	Attr
+452163	Attr
+Resu
+Coor
+452169	Adju
+452174	Attr
+452176	Attr
+452179	Adju
+452185	Objc
+452200	Attr
+452211	Adju
+452216	Attr
+452218	Adju
+452225	Adju
+452231	Attr
+452233	Adju
+452249	Attr
+Coor
+452271	Adju
+452273	Adju
+Attr
+Attr
+Adju
+452279	RgRc
+452308	Adju
+452313	Attr
+452317	Adju
+452320	Attr
+452322	Adju
+452324	Attr
+452329	Attr
+452336	Adju
+452342	Attr
+452346	Attr
+452356	Adju
+452369	Attr
+452372	RgRc
+452377	Attr
+452383	Subj
+452385	Attr
+452391	Attr
+452397	Adju
+452412	Adju
+452424	Objc
+452426	Adju
+452428	Attr
+Adju
+452433	Adju
+452441	Attr
+452444	Attr
+452448	Adju
+Objc
+452458	Attr
+Attr
+452461	Adju
+452464	Adju
+452476	Adju
+452479	Attr
+452484	RgRc
+452494	Adju
+452496	Attr
+Adju
+452515	Adju
+452517	Adju
+452526	Adju
+452534	Adju
+452545	Adju
+452548	Adju
+452551	Adju
+452560	Adju
+Coor
+Coor
+452564	Adju
+452580	Adju
+452587	Attr
+452594	Resu
+452596	RgRc
+Resu
+452603	Attr
+Resu
+452607	Adju
+452610	Attr
+452620	Attr
+Adju
+Adju
+Resu
+Coor
+452626	Adju
+452629	Coor
+452633	Adju
+452637	Adju
+452641	ReVo
+452645	Cmpl
+452648	ReVo
+452650	Adju
+452666	Attr
+452670	Adju
+452675	Adju
+452677	Adju
+452684	Objc
+452689	Adju
+452711	Adju
+452731	Attr
+452736	Adju
+Objc
+452758	Adju
+452761	Adju
+452764	Attr
+452766	Objc
+452779	Attr
+452781	Objc
+Attr
+452792	Attr
+452794	Coor
+452798	Attr
+452806	RgRc
+452808	RgRc
+452812	RgRc
+452822	Objc
+452833	Adju
+452836	Adju
+452841	Adju
+452843	Objc
+452849	Adju
+452858	Adju
+452870	Adju
+452875	Objc
+452881	Adju
+452884	Adju
+452887	Objc
+452892	Adju
+452894	Adju
+452903	Objc
+452908	Adju
+452917	Cmpl
+452926	Cmpl
+452945	Attr
+452951	Adju
+452965	Attr
+452971	Adju
+453011	Adju
+453013	Adju
+Adju
+453018	Objc
+453022	Resu
+453024	Adju
+453026	Adju
+453029	Adju
+453031	Adju
+453040	Adju
+453043	Attr
+Attr
+453054	Adju
+Adju
+453065	Attr
+453071	Attr
+453077	Adju
+453082	Adju
+453091	Attr
+453099	Objc
+Coor
+Coor
+Adju
+453106	Objc
+Coor
+Adju
+453111	Attr
+453115	Attr
+453122	Adju
+Adju
+453129	Objc
+453132	Attr
+453146	Objc
+453161	Objc
+453166	Adju
+453176	Objc
+453179	Adju
+453188	Adju
+453198	Objc
+453205	Adju
+Adju
+453208	Adju
+Coor
+453216	Coor
+453218	Adju
+453226	Attr
+453229	Attr
+453234	Attr
+Adju
+453244	Attr
+453252	Attr
+453254	Attr
+Adju
+453265	Attr
+Coor
+Coor
+Resu
+453275	Adju
+453284	Resu
+453290	Objc
+453295	Adju
+Adju
+453298	Adju
+453304	Adju
+Adju
+453312	Adju
+453319	Objc
+453323	Spec
+453326	Adju
+Coor
+453347	Objc
+Attr
+453352	Attr
+453356	Attr
+PrAd
+453359	PrAd
+453372	Adju
+Adju
+Adju
+Adju
+453379	Attr
+Attr
+453382	Attr
+453390	Attr
+Adju
+453394	Objc
+453397	Objc
+453402	Attr
+Attr
+453405	Attr
+Adju
+453411	Attr
+453422	Subj
+Coor
+453432	Attr
+Attr
+453442	Attr
+453454	Objc
+453458	Objc
+Coor
+Attr
+453468	Attr
+453472	Attr
+453476	Resu
+RgRc
+453479	Attr
+RgRc
+453490	Adju
+Adju
+453496	Adju
+453505	Adju
+453517	Adju
+453522	Adju
+453526	Adju
+453529	Adju
+453532	Adju
+453540	Adju
+453555	Attr
+453564	Attr
+453566	Adju
+Adju
+453571	Adju
+453601	PrAd
+453603	Adju
+453605	Attr
+453611	Resu
+Adju
+453615	Resu
+453618	Objc
+453621	Adju
+453627	Adju
+453629	Adju
+453631	Attr
+453635	Adju
+453652	RgRc
+Resu
+453656	RgRc
+453664	Attr
+453666	Objc
+453673	Attr
+Adju
+453678	Adju
+453688	Adju
+453690	Adju
+453692	Adju
+453695	Attr
+453698	Adju
+Adju
+Adju
+Attr
+453705	Adju
+453707	Attr
+453710	Attr
+453714	Adju
+453716	Adju
+453718	Attr
+453724	Attr
+453741	Adju
+Attr
+453746	Adju
+453748	Adju
+453753	Adju
+453765	Adju
+453767	Adju
+453776	Adju
+453779	Adju
+Attr
+Coor
+453791	Attr
+453794	Objc
+453799	Objc
+453802	Attr
+453809	Adju
+453812	Adju
+453816	Adju
+453823	Objc
+453827	Subj
+453839	RgRc
+Attr
+453847	RgRc
+453849	Attr
+453851	Adju
+453860	Adju
+453867	PreC
+453869	Adju
+Adju
+453877	Adju
+453880	Attr
+453888	Adju
+453892	Attr
+453894	Attr
+453896	Attr
+453898	Attr
+453901	Attr
+453905	Attr
+453916	Adju
+453918	Adju
+453920	Subj
+453923	Attr
+Attr
+453926	Adju
+453932	Adju
+453938	Adju
+453946	Attr
+453952	Adju
+453954	Adju
+453957	Objc
+453967	Adju
+Coor
+453977	Adju
+453980	Adju
+453986	ReVo
+Coor
+Coor
+453991	Adju
+Coor
+454000	ReVo
+Coor
+Coor
+Coor
+454008	Adju
+454011	Resu
+Coor
+Coor
+454031	Attr
+454049	Adju
+454058	Objc
+454060	Adju
+454064	Adju
+454066	Adju
+454076	Attr
+Adju
+454080	Attr
+454082	Attr
+454091	Coor
+454114	Adju
+454122	Resu
+454133	Attr
+Resu
+Adju
+Coor
+Coor
+454139	RgRc
+454141	Attr
+454146	Adju
+454148	Coor
+454152	Adju
+454161	Attr
+454164	Adju
+Adju
+454169	Attr
+454177	RgRc
+Coor
+Attr
+454182	Attr
+454186	Attr
+Attr
+454193	Adju
+Adju
+454196	Coor
+454202	Adju
+454204	Adju
+Coor
+Coor
+454209	Attr
+454211	Adju
+454221	Adju
+454223	RgRc
+454226	Adju
+Coor
+454230	Attr
+454233	Adju
+454239	RgRc
+Adju
+454243	Adju
+454250	Attr
+454252	Cmpl
+454255	Attr
+454270	Objc
+454284	Objc
+454291	Objc
+454312	Attr
+RgRc
+Resu
+454316	RgRc
+Adju
+Coor
+454320	Objc
+RgRc
+Objc
+Coor
+454325	Objc
+454329	Adju
+454337	Attr
+454342	Attr
+454347	Resu
+Objc
+454353	Objc
+454355	Adju
+454359	Adju
+454363	Adju
+454375	Attr
+454378	Adju
+454385	Objc
+454395	Resu
+Attr
+454401	Adju
+454407	Adju
+454419	Attr
+Cmpl
+454422	Adju
+454433	Cmpl
+454436	PreC
+454448	Adju
+454453	Coor
+454456	Spec
+454458	Adju
+Coor
+454465	Subj
+454471	Adju
+454473	Adju
+Coor
+454494	RgRc
+454499	Objc
+454511	Adju
+454518	Adju
+454520	Adju
+454522	Adju
+454533	Attr
+454537	Adju
+454540	Cmpl
+454547	Subj
+454550	Attr
+454555	Attr
+454559	Adju
+454561	PreC
+454568	Attr
+454574	Attr
+454581	Coor
+Objc
+454584	Resu
+454598	Adju
+454605	Attr
+Coor
+454613	Attr
+Attr
+Coor
+Coor
+Coor
+Coor
+Coor
+Attr
+Coor
+454629	Cmpl
+454632	Adju
+454640	Adju
+454642	RgRc
+454647	Adju
+454666	Objc
+454672	Adju
+454694	Adju
+454697	Attr
+454709	Adju
+454724	Adju
+454726	Adju
+454728	Adju
+454732	RgRc
+454735	Adju
+454737	Attr
+RgRc
+Coor
+Coor
+Coor
+454746	Attr
+454748	Attr
+454751	Attr
+454755	Coor
+Coor
+Coor
+Coor
+454769	Attr
+454772	Adju
+454787	Adju
+454812	Attr
+454821	RgRc
+454824	Attr
+454830	Adju
+454833	Adju
+454839	Adju
+Adju
+454849	Attr
+454852	Attr
+Adju
+454864	Resu
+454866	Adju
+454868	Adju
+454874	Resu
+454879	Adju
+Adju
+454882	Adju
+Adju
+454888	Objc
+454892	Attr
+454897	Objc
+454905	RgRc
+454907	Attr
+Resu
+Adju
+454923	Attr
+Coor
+454927	Coor
+454931	Subj
+454935	Adju
+454942	Adju
+454944	Adju
+454962	Adju
+454966	Attr
+Adju
+454970	Adju
+454975	Attr
+454983	Attr
+454985	Adju
+454987	Attr
+454996	Objc
+455001	Adju
+Coor
+455004	Adju
+455006	Objc
+455008	Adju
+Adju
+455014	Adju
+455022	Adju
+455031	Adju
+455038	Objc
+455042	Objc
+455045	Objc
+455047	Attr
+455053	Attr
+455055	Attr
+455077	Objc
+455088	Attr
+455101	Adju
+455107	Subj
+455120	Adju
+455125	Adju
+455127	Resu
+455134	Attr
+455137	Adju
+455144	RgRc
+455149	Adju
+455152	Resu
+Coor
+455156	PreC
+455173	RgRc
+455180	Resu
+455203	PreC
+Coor
+455208	Attr
+455210	Coor
+455229	Objc
+455236	Attr
+Coor
+455245	Attr
+455252	Attr
+455258	Objc
+Attr
+Adju
+455268	Adju
+455276	Attr
+Coor
+Adju
+455281	Adju
+455283	Resu
+Cmpl
+Adju
+Adju
+455291	Objc
+455295	Adju
+455302	Attr
+455305	Adju
+455308	Adju
+455313	Adju
+Attr
+455318	Objc
+Coor
+455323	Resu
+455326	Attr
+455333	Adju
+Adju
+455338	Adju
+Adju
+455344	Objc
+Coor
+Coor
+455355	Attr
+455361	Objc
+455365	Attr
+455367	Attr
+455373	Attr
+455378	Adju
+Adju
+455381	Coor
+455384	Attr
+455391	Attr
+455394	Attr
+455396	Attr
+455399	Objc
+455401	Attr
+Adju
+Coor
+455413	Adju
+455416	RgRc
+455424	Adju
+455435	Attr
+455448	Attr
+455459	Attr
+455462	Objc
+455471	Adju
+455473	Attr
+Resu
+455478	Attr
+455484	Attr
+455486	PreC
+Attr
+455489	Attr
+Objc
+455496	Adju
+455498	Attr
+Coor
+455508	Adju
+455510	Attr
+455517	Adju
+455519	Attr
+455524	Objc
+Adju
+455527	Coor
+Attr
+455537	Adju
+455539	Adju
+455547	Adju
+Coor
+455552	Adju
+455554	Adju
+455558	Adju
+455562	Adju
+455566	RgRc
+455578	Objc
+455580	Attr
+455588	Objc
+455599	Objc
+455603	Attr
+455612	Attr
+455624	RgRc
+455630	Resu
+Coor
+455641	Adju
+455646	Objc
+Attr
+Adju
+455653	RgRc
+455667	Adju
+455670	Adju
+Attr
+455676	Adju
+455678	Resu
+455680	Adju
+455688	Adju
+455690	Adju
+455703	Attr
+455707	Adju
+455712	Objc
+455717	Adju
+455724	Adju
+455728	Objc
+455732	Attr
+455736	Adju
+455739	Adju
+455741	Subj
+455743	Subj
+455762	Adju
+455764	Adju
+455770	Attr
+455774	Adju
+455789	Resu
+455794	Adju
+455801	Adju
+455813	Adju
+455817	Objc
+455819	Objc
+455821	Objc
+455824	Adju
+455827	Subj
+455830	Adju
+455837	Adju
+455845	PreC
+455867	Adju
+455885	Objc
+Attr
+Objc
+455889	Adju
+455894	Attr
+Adju
+455901	Attr
+Objc
+Coor
+455908	Attr
+455916	Adju
+455920	Adju
+455928	Attr
+455933	Adju
+455953	Adju
+455959	Cmpl
+455977	Coor
+455981	Attr
+455985	Resu
+455988	Coor
+Adju
+455999	Attr
+456004	Adju
+456007	PreC
+456010	Adju
+456018	Attr
+Coor
+456023	Adju
+Resu
+Coor
+456029	Adju
+456032	Attr
+Resu
+Coor
+Coor
+456037	Attr
+Adju
+456040	Attr
+Coor
+456045	Adju
+456047	Attr
+456049	Adju
+456056	Adju
+456064	Attr
+456073	Cmpl
+Adju
+456093	Attr
+Resu
+456103	Adju
+456107	Cmpl
+456113	Attr
+456117	Attr
+Coor
+456120	Attr
+456125	Coor
+456136	Attr
+456142	Objc
+456144	Objc
+456151	Adju
+456154	Adju
+456172	Objc
+456177	Adju
+456182	Adju
+456188	Adju
+PrAd
+Adju
+456199	Objc
+456201	Adju
+456211	Adju
+Adju
+456217	Adju
+456220	Attr
+456225	RgRc
+456229	Adju
+Adju
+Adju
+456233	Adju
+456235	Adju
+456266	Objc
+456284	RgRc
+456297	Adju
+456305	Subj
+456308	Adju
+456314	Adju
+456316	Adju
+456319	Adju
+456326	Adju
+456330	Objc
+456333	Adju
+456337	Adju
+456341	Adju
+456344	Adju
+456346	Adju
+456353	Attr
+456368	Adju
+456378	Adju
+456388	Adju
+456394	Adju
+Coor
+456397	Adju
+456409	Adju
+456413	Adju
+Adju
+456416	Adju
+456433	RgRc
+456437	Adju
+456441	Adju
+456443	Attr
+456445	Coor
+456456	Attr
+456465	Adju
+456467	Adju
+456490	Objc
+456505	Adju
+456511	Adju
+456518	Objc
+456529	Objc
+Adju
+456552	Adju
+456559	Adju
+Adju
+456564	Adju
+456573	Attr
+456576	Adju
+456592	Attr
+Resu
+456597	Adju
+456617	Resu
+456626	ReVo
+Objc
+456629	Attr
+456639	Adju
+456641	Objc
+Adju
+456653	Attr
+456656	Adju
+456658	Attr
+456670	Attr
+456679	Adju
+456681	Adju
+456686	Adju
+456693	Adju
+456701	Attr
+Coor
+456717	Adju
+456724	Attr
+Adju
+RgRc
+456728	Attr
+456730	Attr
+456737	Attr
+Resu
+Attr
+456752	Adju
+456766	Adju
+456773	Attr
+456779	Adju
+Objc
+456783	RgRc
+456791	Objc
+Attr
+456797	Attr
+456804	Adju
+456807	Objc
+456812	PrAd
+456817	Adju
+Attr
+456828	Adju
+456830	Adju
+456835	Coor
+Coor
+Coor
+456839	Adju
+456847	Attr
+456851	Coor
+Objc
+Coor
+456855	Adju
+Adju
+456863	Attr
+456869	Objc
+456872	Adju
+Objc
+456878	Subj
+456881	Adju
+456885	Adju
+456896	Adju
+456908	Adju
+456911	Subj
+456915	Adju
+456917	Adju
+Adju
+456920	Objc
+456925	ReVo
+Objc
+Adju
+Adju
+456931	Adju
+456933	ReVo
+456943	Cmpl
+456945	Subj
+456947	Adju
+456953	Objc
+Adju
+456969	Adju
+456971	Attr
+456975	Adju
+456977	Subj
+456985	Attr
+456991	Attr
+457001	Adju
+457010	Adju
+457012	Adju
+457014	Adju
+457019	Adju
+457021	Adju
+457026	Adju
+457028	Adju
+457031	Attr
+457033	Adju
+457037	Adju
+457041	Attr
+457044	Adju
+457047	Attr
+457050	Adju
+Attr
+457055	Adju
+457059	Adju
+457065	Adju
+457069	Adju
+457073	Adju
+457076	Objc
+457078	Adju
+457087	Adju
+Coor
+Coor
+Objc
+Coor
+457093	Adju
+457109	Adju
+Adju
+457121	Objc
+Coor
+Coor
+457127	Attr
+457130	Objc
+Coor
+457134	Objc
+Coor
+457150	Adju
+457157	Objc
+457168	RgRc
+457171	Objc
+457173	Attr
+457176	RgRc
+457182	Objc
+457192	Attr
+Adju
+457195	Attr
+457197	Attr
+Objc
+457205	Adju
+457207	Adju
+457212	Adju
+457214	Adju
+457219	RgRc
+Adju
+457222	RgRc
+Attr
+457227	Objc
+457230	Adju
+457242	Adju
+457246	RgRc
+457248	RgRc
+457253	RgRc
+Objc
+457268	Resu
+457272	Attr
+457276	Coor
+Attr
+Adju
+Coor
+457282	Coor
+457285	Attr
+Resu
+Attr
+457293	Adju
+Coor
+457297	Resu
+457300	RgRc
+457303	Coor
+Coor
+457309	Attr
+Adju
+457313	Attr
+Adju
+Coor
+457318	Attr
+Adju
+457322	Adju
+457324	Adju
+Subj
+457327	Objc
+457339	Adju
+457341	Adju
+457349	Objc
+457352	Attr
+Coor
+457357	Adju
+457360	Adju
+457362	Adju
+457365	Adju
+457368	Adju
+457373	Attr
+457379	Attr
+457381	Adju
+457386	Adju
+457388	Attr
+457391	Objc
+457394	Objc
+457397	Attr
+457399	Attr
+457404	Adju
+457410	Attr
+457430	Cmpl
+457433	Attr
+457446	Adju
+457452	Attr
+457458	Adju
+457460	Attr
+457463	Adju
+457467	Attr
+457486	Adju
+Adju
+457493	Adju
+Adju
+457500	Adju
+457509	Adju
+Coor
+Adju
+457514	Resu
+457528	Adju
+457532	Attr
+457535	Subj
+457537	Adju
+457546	Attr
+457550	Attr
+Attr
+457562	Adju
+Adju
+457565	Adju
+457568	Attr
+457570	Adju
+457575	Adju
+457578	Objc
+457581	Objc
+457611	Objc
+457615	Objc
+Attr
+457618	Adju
+457620	Adju
+457630	Adju
+457638	PrAd
+457645	Objc
+457647	Adju
+457651	Adju
+457658	Adju
+Objc
+457665	Adju
+457668	Adju
+Coor
+457681	Objc
+457686	Attr
+457712	Attr
+457719	Attr
+457721	RgRc
+457726	Attr
+457732	Attr
+Adju
+457741	Subj
+Coor
+457744	RgRc
+457753	Attr
+457759	Objc
+457765	Attr
+457770	Adju
+Adju
+457774	Adju
+457779	Attr
+457787	Attr
+457789	Adju
+Adju
+457794	Adju
+457796	Adju
+457802	Adju
+457810	Attr
+457815	Attr
+Adju
+457832	Coor
+457836	Coor
+Coor
+457843	Objc
+Coor
+457848	Coor
+Coor
+457851	Attr
+457855	Attr
+Coor
+457858	RgRc
+457861	RgRc
+457868	Attr
+Adju
+Coor
+457872	Adju
+Coor
+Attr
+457878	Attr
+457882	Attr
+457889	Objc
+457892	Attr
+457895	RgRc
+RgRc
+457901	Adju
+457903	Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Attr
+457937	Objc
+457942	Attr
+Coor
+Objc
+Coor
+457952	Adju
+457954	Attr
+457958	Adju
+457962	Objc
+457973	Adju
+457980	Adju
+457991	Objc
+Coor
+Coor
+Coor
+457996	Attr
+457998	Objc
+458000	Attr
+458021	Objc
+Adju
+458024	Attr
+Attr
+458030	Attr
+458036	Attr
+458042	Adju
+Adju
+458053	Adju
+458057	Adju
+458067	ReVo
+458069	Coor
+458075	Resu
+Coor
+Coor
+458079	ReVo
+Attr
+Coor
+458092	Adju
+458102	Attr
+Adju
+458108	Adju
+458110	Attr
+458114	Adju
+Coor
+458119	Adju
+458126	Attr
+458130	Adju
+458134	Attr
+458148	Adju
+458152	Attr
+458157	Attr
+458160	Adju
+458172	Adju
+458174	Adju
+458179	Adju
+458186	RgRc
+Attr
+Coor
+Resu
+458193	Attr
+458201	Objc
+458203	Adju
+458208	Adju
+458213	Adju
+458225	Attr
+458230	Coor
+458232	Coor
+458242	Adju
+458251	Attr
+458258	Adju
+Resu
+Adju
+Coor
+458263	Cmpl
+Adju
+458266	Adju
+Cmpl
+Adju
+458271	Adju
+458276	Adju
+458279	Adju
+Adju
+Adju
+458283	Adju
+458285	Attr
+458294	Adju
+458299	Adju
+458303	Adju
+RgRc
+458308	Attr
+458315	RgRc
+458321	Resu
+458325	Attr
+458327	Adju
+458339	Adju
+Coor
+Coor
+RgRc
+458349	Adju
+458357	Coor
+Coor
+458360	Adju
+458362	Attr
+458376	Adju
+458379	Adju
+458381	Adju
+458383	Adju
+458387	Adju
+458391	RgRc
+458393	Objc
+Adju
+458397	Objc
+458403	Objc
+458408	Coor
+458415	Adju
+458419	Adju
+Adju
+458426	Adju
+458441	Attr
+458446	Attr
+458448	Subj
+Adju
+458451	Coor
+Resu
+Coor
+458467	Adju
+458471	Adju
+PreC
+Coor
+458481	Adju
+458487	Adju
+458490	Coor
+458496	RgRc
+Resu
+458509	Objc
+Coor
+458512	Adju
+458515	RgRc
+458517	Coor
+Coor
+458520	Objc
+458522	Adju
+458528	Adju
+458542	Adju
+458550	Adju
+458553	Adju
+458555	Adju
+458557	Adju
+458561	Attr
+Adju
+Attr
+Attr
+458567	Attr
+458570	Attr
+458581	Adju
+458587	Adju
+458592	Adju
+458594	RgRc
+458598	Adju
+458607	PrAd
+Coor
+458612	Attr
+458615	Adju
+458620	Adju
+458622	Adju
+458625	Attr
+Adju
+458629	Attr
+Adju
+458635	Attr
+Resu
+458638	Resu
+458640	Adju
+Coor
+458648	RgRc
+458653	Adju
+458658	Adju
+458660	RgRc
+458663	RgRc
+Resu
+Attr
+Adju
+Adju
+458673	Adju
+458675	RgRc
+458678	Attr
+458684	Adju
+458686	Coor
+Attr
+458690	Objc
+458692	Coor
+458694	Attr
+458703	Adju
+Attr
+458708	Resu
+458714	Coor
+Cmpl
+458722	Adju
+458726	Adju
+458730	Coor
+RgRc
+458733	Attr
+Adju
+Coor
+Coor
+Attr
+458744	Attr
+458746	Adju
+458748	Adju
+458753	Adju
+458756	Adju
+458765	Adju
+458777	Adju
+458779	Adju
+458782	Adju
+Adju
+458788	Adju
+458793	RgRc
+458795	Attr
+458799	Objc
+458801	Adju
+Coor
+Adju
+Coor
+458808	Attr
+Attr
+458811	Adju
+Adju
+458817	RgRc
+458829	PreC
+458843	Attr
+458865	Adju
+Attr
+458870	RgRc
+458879	RgRc
+458892	Adju
+458894	Adju
+458900	Adju
+Coor
+Coor
+458909	Adju
+458913	Adju
+458916	Objc
+458920	Coor
+458927	Objc
+458930	Adju
+458933	Adju
+458939	Adju
+458943	Objc
+458945	Attr
+458948	Objc
+458954	Objc
+458958	Attr
+458966	Adju
+458973	Objc
+458977	Adju
+458979	RgRc
+459017	Adju
+459026	Adju
+Coor
+Coor
+459040	Adju
+459046	Adju
+459052	Adju
+459054	Attr
+Objc
+459063	Adju
+459065	Adju
+459070	Adju
+459072	Objc
+459082	RgRc
+459098	Objc
+459106	Attr
+459116	Attr
+Coor
+459125	Adju
+Adju
+Attr
+459130	Objc
+459135	Attr
+459137	Adju
+Coor
+459149	Adju
+Objc
+459158	Adju
+459173	Attr
+459176	Attr
+459184	Adju
+459190	Adju
+Objc
+459194	Adju
+459201	Objc
+459203	Objc
+459220	Attr
+459228	Adju
+459238	Cmpl
+459271	Attr
+459281	Adju
+459284	Adju
+459298	Adju
+459303	Adju
+459308	Adju
+459314	Adju
+459326	Adju
+459334	Attr
+459337	Adju
+459346	Resu
+459350	Resu
+459356	Adju
+459362	Attr
+Attr
+459369	Adju
+Attr
+Adju
+459373	Adju
+459375	Attr
+459385	Attr
+459402	RgRc
+459405	Attr
+459414	Resu
+459418	Adju
+459428	Adju
+459431	Coor
+459433	Resu
+459436	PreC
+459440	Adju
+459443	Adju
+459446	Adju
+459448	Adju
+459455	Attr
+459462	RgRc
+459465	Adju
+459470	Attr
+459476	Resu
+459478	Adju
+Adju
+459491	Adju
+459495	Objc
+459503	Attr
+459528	Attr
+459531	Attr
+Adju
+459539	Coor
+459543	Resu
+Coor
+Adju
+459548	Adju
+459559	Coor
+Adju
+459562	Coor
+Attr
+Attr
+459570	Adju
+459576	Adju
+Adju
+459581	Resu
+Adju
+459587	Attr
+459597	Adju
+Coor
+RgRc
+459601	Resu
+Coor
+Adju
+459606	Adju
+RgRc
+459617	Objc
+459629	Adju
+459633	Subj
+459643	Adju
+459645	Adju
+459648	Adju
+459660	Attr
+459663	Adju
+459666	Adju
+459669	Subj
+459687	Attr
+Adju
+Resu
+Coor
+459701	Attr
+459704	Adju
+Adju
+459710	Attr
+459716	Attr
+459718	Adju
+Adju
+459727	Adju
+459732	Attr
+Coor
+459736	Adju
+459739	Coor
+459741	Adju
+459744	Attr
+459749	Adju
+459756	RgRc
+459760	Adju
+459765	Attr
+459774	Adju
+459776	Cmpl
+459783	Coor
+459785	RgRc
+Adju
+Coor
+Resu
+459793	Attr
+459800	Attr
+459803	Adju
+Adju
+459814	Adju
+459821	Adju
+Adju
+459829	Attr
+Adju
+459833	Adju
+459840	Attr
+459842	Adju
+Attr
+Coor
+459860	Attr
+459862	Attr
+Coor
+459865	Attr
+459870	Adju
+459877	Adju
+459879	PreC
+459881	PreC
+459890	RgRc
+459903	Adju
+459908	Attr
+459926	Attr
+459940	Attr
+459945	Adju
+459955	Subj
+Resu
+Coor
+459961	Adju
+459968	Attr
+Adju
+459971	Objc
+459973	RgRc
+459977	Attr
+PreC
+459988	Attr
+459991	PreC
+459993	Attr
+459999	Objc
+Coor
+460003	Adju
+460010	Attr
+460013	Objc
+Coor
+460019	Adju
+460021	Subj
+460024	Attr
+460027	Attr
+460029	Objc
+Coor
+Subj
+460034	Attr
+460037	Attr
+460039	Adju
+460041	Attr
+460045	Adju
+460049	Adju
+Coor
+460057	Adju
+460061	Attr
+460068	Cmpl
+Adju
+460089	Adju
+460098	Attr
+460101	Subj
+460103	Objc
+460116	Attr
+460119	Adju
+460123	Attr
+Adju
+460128	Attr
+460145	Subj
+Adju
+460148	Objc
+460153	Adju
+460156	Adju
+460158	Adju
+460164	Adju
+Adju
+460172	Attr
+460178	PrAd
+460180	Attr
+460185	Subj
+460190	Adju
+460205	Adju
+460211	Adju
+460214	Attr
+460217	Adju
+460223	Objc
+460232	Objc
+460261	Attr
+460278	Attr
+Attr
+460284	Adju
+460295	RgRc
+460301	RgRc
+460306	Adju
+460308	Coor
+ReVo
+Objc
+460317	Adju
+460320	Adju
+Adju
+Attr
+Adju
+460327	Coor
+460331	Attr
+Adju
+Coor
+460335	Objc
+460337	Objc
+460339	Coor
+Resu
+460346	Objc
+Coor
+460349	Attr
+460353	Adju
+460357	Adju
+460360	Adju
+460365	Attr
+460368	Adju
+460370	Adju
+460372	Adju
+460374	Spec
+460379	Adju
+460383	Coor
+460391	Adju
+Adju
+Coor
+460395	Attr
+460397	Adju
+460403	Adju
+Coor
+Objc
+460407	Adju
+460411	Objc
+Attr
+Adju
+460415	Objc
+460418	Adju
+Adju
+460427	Cmpl
+460430	Objc
+460435	Adju
+460439	Spec
+Attr
+460443	Adju
+460458	Objc
+460463	Coor
+460470	Adju
+460473	Adju
+460475	Coor
+460487	Objc
+Coor
+460497	Objc
+460501	Objc
+460503	RgRc
+460528	Adju
+460542	Attr
+Adju
+460548	RgRc
+Coor
+460554	Adju
+460556	Attr
+460565	Adju
+460567	Attr
+460571	Attr
+460578	Adju
+460580	Attr
+460589	Attr
+Attr
+460593	Objc
+460596	Adju
+Objc
+RgRc
+Resu
+Adju
+460602	Adju
+460605	Resu
+Coor
+460612	Attr
+Adju
+460630	Adju
+460632	Adju
+460637	Adju
+460643	Cmpl
+Coor
+460647	Attr
+460657	Adju
+460670	Adju
+460674	Resu
+Coor
+Coor
+460678	Adju
+Adju
+460687	Adju
+460693	Attr
+Coor
+Objc
+Adju
+Resu
+Coor
+460702	Attr
+460704	Attr
+460706	Attr
+460713	Adju
+460715	Adju
+460717	Subj
+460720	Attr
+Attr
+RgRc
+460727	RgRc
+460734	Attr
+Coor
+Coor
+Resu
+Adju
+460743	Adju
+460749	Attr
+460763	RgRc
+460767	Resu
+460769	Coor
+Attr
+460822	Resu
+460839	Resu
+460842	RgRc
+460846	Coor
+460860	Adju
+460868	Resu
+460870	Resu
+460881	Attr
+460883	Adju
+460891	Attr
+Coor
+Coor
+460903	Attr
+460910	Coor
+Attr
+Attr
+460916	Attr
+Coor
+460921	Resu
+460927	Attr
+460930	Coor
+460933	Coor
+Adju
+460943	Adju
+460947	Attr
+460961	Attr
+460964	Attr
+460968	Adju
+460973	Cmpl
+Coor
+Attr
+460977	Adju
+460980	Resu
+Coor
+460984	Resu
+460988	Resu
+Coor
+Coor
+461034	Adju
+461036	Adju
+461040	Attr
+461048	ReVo
+461051	Adju
+461054	Attr
+461065	Attr
+461071	Objc
+461078	Adju
+461093	Coor
+Objc
+461103	Adju
+461106	Attr
+461111	Adju
+Attr
+461117	Resu
+461124	Adju
+461127	Attr
+461130	Adju
+461135	Adju
+461140	Objc
+461174	Adju
+461177	Attr
+461179	Adju
+461186	Attr
+461188	Attr
+461192	Adju
+461194	Objc
+Coor
+461205	Adju
+461221	ReVo
+461233	Resu
+Adju
+Objc
+461237	Adju
+461243	Adju
+461249	ReVo
+461262	Objc
+461271	Attr
+461273	Adju
+Adju
+461279	Adju
+461289	Attr
+461300	Adju
+461305	Adju
+461321	Attr
+461323	Adju
+461343	Attr
+461346	Adju
+Adju
+461353	Attr
+Objc
+Coor
+461358	Attr
+461360	Adju
+461366	Adju
+461369	Adju
+461384	Adju
+461386	Adju
+461391	Adju
+Adju
+Adju
+461395	RgRc
+RgRc
+461398	Attr
+Adju
+461401	Adju
+Adju
+461405	Objc
+Attr
+Coor
+Coor
+Coor
+Attr
+Attr
+461417	Adju
+461420	RgRc
+461422	Adju
+461424	Adju
+461430	Objc
+461435	Attr
+461443	Subj
+461452	Objc
+Coor
+Adju
+461471	Adju
+461473	Adju
+461492	Attr
+461495	Adju
+461501	Attr
+Coor
+Coor
+Adju
+461514	Coor
+RgRc
+461517	Adju
+Adju
+Attr
+461526	Subj
+461529	Adju
+461540	Adju
+461545	Adju
+461549	Attr
+461551	Adju
+Attr
+Coor
+461572	RgRc
+Coor
+Objc
+461578	Adju
+461584	Adju
+461589	Adju
+461593	Subj
+Coor
+461600	Adju
+461602	RgRc
+Coor
+Objc
+461609	Attr
+461612	Attr
+Attr
+461625	Adju
+Adju
+461630	Adju
+461634	Adju
+461643	Adju
+461646	Attr
+461650	ReVo
+461653	Objc
+Coor
+461656	Attr
+Attr
+Coor
+461660	Adju
+Adju
+461663	Cmpl
+461672	Objc
+Adju
+461676	Attr
+Coor
+461679	Objc
+461681	Attr
+461683	Adju
+Adju
+461697	ReVo
+461700	Adju
+461713	Adju
+461719	Attr
+461745	Attr
+461749	ReVo
+Coor
+461762	Attr
+461765	Objc
+Adju
+461769	Attr
+461780	Attr
+461783	Adju
+461792	Attr
+461795	Attr
+461797	Attr
+461806	Attr
+461808	Attr
+461813	Attr
+Coor
+461816	Coor
+461820	Adju
+461823	RgRc
+461826	Attr
+Adju
+461830	Attr
+461837	Attr
+Attr
+461841	Adju
+Attr
+461845	Objc
+461848	Adju
+461850	Objc
+Cmpl
+Attr
+Adju
+461858	Adju
+Adju
+Adju
+461862	Attr
+Resu
+461869	RgRc
+461871	Objc
+Attr
+Adju
+461876	Adju
+461880	Attr
+461882	Adju
+461884	Objc
+461888	Attr
+461892	Adju
+461899	Adju
+461907	Coor
+461910	Attr
+Attr
+461913	Attr
+461915	Attr
+Attr
+461919	Adju
+461922	Adju
+461924	Spec
+461926	Spec
+461929	Attr
+Resu
+Coor
+Coor
+461934	Resu
+Coor
+461941	Resu
+461943	Resu
+461945	Resu
+461947	Adju
+461949	Adju
+Resu
+Coor
+Adju
+461963	Adju
+461965	Attr
+Resu
+Coor
+Coor
+Adju
+461971	Attr
+461985	Resu
+461988	Adju
+461990	Resu
+Coor
+Coor
+461999	Adju
+462001	Attr
+462022	Resu
+462027	Resu
+Coor
+462031	Attr
+462046	Attr
+462048	Attr
+462058	Attr
+Resu
+462062	Attr
+Attr
+462065	Attr
+462067	Attr
+462071	Coor
+Coor
+462077	Attr
+462079	Adju
+462086	Adju
+462091	Attr
+462095	Adju
+Attr
+462099	Attr
+462101	Attr
+462111	Attr
+462113	Attr
+462118	Attr
+462138	Attr
+462143	Resu
+462150	Attr
+Coor
+462157	Resu
+462161	Attr
+462177	Adju
+Attr
+462180	Attr
+Adju
+Attr
+462185	Adju
+Attr
+462191	Attr
+462196	Attr
+Attr
+462199	Attr
+Coor
+462205	Attr
+462209	Adju
+462216	Attr
+462219	Attr
+Attr
+Attr
+Coor
+462232	Attr
+Attr
+Adju
+462236	Adju
+462239	Cmpl
+Adju
+462244	Adju
+462247	Adju
+462253	Attr
+Coor
+Adju
+462257	Attr
+Adju
+Adju
+462261	Adju
+462263	Adju
+462266	Adju
+462271	Attr
+Resu
+462274	Attr
+462277	Adju
+462280	Attr
+Attr
+Adju
+462287	ReVo
+Attr
+Attr
+Attr
+Objc
+Coor
+Coor
+462297	ReVo
+Objc
+Adju
+462301	Attr
+462303	Adju
+Adju
+462308	Attr
+462312	Attr
+462315	Adju
+Attr
+Adju
+462319	Attr
+462321	Adju
+Attr
+462324	Attr
+462328	Objc
+Coor
+Adju
+462335	Adju
+Adju
+Coor
+Adju
+462340	Adju
+Coor
+Coor
+Coor
+Coor
+462348	Attr
+462350	Coor
+462359	Attr
+462361	Attr
+462363	Resu
+462365	Resu
+462367	Resu
+462371	Attr
+Attr
+Adju
+Coor
+Resu
+462379	Attr
+462382	Attr
+Attr
+462385	Attr
+Coor
+462388	Coor
+Coor
+462391	RgRc
+462393	Adju
+Coor
+Objc
+Attr
+462398	Attr
+462400	Attr
+Attr
+462406	Attr
+462411	Attr
+462414	Adju
+462419	Attr
+462421	Attr
+Attr
+Attr
+462427	Attr
+462429	Attr
+462433	Attr
+462435	Adju
+Objc
+462438	Adju
+Adju
+462442	Adju
+Adju
+462445	Adju
+Coor
+462449	Adju
+462451	Attr
+RgRc
+462454	Attr
+462456	Adju
+462459	Adju
+Adju
+Coor
+Attr
+462464	Attr
+Adju
+Adju
+Objc
+Resu
+462471	Adju
+Coor
+462476	Attr
+462479	Attr
+462482	Attr
+Adju
+462486	Attr
+Adju
+Coor
+462492	Adju
+Attr
+462495	Adju
+Adju
+Attr
+Adju
+462500	Adju
+462503	Attr
+462505	Attr
+Adju
+462509	Resu
+Adju
+Adju
+RgRc
+462515	Adju
+Adju
+462519	Coor
+Attr
+Coor
+Coor
+Coor
+462525	Attr
+462527	Attr
+462531	RgRc
+462537	Attr
+462543	Attr
+462547	Adju
+Attr
+462552	Attr
+462557	Attr
+Adju
+462563	Attr
+462568	Attr
+462570	Attr
+Adju
+462573	Attr
+Attr
+Resu
+Attr
+Attr
+Cmpl
+Resu
+462583	Attr
+Attr
+Attr
+Attr
+462588	Attr
+462591	Attr
+462593	Attr
+462596	Attr
+462603	Adju
+462608	RgRc
+462611	Attr
+462613	Attr
+Attr
+462618	Attr
+462620	Adju
+Coor
+462625	Attr
+462628	Attr
+Coor
+462631	Attr
+Adju
+Adju
+462635	Adju
+462638	Attr
+462640	Attr
+462645	Attr
+Attr
+462650	Attr
+462671	Attr
+462674	Adju
+Attr
+462677	Adju
+462683	Attr
+462685	Attr
+462687	Resu
+462694	Attr
+462706	Objc
+462709	Attr
+462711	Attr
+Coor
+462715	Attr
+Coor
+Adju
+462719	Objc
+462721	Adju
+Coor
+Attr
+462730	Attr
+462734	Adju
+Adju
+Adju
+Coor
+462742	Adju
+462757	Objc
+Coor
+462765	Adju
+462770	Attr
+462773	Adju
+462779	Attr
+462786	Attr
+462791	Objc
+462799	Attr
+462807	Attr
+Adju
+Coor
+Coor
+Adju
+Objc
+Coor
+462816	Attr
+Attr
+462821	Adju
+Attr
+Adju
+462826	RgRc
+462830	RgRc
+462833	Objc
+Adju
+Adju
+462838	Adju
+462843	Adju
+462848	RgRc
+Resu
+462851	Attr
+462857	Adju
+462859	Adju
+462861	Resu
+Attr
+462868	Adju
+462871	Resu
+Attr
+462879	Attr
+Adju
+Adju
+462883	Adju
+462885	Adju
+462892	Attr
+462894	Attr
+Attr
+462899	Attr
+Adju
+462902	Attr
+462904	Attr
+Adju
+462907	Attr
+Adju
+462919	Adju
+Adju
+462924	Attr
+462926	Adju
+462932	Objc
+Adju
+Attr
+462936	Objc
+462938	Adju
+462947	Attr
+Resu
+462950	Attr
+462954	Adju
+Adju
+462958	Adju
+Objc
+462966	Attr
+Adju
+Adju
+462970	Adju
+462972	Adju
+462977	Adju
+462981	Adju
+462989	Adju
+462997	Adju
+463000	Attr
+463007	Attr
+463009	Attr
+463012	Adju
+Attr
+463015	Attr
+463017	Attr
+Attr
+463021	Adju
+463025	Adju
+463029	ReVo
+463033	Attr
+463036	Adju
+463038	Attr
+463041	Attr
+463043	Adju
+Attr
+463046	Adju
+463049	Attr
+463051	Cmpl
+463055	Attr
+463074	Adju
+463078	Attr
+463081	Attr
+463085	Attr
+463087	Attr
+Resu
+463091	Attr
+463093	Attr
+Attr
+463101	PrAd
+463104	Attr
+463112	Cmpl
+Coor
+463120	Adju
+Attr
+463125	Adju
+463136	Attr
+463138	Attr
+Adju
+463143	Attr
+463147	Attr
+463152	Adju
+Coor
+463155	Attr
+463164	PrAd
+PrAd
+463168	Attr
+463170	Attr
+463173	Attr
+463177	Attr
+463179	Adju
+463184	PrAd
+463192	Adju
+Coor
+463198	Adju
+463200	Adju
+463202	Resu
+Attr
+463206	Attr
+Attr
+Attr
+463213	Resu
+463216	Coor
+Coor
+463223	Objc
+463230	Objc
+463236	Cmpl
+463240	Adju
+463244	Adju
+463247	Adju
+Attr
+463258	Coor
+Coor
+Coor
+463262	Attr
+Coor
+Adju
+463266	Adju
+Cmpl
+RgRc
+463271	Adju
+463273	Resu
+463276	Objc
+Coor
+Coor
+463280	Adju
+Adju
+Objc
+463285	Objc
+463290	Resu
+Coor
+Coor
+463296	Attr
+463300	Adju
+463302	Attr
+463304	Adju
+Attr
+463307	Attr
+Coor
+463316	Attr
+463318	Attr
+Coor
+Resu
+463322	Attr
+463327	Adju
+463329	Attr
+Adju
+463333	Objc
+463335	RgRc
+Attr
+463340	Attr
+463346	Attr
+463349	Attr
+463351	Adju
+463355	RgRc
+Resu
+463366	Attr
+463369	Adju
+Coor
+463372	Coor
+RgRc
+463377	RgRc
+Resu
+463387	Objc
+463390	Attr
+463392	Resu
+Cmpl
+463402	Adju
+463404	Attr
+463407	Attr
+Adju
+463410	Coor
+463417	Attr
+463420	Adju
+463422	Adju
+463427	Attr
+463430	RgRc
+Attr
+Resu
+463440	Objc
+463442	Attr
+463445	Attr
+463450	Adju
+463453	Cmpl
+Attr
+Attr
+Coor
+463458	Attr
+463460	RgRc
+Resu
+463465	Objc
+463467	Attr
+463469	Adju
+Adju
+Coor
+Coor
+Coor
+Adju
+463477	Objc
+463479	Coor
+Objc
+463482	Coor
+Resu
+463489	Attr
+Adju
+Adju
+Coor
+463496	Attr
+Attr
+463503	Adju
+Adju
+463507	Objc
+463510	Attr
+463512	Attr
+Coor
+Adju
+463516	RgRc
+Resu
+463520	Attr
+463522	Attr
+Adju
+463528	Coor
+463531	Adju
+Objc
+463537	Attr
+Adju
+Objc
+Coor
+Attr
+Adju
+463544	Attr
+Resu
+463548	Adju
+463551	Attr
+Attr
+463560	Attr
+463562	Objc
+463564	RgRc
+463566	Attr
+Adju
+463569	Attr
+Attr
+Resu
+463578	Objc
+RgRc
+463582	Subj
+463588	Attr
+463591	Adju
+Adju
+Attr
+463598	Attr
+463601	Attr
+463605	Adju
+463609	Attr
+463613	Adju
+463618	Attr
+463626	Adju
+463629	Attr
+463632	Adju
+463637	Attr
+463643	Adju
+463665	Coor
+RgRc
+463673	Attr
+463677	Adju
+463682	Adju
+Coor
+463688	Attr
+463694	Attr
+Adju
+463700	ReVo
+463712	Objc
+Coor
+463716	Adju
+463721	Adju
+463724	Attr
+463727	Adju
+463730	Adju
+463738	Adju
+463743	Adju
+463757	Adju
+463760	Attr
+Adju
+Coor
+463764	Coor
+Objc
+463774	Adju
+463776	Adju
+463781	Subj
+Adju
+Coor
+Adju
+Coor
+463794	Attr
+Adju
+463797	Adju
+463800	Adju
+463802	Adju
+463809	Adju
+463816	Attr
+463842	Attr
+Resu
+463854	Attr
+463857	Adju
+463859	ReVo
+463863	Attr
+463876	Adju
+463878	Adju
+463880	Adju
+463888	Attr
+463890	Attr
+Adju
+463910	Adju
+463914	ReVo
+Subj
+Coor
+Coor
+463920	ReVo
+463922	Objc
+Coor
+463927	Attr
+463932	Resu
+463934	Resu
+463947	Adju
+Coor
+463979	Adju
+463981	RgRc
+RgRc
+463984	Adju
+463992	Attr
+463998	Cmpl
+464040	Adju
+464046	Attr
+Coor
+464055	Adju
+464070	Adju
+464079	Objc
+464082	Objc
+464085	Attr
+Attr
+464120	Resu
+Coor
+Resu
+464128	RgRc
+464132	Adju
+464134	Adju
+464145	Objc
+464147	Coor
+464154	RgRc
+464156	Adju
+464164	Attr
+464169	Subj
+Adju
+464172	Adju
+464184	Objc
+464200	Attr
+464204	Adju
+464212	Attr
+464214	Adju
+464227	Objc
+464236	Adju
+464239	Attr
+464251	Adju
+464263	Objc
+464270	Attr
+464275	Objc
+Resu
+464293	Objc
+464303	Attr
+464305	Adju
+464312	Adju
+464314	Adju
+464342	Resu
+464349	Objc
+464359	Attr
+464361	Adju
+464366	Attr
+464371	Cmpl
+464373	PrAd
+Attr
+Coor
+464389	Adju
+464401	Attr
+Attr
+464404	Adju
+464409	Adju
+464415	Attr
+Adju
+Adju
+Attr
+464424	Adju
+464430	Adju
+464434	Adju
+Objc
+Coor
+464440	Attr
+Adju
+464445	Adju
+Objc
+464448	Adju
+Adju
+464451	Adju
+464454	Adju
+Attr
+464457	Attr
+Adju
+464460	Adju
+464465	Adju
+464468	RgRc
+464474	Adju
+Adju
+Objc
+464480	Objc
+Coor
+464484	Attr
+Coor
+464487	Adju
+464489	Objc
+464492	Objc
+464494	Attr
+Adju
+Objc
+Adju
+464499	Adju
+464501	RgRc
+Attr
+464504	Adju
+464511	Adju
+464513	Objc
+Adju
+464523	Objc
+464525	Adju
+464546	Adju
+464557	Adju
+PrAd
+464564	Adju
+464566	Adju
+464571	Attr
+Adju
+Adju
+464580	Objc
+Resu
+464593	Objc
+464596	Attr
+Attr
+464601	Adju
+464609	PrAd
+464638	Adju
+464641	Attr
+Adju
+464650	Adju
+464665	Attr
+Adju
+464670	Adju
+464674	Adju
+464677	Adju
+Objc
+464691	Adju
+Adju
+464702	Attr
+464704	RgRc
+Attr
+Attr
+Resu
+464712	Adju
+464717	Adju
+Objc
+464724	Attr
+Coor
+Resu
+464728	Attr
+464732	Adju
+464734	Cmpl
+464744	Objc
+464746	Attr
+464750	RgRc
+464753	Attr
+464763	Adju
+464767	Adju
+464771	Attr
+Resu
+464780	Adju
+464784	Attr
+464789	Adju
+464792	Attr
+Resu
+464797	Attr
+Adju
+Coor
+464810	ReVo
+464824	ReVo
+464841	ReVo
+464854	Adju
+464856	Spec
+Resu
+464859	Attr
+Resu
+464863	Attr
+464867	Attr
+Resu
+464870	Adju
+464881	Attr
+464884	Objc
+464890	ReVo
+464898	Attr
+464901	Objc
+464922	Adju
+464931	Adju
+464933	PrAd
+464950	Attr
+464954	Attr
+464962	Attr
+464966	Adju
+464977	Adju
+464990	Adju
+465004	Attr
+465024	Objc
+Coor
+465027	Attr
+465029	Attr
+465039	Adju
+465049	Attr
+465055	Attr
+465059	Adju
+465066	Attr
+465076	Adju
+465079	Attr
+465086	Adju
+465103	Adju
+465107	Objc
+Adju
+465114	PrAd
+465119	Adju
+465128	Coor
+465138	Objc
+465140	Attr
+Adju
+465144	Attr
+465150	Adju
+465153	Objc
+465155	Adju
+465159	Objc
+465176	Adju
+465193	Adju
+465195	Adju
+465197	Adju
+465200	Objc
+Resu
+Coor
+465206	Adju
+465220	Adju
+465222	Subj
+465227	Adju
+465243	Attr
+465276	Adju
+465281	Adju
+465285	Adju
+465295	Adju
+465325	Adju
+465327	Adju
+465331	Attr
+465339	Coor
+465367	Adju
+465374	Adju
+465376	Adju
+465382	Cmpl
+465410	Attr
+465416	Attr
+465420	Adju
+465422	Attr
+465430	Adju
+465432	Adju
+465436	Adju
+465440	Adju
+Coor
+465443	Adju
+465446	Objc
+465448	Adju
+Objc
+465451	Adju
+465455	Objc
+465459	Adju
+465482	ReVo
+465496	Objc
+Coor
+465502	Attr
+465505	Adju
+465513	Adju
+Adju
+Coor
+Coor
+Adju
+465524	Adju
+Objc
+465527	Cmpl
+Coor
+465531	Objc
+465533	Adju
+465539	Adju
+465563	Adju
+Adju
+465566	Adju
+Coor
+465570	PrAd
+465573	Attr
+465576	Adju
+465578	Adju
+465608	Adju
+465611	Adju
+465613	Adju
+465616	Attr
+Coor
+465625	Objc
+Attr
+465631	Attr
+Attr
+465636	Objc
+465640	Adju
+465646	Adju
+465655	Subj
+Adju
+465660	ReVo
+Coor
+465675	Attr
+465678	Adju
+465681	ReVo
+465687	Adju
+465694	Objc
+465705	Adju
+465712	Adju
+465717	Adju
+465738	Adju
+465753	Objc
+Adju
+465756	Adju
+465772	Attr
+Attr
+465784	Adju
+465786	Adju
+465801	Adju
+465806	Adju
+465808	Adju
+465812	Adju
+465827	Adju
+465830	Resu
+465841	Adju
+465846	PreC
+465852	Objc
+465854	Objc
+465856	Adju
+Adju
+465864	Attr
+465866	Attr
+465868	Attr
+465873	Adju
+465878	Attr
+Adju
+465887	Attr
+465890	Adju
+Attr
+Adju
+465894	Adju
+Adju
+465909	Attr
+Adju
+465914	Adju
+465924	Adju
+465926	Adju
+465928	Attr
+465931	Objc
+465933	Attr
+465936	ReVo
+Coor
+Attr
+465942	Adju
+465944	RgRc
+RgRc
+465949	Adju
+465954	Adju
+465956	Adju
+465959	Adju
+465961	Coor
+465966	Adju
+465973	Objc
+465976	Adju
+465982	Objc
+465992	PrAd
+466009	Adju
+466012	Adju
+466016	Adju
+Adju
+Adju
+466027	Attr
+466032	RgRc
+Resu
+466039	Adju
+466048	Adju
+Attr
+Adju
+466052	Adju
+466094	Objc
+Coor
+466112	Adju
+466125	Adju
+Attr
+Adju
+466131	Adju
+Adju
+466137	Adju
+466140	Adju
+466146	Adju
+466150	Adju
+466158	Adju
+466170	Adju
+466179	Adju
+466181	Adju
+466184	Adju
+466217	Resu
+466219	Attr
+466252	Adju
+466259	Attr
+Adju
+466263	Cmpl
+466268	Coor
+Adju
+466272	Coor
+Coor
+Resu
+466282	Subj
+Coor
+Coor
+Adju
+466288	RgRc
+466292	Adju
+466298	Attr
+466300	Adju
+466307	Adju
+466320	Objc
+Attr
+466323	Objc
+466325	RgRc
+466344	Adju
+466348	Adju
+466361	RgRc
+Adju
+Attr
+466373	RgRc
+466375	Adju
+466382	Attr
+466386	Cmpl
+466396	Adju
+466400	Attr
+Attr
+Resu
+466404	Adju
+Adju
+466420	Attr
+Resu
+466423	Attr
+Coor
+466426	Adju
+Adju
+Coor
+RgRc
+466432	Adju
+466434	Attr
+466436	Adju
+466438	Attr
+466440	Attr
+Attr
+466443	RgRc
+Resu
+466449	Attr
+466451	Objc
+466456	Attr
+466469	Adju
+466471	Attr
+466473	Attr
+Coor
+Coor
+Coor
+Resu
+466479	Resu
+466481	Adju
+Coor
+466484	Subj
+466487	Adju
+Coor
+466490	RgRc
+466492	Adju
+Attr
+Coor
+466497	Attr
+Attr
+466519	Attr
+466523	Objc
+466530	Adju
+466545	Adju
+466550	Objc
+Attr
+466557	Attr
+Adju
+Attr
+Adju
+Adju
+466563	RgRc
+466573	Adju
+Coor
+466578	Adju
+466580	Attr
+466582	Adju
+Objc
+466587	Attr
+466589	Attr
+466591	Attr
+Coor
+Adju
+RgRc
+466596	Attr
+466600	Attr
+Adju
+466609	Adju
+466611	Attr
+Attr
+466616	RgRc
+Resu
+466621	Attr
+466628	Objc
+466630	Attr
+466642	Attr
+466649	Adju
+466651	RgRc
+Resu
+466658	Objc
+466660	Attr
+466663	RgRc
+Attr
+Resu
+466670	Attr
+466675	ReVo
+466693	Adju
+466703	Adju
+466705	Adju
+466710	Adju
+466724	Objc
+466730	Attr
+466735	Adju
+466739	Objc
+466742	RgRc
+466747	Adju
+466749	Attr
+466751	Adju
+Attr
+Adju
+466761	Adju
+466765	Adju
+466767	Attr
+Attr
+Adju
+466772	Attr
+466783	Attr
+466786	Adju
+466791	Attr
+466794	Attr
+Coor
+Resu
+466802	Resu
+466814	Adju
+466817	Objc
+466819	Attr
+466821	Adju
+Attr
+Attr
+466825	PrAd
+466830	Adju
+466833	RgRc
+Attr
+Coor
+Resu
+466841	Adju
+466845	Objc
+RgRc
+466854	Attr
+466856	RgRc
+Resu
+466863	Objc
+Adju
+466866	Attr
+466872	Resu
+466874	Attr
+Adju
+466886	Attr
+Resu
+466889	RgRc
+466895	Objc
+466897	Attr
+466900	Adju
+Adju
+466903	Adju
+466908	RgRc
+Resu
+466914	Objc
+466916	Attr
+466923	RgRc
+Resu
+466927	Objc
+466929	Attr
+466938	RgRc
+Resu
+466942	Adju
+466946	Objc
+466948	RgRc
+466954	Attr
+Resu
+466957	Adju
+466963	Adju
+466966	Objc
+466969	Attr
+466975	Cmpl
+466981	Adju
+466985	Attr
+466987	Attr
+466995	Adju
+466997	Attr
+467001	RgRc
+Resu
+Adju
+467011	Attr
+467013	Attr
+Resu
+Coor
+467017	Adju
+467021	Adju
+467023	RgRc
+467027	Attr
+467030	Attr
+467032	Attr
+Resu
+467039	Objc
+467041	Attr
+467046	Attr
+Coor
+467057	Adju
+Attr
+Coor
+Coor
+Attr
+Attr
+467064	Attr
+467068	Attr
+467070	Adju
+467072	Attr
+467075	Adju
+467078	Attr
+Coor
+467082	Attr
+467084	Attr
+Attr
+467087	Coor
+Attr
+Attr
+Adju
+467100	Adju
+Objc
+Adju
+467108	Attr
+467112	Adju
+467118	Attr
+467120	Adju
+Adju
+467128	Adju
+467133	Adju
+467135	Attr
+Coor
+467139	Adju
+467141	Adju
+467143	Attr
+467148	Attr
+467151	Objc
+467154	Attr
+467156	Attr
+467167	Attr
+467171	Attr
+Attr
+467175	Adju
+467181	Attr
+Resu
+Coor
+Coor
+467186	Attr
+Adju
+467190	Attr
+467199	Adju
+Resu
+467204	Adju
+467208	Objc
+RgRc
+467214	Attr
+467216	Attr
+467220	Coor
+467224	Attr
+467227	RgRc
+467241	Adju
+Coor
+RgRc
+467249	Adju
+467252	Objc
+467256	Attr
+467258	Attr
+467266	Attr
+467269	Attr
+467274	Attr
+467282	Attr
+Coor
+Coor
+467286	RgRc
+467290	Attr
+Coor
+467297	Cmpl
+467302	Adju
+467310	Attr
+467313	Adju
+467315	Attr
+Adju
+Coor
+467326	Cmpl
+467328	Adju
+467338	Adju
+Coor
+467344	Adju
+467347	Adju
+467352	Attr
+467357	Adju
+467360	Attr
+467363	Adju
+467368	Attr
+Attr
+467376	Attr
+Adju
+467379	Attr
+467381	Attr
+467387	Attr
+Attr
+467395	Attr
+467397	Objc
+467399	Adju
+467401	Adju
+467404	Adju
+467406	Adju
+467408	Attr
+Adju
+467412	Objc
+Adju
+467416	Attr
+Attr
+467426	Attr
+467436	Attr
+Adju
+467442	Coor
+467448	Objc
+467450	Adju
+467452	Objc
+467455	Attr
+467477	Adju
+467482	Coor
+467484	Objc
+Coor
+Coor
+467488	Objc
+467490	Coor
+467494	Attr
+467514	Attr
+467518	Adju
+467535	Adju
+467544	Adju
+467546	ReVo
+Objc
+Coor
+467553	Adju
+467577	Attr
+467582	Adju
+467587	Attr
+467590	Objc
+467593	RgRc
+467595	Attr
+467606	RgRc
+467608	Attr
+467613	RgRc
+Coor
+467618	Attr
+Coor
+467623	Attr
+467628	Coor
+Coor
+Resu
+467634	Adju
+467638	Objc
+Attr
+467642	Attr
+467645	Adju
+467649	Attr
+467657	Adju
+Objc
+Adju
+467661	Attr
+Attr
+467664	Attr
+467666	Adju
+Attr
+467669	Adju
+RgRc
+Objc
+467674	Adju
+Objc
+Attr
+467678	Adju
+467680	Coor
+RgRc
+Attr
+Coor
+Resu
+467687	Attr
+RgRc
+Resu
+467692	Adju
+Coor
+Coor
+467698	Adju
+Coor
+Attr
+467702	Adju
+Attr
+Adju
+Objc
+467707	RgRc
+Attr
+Resu
+467714	Adju
+467718	Objc
+Adju
+467721	Attr
+467723	Attr
+467730	RgRc
+467733	Attr
+Resu
+467738	Adju
+467742	Objc
+467747	Adju
+467750	Attr
+Attr
+467753	Attr
+467755	Attr
+Adju
+Coor
+Adju
+467760	Attr
+467770	Attr
+467772	Attr
+467774	Adju
+467778	Adju
+467781	Adju
+467785	Attr
+Adju
+Adju
+RgRc
+467790	Attr
+467796	Attr
+467799	Attr
+Adju
+Coor
+Adju
+467806	Attr
+Adju
+Resu
+467811	Attr
+Resu
+Coor
+Adju
+Objc
+Adju
+Coor
+Coor
+467825	Attr
+467833	Attr
+467836	Adju
+Coor
+Adju
+Attr
+467842	Cmpl
+Attr
+467847	Attr
+Coor
+467855	Attr
+Attr
+467859	Attr
+467861	Attr
+Attr
+467866	Attr
+Adju
+467869	Attr
+Adju
+Coor
+Attr
+467875	Attr
+Attr
+Attr
+467881	Attr
+Coor
+Attr
+467888	Attr
+Attr
+Attr
+Resu
+467897	Attr
+467903	Attr
+Attr
+467907	Attr
+467910	Attr
+Coor
+Attr
+467917	Attr
+467919	Attr
+Attr
+Adju
+467923	Attr
+467925	Attr
+467929	Adju
+467931	Adju
+467933	Attr
+467936	Attr
+Adju
+Attr
+Attr
+467941	Attr
+467944	Attr
+Attr
+467948	Adju
+467950	Attr
+Attr
+467954	RgRc
+Resu
+467958	Adju
+467960	Adju
+467968	Adju
+467972	RgRc
+467974	Adju
+467983	Adju
+Adju
+467986	Adju
+467988	Adju
+467992	RgRc
+467999	Adju
+Attr
+468002	Adju
+RgRc
+468005	Attr
+468008	Adju
+468010	RgRc
+Resu
+468015	Adju
+468017	RgRc
+468019	Adju
+468023	RgRc
+468030	Adju
+468033	Attr
+Adju
+468040	Spec
+Attr
+Resu
+468046	Adju
+468050	RgRc
+468052	Adju
+468055	Adju
+468065	Attr
+468083	Attr
+468085	Attr
+Attr
+468089	Attr
+Attr
+468093	Attr
+468095	Attr
+Coor
+468098	Attr
+468100	Resu
+Coor
+Coor
+Coor
+468108	Attr
+Attr
+Attr
+Attr
+468118	Attr
+Attr
+Resu
+468122	Objc
+468137	Attr
+468143	Adju
+468146	Attr
+468150	Resu
+468152	Attr
+468181	Resu
+Coor
+468196	Adju
+468198	Attr
+468200	Objc
+468208	Adju
+468210	Adju
+468218	Objc
+468220	Objc
+468259	Subj
+468265	Attr
+468267	Attr
+468269	Attr
+468271	Attr
+468277	Attr
+468280	Coor
+468297	ReVo
+Coor
+468309	Coor
+468333	Adju
+Adju
+468336	Attr
+Adju
+Adju
+Coor
+Adju
+Adju
+Adju
+468344	Attr
+468352	Adju
+Coor
+468361	Adju
+468369	Adju
+468376	Objc
+Coor
+468382	Resu
+468385	ReVo
+Coor
+468388	Adju
+468390	Adju
+468424	Adju
+468433	Coor
+Subj
+Resu
+RgRc
+468439	RgRc
+468453	Adju
+468459	Adju
+468462	Adju
+468466	Objc
+468469	Adju
+468477	Adju
+468485	Subj
+468490	Coor
+468494	Subj
+468515	Subj
+Coor
+Attr
+468525	Subj
+468529	Coor
+468531	Coor
+468534	Subj
+Coor
+468537	Spec
+Coor
+Spec
+Attr
+Coor
+468543	Adju
+Coor
+468565	Attr
+Coor
+Coor
+Coor
+468581	PrAd
+468602	Attr
+468609	Attr
+468635	Attr
+468637	Attr
+468644	Adju
+468646	Attr
+468651	Cmpl
+468653	Adju
+468656	Adju
+468659	Adju
+468666	Adju
+468682	Adju
+Adju
+468694	Adju
+468701	Adju
+Objc
+Coor
+468705	Cmpl
+Objc
+Coor
+Attr
+468710	Attr
+RgRc
+468714	Attr
+Attr
+468723	RgRc
+468726	RgRc
+468729	Attr
+468734	Attr
+Resu
+468748	Adju
+Objc
+468751	Adju
+Adju
+468754	Attr
+Coor
+468782	Adju
+Adju
+468785	RgRc
+468789	Resu
+468793	Coor
+Coor
+468803	Attr
+468806	Attr
+Attr
+468810	Attr
+Coor
+468816	Attr
+468818	Attr
+Coor
+468829	PreC
+468833	Attr
+468835	Resu
+468840	Adju
+468842	Attr
+468851	Adju
+Coor
+468857	Adju
+468870	Cmpl
+468874	Resu
+468876	Attr
+Resu
+468892	Adju
+468898	Adju
+468906	Subj
+468909	Adju
+Coor
+Adju
+Coor
+468915	Attr
+468924	Resu
+468927	Adju
+Coor
+Coor
+468933	Adju
+Coor
+Attr
+468944	PreC
+Resu
+468958	Adju
+468960	Subj
+Coor
+Coor
+468964	Cmpl
+468966	Adju
+468968	Coor
+Objc
+468978	Adju
+468983	Adju
+468989	Attr
+468995	Attr
+469023	Adju
+469057	Attr
+Resu
+469062	Adju
+Attr
+469080	Attr
+Adju
+RgRc
+469100	Objc
+469109	Attr
+469117	Attr
+469121	Adju
+469130	Adju
+469134	Adju
+469138	Adju
+469151	Adju
+469153	Adju
+469160	Attr
+Coor
+Resu
+469178	Adju
+469191	RgRc
+Attr
+469198	Attr
+Coor
+Attr
+469209	Adju
+Adju
+469222	Coor
+469234	Attr
+Coor
+469240	Resu
+Adju
+469244	Attr
+469260	RgRc
+469263	Adju
+469266	Resu
+469269	Adju
+469274	Attr
+469276	Attr
+469285	Attr
+469305	Coor
+469307	Coor
+469323	Resu
+469330	Attr
+Resu
+469355	Subj
+Coor
+Coor
+469359	Attr
+Attr
+469367	Resu
+469387	Adju
+469390	Attr
+469392	Adju
+469413	Cmpl
+Coor
+469416	Cmpl
+469425	Objc
+469428	Attr
+469438	Adju
+469453	Attr
+Attr
+469459	Attr
+Attr
+469462	Adju
+ReVo
+Coor
+Adju
+469469	Adju
+Coor
+Adju
+469473	Adju
+Coor
+469483	Coor
+Attr
+Attr
+469493	Adju
+Coor
+Coor
+Coor
+469516	RgRc
+469518	Subj
+469521	Subj
+Coor
+469533	Objc
+469539	Adju
+469541	Attr
+469545	Attr
+469548	RgRc
+Attr
+469551	Attr
+Coor
+Subj
+469575	Coor
+Attr
+Adju
+469580	RgRc
+Adju
+Coor
+Coor
+Resu
+Adju
+469590	Adju
+469593	Resu
+469598	Attr
+Adju
+469603	Adju
+469615	Adju
+469617	Adju
+469631	Objc
+469644	Coor
+469647	Objc
+ReVo
+469652	ReVo
+469654	ReVo
+469665	Adju
+469680	ReVo
+Coor
+Coor
+Coor
+Coor
+Coor
+469690	Adju
+469702	Objc
+469706	Adju
+469710	Objc
+469712	Coor
+469728	Attr
+469759	Attr
+469763	Attr
+469769	Adju
+469774	Attr
+469781	Adju
+469785	Coor
+469794	Adju
+469796	Attr
+Coor
+469799	Adju
+Coor
+469807	Adju
+469810	Adju
+469817	Attr
+Resu
+469832	Objc
+469834	Objc
+469844	PreC
+Adju
+Coor
+469852	Coor
+Coor
+Coor
+Coor
+Coor
+Adju
+469872	Subj
+469885	Adju
+469909	Subj
+469912	Subj
+469924	Adju
+469936	ReVo
+469940	Attr
+469947	Coor
+Coor
+Coor
+469956	Attr
+469971	Adju
+469974	Adju
+469984	Attr
+469991	Resu
+470001	Resu
+470003	Resu
+470005	Adju
+470011	ReVo
+Coor
+470017	ReVo
+470020	ReVo
+470033	ReVo
+470037	Adju
+Coor
+Coor
+Resu
+470061	Adju
+470066	Attr
+470071	Adju
+470087	Adju
+Coor
+470093	RgRc
+Adju
+470101	Adju
+470115	Subj
+Coor
+470120	Attr
+470125	Attr
+Attr
+Adju
+Coor
+470130	Coor
+Adju
+Coor
+Adju
+470153	Attr
+470158	Cmpl
+470173	Attr
+Attr
+470179	Cmpl
+Resu
+470186	Subj
+470195	Cmpl
+Resu
+Adju
+470201	Subj
+470203	Adju
+470205	Adju
+470208	Adju
+470210	Coor
+470221	Adju
+470245	RgRc
+470264	Attr
+Coor
+Coor
+470268	Adju
+Coor
+470273	Adju
+Coor
+470279	Attr
+470292	Attr
+Adju
+470299	Cmpl
+Adju
+470311	Adju
+470315	Subj
+Adju
+470337	Attr
+Coor
+Coor
+470342	Attr
+470346	Adju
+470352	Attr
+470354	Adju
+Coor
+Coor
+Coor
+Coor
+Coor
+Adju
+Coor
+Adju
+Coor
+470369	Attr
+470372	Adju
+470380	Attr
+470383	Objc
+Resu
+470392	Attr
+Cmpl
+Attr
+470409	Attr
+Attr
+470412	Attr
+Coor
+470415	Adju
+Coor
+470432	Adju
+470434	Adju
+470437	RgRc
+470440	Attr
+470442	RgRc
+Adju
+470449	Adju
+470459	Attr
+470463	Attr
+Attr
+470466	Adju
+470469	RgRc
+Coor
+470481	RgRc
+470483	Attr
+Adju
+470490	Attr
+470499	Subj
+470521	Attr
+470524	Resu
+Adju
+470527	Resu
+470533	Cmpl
+470536	Attr
+470544	Attr
+Coor
+470548	Resu
+470550	Coor
+470555	Cmpl
+470557	Subj
+470559	Subj
+470562	Adju
+Coor
+Coor
+Coor
+470567	Resu
+470569	Adju
+470574	ReVo
+Coor
+470577	ReVo
+470582	Resu
+470592	Attr
+470597	Coor
+Coor
+470608	Adju
+470612	Coor
+470616	Coor
+470619	Adju
+470621	Adju
+Adju
+470625	ReVo
+Coor
+Coor
+Coor
+470639	Resu
+470660	Attr
+470662	Coor
+Attr
+470666	Objc
+470677	Adju
+470679	Adju
+470681	Adju
+470692	Subj
+470694	Attr
+Adju
+Coor
+Attr
+470700	Attr
+Coor
+Coor
+470715	Attr
+470720	Attr
+470723	Adju
+470734	Resu
+470739	Adju
+Coor
+470764	Resu
+470769	Coor
+470784	Resu
+470786	Resu
+470819	Subj
+470838	Attr
+470843	Attr
+470849	Attr
+470853	RgRc
+470857	Attr
+Coor
+470864	Cmpl
+470869	Adju
+470877	Attr
+470880	Adju
+470882	Attr
+Adju
+Coor
+470892	Cmpl
+470894	Adju
+470904	Adju
+470907	Adju
+470910	Adju
+470915	Attr
+470920	Resu
+PreC
+470924	Attr
+470927	Adju
+470932	Attr
+Attr
+470940	Attr
+Adju
+470943	Attr
+470950	Attr
+Attr
+470958	Attr
+470960	Objc
+470962	Adju
+470964	Adju
+470967	Adju
+470969	Adju
+470971	Attr
+Adju
+470975	Objc
+Adju
+470979	Attr
+Attr
+470987	Adju
+470989	Attr
+470999	Attr
+Adju
+471002	ReVo
+Coor
+471011	Objc
+471013	Adju
+471017	Attr
+471039	Adju
+471045	Objc
+Coor
+Coor
+471049	Objc
+471055	Attr
+471075	Attr
+471079	Adju
+471094	Adju
+471105	ReVo
+Objc
+Coor
+471110	Adju
+471121	Attr
+Attr
+471124	Attr
+471126	Attr
+471128	Adju
+Coor
+471158	ReVo
+Coor
+Coor
+Coor
+471166	Coor
+471169	Resu
+Coor
+471172	Adju
+471183	Objc
+Coor
+471187	RgRc
+471189	Attr
+471200	RgRc
+471202	Attr
+471207	RgRc
+Coor
+471212	Attr
+Coor
+471217	Attr
+471221	Coor
+471274	Attr
+471283	Attr
+471285	RgRc
+471291	Attr
+471295	Subj
+471297	Attr
+471299	Adju
+Attr
+471309	Adju
+471365	Attr
+471376	Adju
+471389	Attr
+471391	Attr
+Coor
+Coor
+471397	Resu
+471406	RgRc
+471413	Attr
+Attr
+471419	Coor
+471437	Coor
+471449	Objc
+Coor
+471457	Objc
+471459	Resu
+471465	Objc
+471467	Objc
+471475	Subj
+471481	Attr
+471504	Attr
+471506	Attr
+471514	Resu
+471521	Attr
+Coor
+Coor
+Coor
+471526	Cmpl
+471531	Adju
+Coor
+471539	Resu
+471546	Coor
+471548	Attr
+471569	Attr
+471571	Attr
+471575	Attr
+Coor
+471579	Subj
+Coor
+471583	ReVo
+471585	ReVo
+Adju
+471589	Coor
+Attr
+471592	Coor
+471614	Attr
+471616	Cmpl
+471657	RgRc
+Coor
+471676	Coor
+Attr
+471681	Objc
+471685	Resu
+Coor
+471704	Attr
+471706	Coor
+471721	Adju
+471723	Attr
+471737	Resu
+Attr
+Coor
+471752	Coor
+Attr
+471755	Attr
+471758	Coor
+Attr
+471778	Adju
+471780	Coor
+471790	Resu
+471798	Adju
+471801	Resu
+471819	Adju
+Adju
+Coor
+Coor
+471826	Adju
+471853	Adju
+Coor
+471858	Adju
+471867	Attr
+471873	Coor
+471895	Attr
+Coor
+Coor
+Coor
+471900	Coor
+471902	Coor
+471904	Attr
+471909	Coor
+471912	Coor
+471915	Coor
+471919	Attr
+Adju
+Coor
+Coor
+Coor
+471930	Objc
+Attr
+471933	Resu
+471935	Coor
+471942	Objc
+471945	Attr
+Coor
+Coor
+Coor
+471950	Attr
+471959	Subj
+471964	Resu
+471966	Subj
+471976	Resu
+471996	Attr
+Coor
+Attr
+472006	Attr
+472008	Attr
+Coor
+472012	Adju
+472020	Attr
+Coor
+472027	Subj
+Coor
+Attr
+472053	RgRc
+472061	Coor
+472063	Objc
+472067	Coor
+Attr
+Coor
+Coor
+Coor
+472080	Subj
+Coor
+472102	Attr
+472104	Objc
+Coor
+472108	Coor
+472116	Attr
+472140	Resu
+Coor
+472159	Attr
+Coor
+472171	Resu
+472176	Attr
+Objc
+472179	Attr
+Objc
+472182	Attr
+472184	Cmpl
+472186	Objc
+472190	Coor
+Subj
+Attr
+Coor
+Cmpl
+472199	Adju
+472201	Adju
+472203	Subj
+Coor
+Adju
+472210	Attr
+Coor
+Coor
+Coor
+472224	Adju
+Objc
+Coor
+Coor
+472229	Adju
+472237	Resu
+472250	Objc
+Coor
+Subj
+472254	Coor
+Adju
+472260	Resu
+472265	Coor
+472277	Subj
+472281	Resu
+472289	RgRc
+472293	Attr
+Adju
+Coor
+Attr
+472312	Attr
+472330	Coor
+Attr
+472338	Attr
+Adju
+Coor
+Coor
+Coor
+472345	Adju
+Adju
+Coor
+472350	Adju
+472352	Attr
+Adju
+472357	Attr
+472365	Adju
+Coor
+Adju
+472369	Coor
+472395	Adju
+472411	Resu
+Coor
+472423	Resu
+472426	Resu
+472434	Adju
+472438	Objc
+Attr
+472450	Objc
+472453	Attr
+472455	Attr
+472464	Adju
+472472	Adju
+Adju
+472476	Adju
+472487	Objc
+472495	Attr
+472499	Coor
+Attr
+Coor
+472505	Attr
+Coor
+ReVo
+Coor
+Attr
+472514	Coor
+472516	Attr
+472518	Attr
+472521	Attr
+472550	Coor
+Attr
+472564	Attr
+Coor
+472567	Attr
+Coor
+Adju
+472576	Resu
+Attr
+472580	Attr
+472582	Attr
+472584	Attr
+Coor
+472587	Adju
+Adju
+472591	Adju
+472595	Attr
+Coor
+Coor
+472600	Adju
+Coor
+472603	Objc
+472608	Attr
+ReVo
+Coor
+472612	Subj
+Attr
+472615	Subj
+Attr
+472623	Attr
+472627	Coor
+472629	Attr
+472632	Resu
+Adju
+472635	Attr
+472659	Adju
+472670	Objc
+Attr
+472674	Attr
+Coor
+Coor
+Coor
+472682	Cmpl
+472706	Resu
+472711	Objc
+472713	Objc
+472731	Resu
+472738	Adju
+472745	Attr
+472747	Attr
+472758	Adju
+472776	Attr
+472810	Attr
+Adju
+472813	Adju
+Coor
+472821	Attr
+Coor
+ReVo
+472840	Attr
+Coor
+472843	Adju
+472845	Attr
+472847	Attr
+472861	Adju
+472872	Attr
+472874	Attr
+472877	Adju
+472879	Adju
+472886	Adju
+472894	Adju
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Attr
+472904	Objc
+472906	Objc
+472914	Attr
+472919	Adju
+472921	Adju
+472923	Attr
+472925	Attr
+Attr
+Adju
+Coor
+Adju
+472931	Attr
+Adju
+472937	Attr
+Coor
+Cmpl
+Coor
+472942	Attr
+472944	Attr
+472946	Attr
+Adju
+Coor
+Coor
+RgRc
+Adju
+Coor
+Resu
+Coor
+472958	Attr
+472961	ReVo
+Adju
+Coor
+472968	Cmpl
+472972	Cmpl
+472977	Objc
+472984	Coor
+472987	Attr
+472989	Adju
+472993	Subj
+473001	Attr
+Coor
+473005	Resu
+473011	Adju
+473039	Adju
+473044	Subj
+473052	Attr
+Coor
+473056	Adju
+Coor
+473062	Attr
+473072	PrAd
+473077	Attr
+473079	Objc
+473090	Attr
+Coor
+473101	Coor
+473103	Adju
+473105	Attr
+473107	RgRc
+473112	Attr
+473132	Coor
+Coor
+473142	Coor
+Attr
+473147	Subj
+Coor
+Adju
+473151	Attr
+473155	Adju
+Coor
+Coor
+473163	Adju
+473165	Adju
+473168	Adju
+473181	Subj
+473184	Subj
+473191	Adju
+473198	RgRc
+473219	Resu
+473230	Cmpl
+473233	Subj
+473236	Objc
+473238	Objc
+473243	Resu
+473250	Coor
+473260	Resu
+473263	Attr
+Attr
+473301	Adju
+473310	Adju
+Coor
+473313	Attr
+473316	Adju
+Coor
+473319	Adju
+473323	Coor
+Resu
+473329	Objc
+473349	Resu
+473352	Adju
+473358	Adju
+473360	Adju
+Coor
+473363	Coor
+473365	Coor
+Coor
+Cmpl
+473371	Subj
+Adju
+473381	Subj
+473396	Objc
+Attr
+473402	Attr
+473404	Attr
+473406	Attr
+Attr
+Resu
+473413	Attr
+473417	Attr
+473419	Coor
+473423	Subj
+473435	ReVo
+Coor
+Adju
+Coor
+473442	Attr
+473444	Subj
+473446	Coor
+Subj
+473461	Objc
+473463	Subj
+Attr
+473466	Coor
+Attr
+Coor
+473470	Attr
+Coor
+Adju
+473474	Coor
+PreC
+473490	Resu
+473496	RgRc
+Coor
+Attr
+473501	Coor
+Attr
+473515	Subj
+473517	Subj
+Coor
+Coor
+Adju
+Coor
+473524	Attr
+473526	Adju
+473548	Adju
+Coor
+Adju
+473552	Adju
+473559	Attr
+Adju
+473562	Attr
+473571	Coor
+Adju
+473590	Attr
+473597	Adju
+473599	Adju
+473602	Coor
+Attr
+473605	Attr
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+473621	Attr
+473628	Attr
+Coor
+473633	Coor
+473636	Resu
+Adju
+473644	Attr
+473647	Attr
+Coor
+Coor
+Resu
+Coor
+473654	Coor
+473658	Cmpl
+473674	Subj
+473676	Subj
+473684	Objc
+473691	Attr
+473716	Resu
+473724	Attr
+473731	Subj
+473733	Subj
+473735	Subj
+473737	Subj
+473745	Coor
+473749	Cmpl
+473753	Attr
+Coor
+473761	Attr
+473773	Coor
+473776	Coor
+473783	RgRc
+473795	Attr
+Resu
+473805	Adju
+473810	Subj
+Coor
+Attr
+473817	Resu
+Adju
+Coor
+Coor
+473823	Attr
+Coor
+473828	Adju
+473832	Adju
+Attr
+473835	Resu
+473838	Adju
+473842	Attr
+473847	Attr
+Attr
+Adju
+473851	Adju
+Coor
+473854	Adju
+473862	ReVo
+Objc
+473869	RgRc
+473871	RgRc
+473874	Adju
+473882	Adju
+Coor
+Coor
+Coor
+Coor
+Coor
+473889	Adju
+473896	Adju
+473898	Adju
+473900	Adju
+473911	Adju
+473913	Attr
+Coor
+473919	RgRc
+473923	Resu
+Coor
+473928	Adju
+473930	Adju
+473933	Adju
+473936	Objc
+Attr
+473939	Coor
+473947	Adju
+Coor
+Coor
+Coor
+473952	Attr
+Coor
+Attr
+Coor
+473957	Adju
+473967	Cmpl
+473976	Objc
+473980	Cmpl
+473988	Adju
+Attr
+473999	Subj
+RgRc
+474003	Adju
+474005	Adju
+474009	Coor
+Objc
+Coor
+Subj
+Coor
+474016	Coor
+474020	Attr
+474033	Objc
+474035	Attr
+474037	Attr
+Resu
+474040	Resu
+474053	Attr
+474063	Attr
+474084	Spec
+474086	Adju
+474089	Attr
+474095	Adju
+474098	Adju
+474100	Adju
+474123	Objc
+474126	ReVo
+474134	Objc
+474138	Adju
+474143	Objc
+Attr
+474168	Spec
+Coor
+Coor
+474195	Attr
+474209	Coor
+474230	Objc
+474259	Adju
+474274	Adju
+474280	Adju
+Coor
+Adju
+474308	ReVo
+474310	ReVo
+Coor
+474326	Adju
+474328	Cmpl
+474348	Coor
+474375	Objc
+Coor
+Subj
+Coor
+474384	ReVo
+Resu
+474390	Objc
+474393	Cmpl
+474397	Adju
+474409	RgRc
+474419	Adju
+474424	Attr
+474439	Subj
+474453	Resu
+Coor
+Objc
+474463	Attr
+474471	Coor
+Resu
+Attr
+474476	Adju
+474479	ReVo
+Coor
+Coor
+Coor
+474486	Attr
+474488	Resu
+474498	Attr
+Coor
+474504	Adju
+474508	Attr
+Resu
+474522	Attr
+474539	Adju
+474553	Attr
+474555	Resu
+474557	Resu
+474565	Attr
+474574	Cmpl
+474579	Objc
+474590	Adju
+474596	Objc
+474600	RgRc
+474619	Objc
+474624	Coor
+Resu
+474662	Coor
+Coor
+474665	Resu
+474672	Attr
+Adju
+474679	Attr
+Adju
+474685	Adju
+474693	Attr
+474695	Adju
+474697	Coor
+Coor
+Coor
+Coor
+Coor
+Attr
+474705	Attr
+474708	Adju
+474710	Attr
+474712	Resu
+474715	Attr
+Coor
+474718	Objc
+474720	Adju
+474722	Coor
+Adju
+Coor
+474729	Attr
+Attr
+Attr
+Adju
+474734	Adju
+474741	Objc
+474745	Adju
+Coor
+Adju
+474760	Coor
+RgRc
+474763	Adju
+474768	Attr
+474776	Attr
+474778	Adju
+Coor
+474790	Attr
+Coor
+474800	Objc
+474803	Attr
+Adju
+474806	Attr
+Adju
+Attr
+Coor
+474823	Attr
+Coor
+Coor
+Coor
+Coor
+474832	Attr
+Attr
+474845	Adju
+474850	Adju
+474853	Attr
+474856	RgRc
+474872	Adju
+474879	Objc
+474905	Coor
+474907	Attr
+474932	Coor
+474939	Adju
+474945	Adju
+474948	Objc
+474952	Objc
+474966	Attr
+474973	Coor
+474978	Coor
+Subj
+474985	Attr
+474989	Attr
+474995	Attr
+474997	Adju
+475019	Coor
+Adju
+475033	Coor
+475035	Attr
+475042	Attr
+475046	Attr
+475053	Resu
+475078	Resu
+475090	Attr
+Attr
+Coor
+Coor
+475095	RgRc
+475104	Coor
+475126	Coor
+475132	Resu
+475134	Adju
+475137	Objc
+Coor
+Attr
+Coor
+475147	Attr
+475149	Attr
+475155	Attr
+Adju
+475162	Attr
+Attr
+RgRc
+Adju
+475168	RgRc
+475171	Adju
+Attr
+Spec
+475181	Adju
+475185	RgRc
+Adju
+Coor
+Adju
+475194	Attr
+Adju
+475200	Attr
+Adju
+475203	Adju
+475205	Attr
+475209	Attr
+Cmpl
+475215	Attr
+475221	Adju
+475225	RgRc
+475227	Adju
+475235	Attr
+Attr
+Adju
+Adju
+475243	Attr
+Adju
+475246	Objc
+475251	Attr
+475256	Attr
+Adju
+475272	Coor
+475296	Resu
+Coor
+475299	Adju
+475327	Attr
+Attr
+475332	Adju
+475336	Adju
+Coor
+475340	Adju
+475343	Adju
+475347	Adju
+Coor
+475358	Adju
+475360	Attr
+Attr
+475367	Adju
+475373	Attr
+Adju
+475378	Attr
+475383	Adju
+475387	Attr
+Adju
+Coor
+Coor
+Adju
+Coor
+Resu
+Attr
+475396	Adju
+Resu
+475399	Adju
+475406	Objc
+475411	Attr
+475413	Adju
+475419	Adju
+475445	Objc
+475447	Attr
+475460	Cmpl
+Attr
+475463	Attr
+475465	Coor
+475467	Adju
+Coor
+475472	Resu
+475506	Attr
+475508	Coor
+Attr
+Adju
+475512	Coor
+Attr
+Cmpl
+475521	Adju
+475547	Attr
+Coor
+Coor
+475553	Attr
+475598	Subj
+475601	Subj
+475603	Subj
+475605	Subj
+475609	Adju
+Adju
+Adju
+Coor
+475614	Adju
+475619	Adju
+475626	Objc
+475653	Coor
+Coor
+475656	Attr
+475666	Objc
+475679	Objc
+475682	Attr
+475696	Adju
+Coor
+475702	Adju
+475706	Attr
+Attr
+Attr
+475718	Adju
+475729	Adju
+475732	Adju
+Adju
+Coor
+475743	Attr
+475753	Adju
+475755	Adju
+475757	Attr
+475759	Attr
+475765	Attr
+475768	Attr
+Attr
+475771	Attr
+475781	Adju
+475784	ReVo
+Coor
+475795	Objc
+475798	Adju
+475804	Attr
+475806	Attr
+475811	Attr
+Coor
+Coor
+475816	Objc
+475820	Attr
+475823	Attr
+Coor
+475826	Objc
+475830	Adju
+475835	Coor
+Coor
+475844	Attr
+Coor
+475847	ReVo
+475874	Attr
+Coor
+475879	Attr
+475883	Coor
+475887	Adju
+Coor
+Coor
+475891	Adju
+Coor
+475896	Adju
+Coor
+Coor
+475900	Attr
+Coor
+475904	PrAd
+Coor
+475907	Adju
+Coor
+Coor
+475914	Attr
+Adju
+475922	Attr
+475925	Adju
+Adju
+475928	Adju
+475930	Cmpl
+475934	Resu
+475937	Adju
+Coor
+Coor
+475941	Attr
+475943	Attr
+Adju
+475946	Adju
+Coor
+475949	Objc
+Adju
+475952	Attr
+Adju
+475956	Adju
+475966	Adju
+475977	Adju
+475979	Attr
+Coor
+475982	RgRc
+476002	Objc
+Adju
+Coor
+476013	Adju
+476026	Attr
+476028	Attr
+476034	Attr
+RgRc
+Resu
+476038	Coor
+Coor
+Attr
+Coor
+Coor
+Adju
+Attr
+Coor
+Coor
+476057	RgRc
+476061	Adju
+Attr
+476064	Attr
+476068	Adju
+Attr
+Cmpl
+476072	Spec
+476075	Coor
+476077	Attr
+Attr
+Coor
+476081	Attr
+Adju
+476087	Attr
+476089	Adju
+476092	Attr
+476095	Attr
+Attr
+476119	Attr
+476135	Attr
+476137	Objc
+476154	Attr
+476161	Attr
+476163	Attr
+Resu
+476166	Attr
+Adju
+476171	Attr
+Coor
+476179	Adju
+476182	Attr
+Adju
+Adju
+476193	Attr
+Attr
+Attr
+476203	Coor
+476211	Subj
+476214	Coor
+Attr
+Resu
+Coor
+476249	Attr
+Attr
+476259	Attr
+Coor
+476264	Objc
+476267	Coor
+476270	Attr
+476276	Adju
+476288	Attr
+Attr
+476292	RgRc
+Resu
+476296	Subj
+476300	Coor
+476302	Coor
+Coor
+Coor
+476308	Resu
+Coor
+Coor
+476317	Coor
+Adju
+Adju
+476346	Coor
+ReVo
+Adju
+476355	RgRc
+476357	Attr
+Attr
+476361	Attr
+Adju
+Resu
+476365	Coor
+Attr
+476369	Attr
+476377	Attr
+Coor
+476380	Attr
+Coor
+476385	Attr
+476392	Attr
+476411	Attr
+476418	Attr
+476421	Attr
+Coor
+Attr
+476451	Adju
+Adju
+476462	Attr
+476465	Coor
+Coor
+476482	Adju
+Coor
+476494	Coor
+476501	Objc
+Attr
+Adju
+476508	Attr
+Adju
+Attr
+Adju
+Adju
+476514	Attr
+476516	Subj
+476520	Coor
+476522	Coor
+Attr
+476527	Attr
+476530	Attr
+Coor
+476541	Adju
+476548	Attr
+476552	Adju
+Coor
+476569	Adju
+476576	Attr
+476578	Attr
+476581	Adju
+Coor
+476585	Attr
+476593	Attr
+476595	Adju
+476598	Resu
+Attr
+476607	Adju
+Objc
+476613	Attr
+476615	Resu
+Attr
+476619	Attr
+476621	Adju
+Attr
+476624	Attr
+476626	Attr
+Adju
+476629	Attr
+476635	Adju
+Coor
+476639	Adju
+Adju
+476643	Attr
+476645	Adju
+Coor
+476651	Adju
+476666	Adju
+476672	Attr
+476674	Attr
+476680	Attr
+476684	Attr
+476687	Attr
+476689	Adju
+476694	Attr
+476697	Attr
+476702	Attr
+476711	Attr
+476714	Adju
+Adju
+476720	Attr
+Adju
+476736	Resu
+476752	Adju
+476763	Adju
+476767	Attr
+Adju
+Attr
+Adju
+476775	Attr
+Adju
+476780	Adju
+Attr
+Coor
+Attr
+476790	Attr
+476792	Adju
+Adju
+RgRc
+Adju
+476797	Adju
+476800	Adju
+476808	Adju
+476811	Adju
+476813	Adju
+476815	Adju
+Attr
+476821	Attr
+476823	Resu
+476826	Objc
+476828	Resu
+476830	Adju
+476836	Adju
+476839	Adju
+476848	Attr
+476855	Objc
+476867	Adju
+Adju
+476870	Adju
+476875	Attr
+476877	Adju
+476881	Attr
+476883	Cmpl
+476887	Adju
+476889	Adju
+476893	Attr
+Coor
+Resu
+476897	Adju
+476899	Resu
+Attr
+Adju
+476904	Adju
+Coor
+Coor
+476908	Attr
+Coor
+Resu
+476915	Adju
+476920	Adju
+Attr
+476923	Attr
+Adju
+476930	Adju
+Coor
+Attr
+476934	Adju
+476937	Attr
+Adju
+476949	Attr
+476951	Attr
+Attr
+Adju
+476956	Attr
+476959	RgRc
+476961	Coor
+Coor
+476965	Attr
+Adju
+476968	Adju
+476971	Attr
+Coor
+476974	Attr
+476978	Attr
+476983	Attr
+Adju
+476986	Attr
+476988	Attr
+Resu
+476991	Attr
+Adju
+Resu
+Attr
+476998	Adju
+477003	Adju
+Adju
+477007	Adju
+477013	Adju
+477028	Attr
+Attr
+Adju
+477032	Attr
+Adju
+477035	Attr
+477048	Attr
+477053	Attr
+477055	Attr
+477061	RgRc
+477063	Adju
+477065	Attr
+477068	Coor
+Adju
+477081	Attr
+477084	Attr
+477088	Attr
+Attr
+Attr
+477094	Attr
+477098	Attr
+Adju
+477101	Attr
+Adju
+Coor
+477108	Attr
+477110	Attr
+477114	Attr
+Adju
+477117	Attr
+477119	Coor
+Coor
+Attr
+477123	PreC
+Coor
+477127	Adju
+477129	Adju
+477131	Attr
+Adju
+477134	Adju
+Coor
+477138	Attr
+477140	Adju
+477148	Adju
+477150	Adju
+477159	Attr
+477161	Attr
+477165	Attr
+Adju
+477168	Adju
+477170	Attr
+477176	Attr
+477179	Attr
+477186	Objc
+477188	Attr
+Coor
+477201	Attr
+477203	Resu
+477206	Coor
+477215	Adju
+477217	Attr
+477235	Spec
+477238	Resu
+477265	Attr
+Adju
+477275	Adju
+Coor
+477284	Adju
+477297	Attr
+477318	Resu
+477332	Adju
+477345	Attr
+Adju
+477358	Attr
+477361	Attr
+477366	Adju
+477368	Adju
+477373	Coor
+477375	Adju
+477383	Attr
+477392	Adju
+477400	Attr
+477409	Adju
+Coor
+Coor
+Coor
+Coor
+Resu
+Adju
+Coor
+477423	Attr
+Resu
+477428	Coor
+Attr
+RgRc
+Adju
+477436	Attr
+477443	Adju
+Coor
+Adju
+477452	Attr
+477454	Coor
+477460	Adju
+477465	RgRc
+477476	Attr
+477480	Attr
+Attr
+Adju
+477484	Adju
+477494	Adju
+477500	Adju
+477502	Adju
+477504	Attr
+477506	Adju
+477510	Attr
+Attr
+477516	Objc
+477518	Attr
+477527	Attr
+Attr
+477530	Adju
+477538	Adju
+Adju
+477541	ReVo
+477543	Attr
+Coor
+477547	Attr
+477549	Coor
+Attr
+Adju
+Coor
+Coor
+477556	Attr
+Adju
+477563	RgRc
+Adju
+477567	Adju
+477569	Attr
+477571	Subj
+477579	Adju
+477587	Attr
+477591	Attr
+Coor
+Adju
+477595	Objc
+Coor
+477599	Attr
+Adju
+477602	Attr
+Adju
+477610	Adju
+477612	Attr
+Adju
+477615	Attr
+Adju
+Attr
+Coor
+Adju
+Adju
+477624	Attr
+477627	Attr
+477633	Adju
+Coor
+477636	Attr
+Adju
+477639	Adju
+477641	Adju
+477645	Resu
+Attr
+477648	Attr
+477653	Coor
+Coor
+477659	Resu
+Adju
+477662	Attr
+477664	Attr
+Adju
+477670	Attr
+477672	Attr
+477674	Adju
+Coor
+Attr
+Coor
+477684	Attr
+477686	Attr
+Coor
+477689	Attr
+Attr
+477693	Attr
+477696	Attr
+477698	Attr
+477701	Cmpl
+Coor
+Attr
+477708	Attr
+Attr
+477715	Attr
+477721	PreC
+477725	Attr
+477727	Attr
+Coor
+Coor
+477732	Adju
+477735	Coor
+477737	Adju
+Attr
+477740	Adju
+Coor
+477743	Attr
+477745	Adju
+477747	Objc
+Adju
+477750	Attr
+Resu
+477753	Adju
+477756	Coor
+477758	Adju
+477762	Attr
+Coor
+Adju
+477784	Attr
+Resu
+477787	Objc
+477794	Attr
+Adju
+Attr
+Adju
+Adju
+Adju
+Coor
+Adju
+477803	Attr
+Adju
+Adju
+Coor
+Adju
+477812	Attr
+477815	Adju
+477818	RgRc
+Adju
+477821	Adju
+Attr
+477829	Adju
+Adju
+477832	Attr
+477836	Adju
+Coor
+Attr
+477840	Adju
+477844	Adju
+Adju
+Coor
+477851	Attr
+Attr
+Attr
+Attr
+Coor
+477857	Attr
+Resu
+477861	Attr
+477870	Attr
+Adju
+477878	Attr
+Attr
+477881	Attr
+477887	Adju
+477895	Attr
+477897	RgRc
+Adju
+Coor
+Adju
+Coor
+477905	RgRc
+477907	Adju
+477913	Adju
+477918	Adju
+477921	Attr
+Adju
+477928	Adju
+477932	Adju
+477934	Attr
+477938	Attr
+477943	Attr
+477953	RgRc
+477957	Attr
+477960	Adju
+477963	Attr
+Attr
+477966	Attr
+Adju
+477972	Attr
+477974	Adju
+477977	Cmpl
+477980	Attr
+477982	Attr
+477986	Attr
+477988	RgRc
+Adju
+477992	Attr
+477999	Attr
+Adju
+478002	Adju
+478004	Attr
+Resu
+Coor
+478014	Adju
+478016	Adju
+478020	Adju
+478022	Objc
+478030	Objc
+478035	Adju
+478038	Attr
+478042	Adju
+478045	Attr
+Adju
+Attr
+478050	Attr
+478052	Adju
+478055	Adju
+478058	Adju
+Attr
+Adju
+478064	Attr
+Attr
+478069	Adju
+478071	Adju
+478078	Subj
+478082	Attr
+Coor
+478087	Attr
+478090	Attr
+478092	Attr
+478094	Adju
+478101	Attr
+478104	Adju
+478107	Attr
+Adju
+478110	Attr
+478117	Adju
+478121	Cmpl
+Attr
+Coor
+Adju
+Coor
+478127	Adju
+478129	Adju
+Adju
+478135	Adju
+478162	Attr
+Adju
+478174	Adju
+478177	Attr
+Adju
+478180	Subj
+478183	Coor
+Resu
+478192	Attr
+Adju
+478195	Resu
+478200	Attr
+478203	Attr
+478210	Objc
+478214	Adju
+478216	ReVo
+RgRc
+Objc
+478222	Adju
+478225	Adju
+478238	Attr
+478248	Adju
+478250	Attr
+Cmpl
+Coor
+Attr
+478266	Attr
+478272	Adju
+478276	Adju
+478278	Attr
+478280	Attr
+478294	Objc
+478298	Objc
+478300	Coor
+478304	Adju
+Adju
+478309	Attr
+478313	Attr
+478315	Adju
+478322	Adju
+478335	Adju
+478339	Attr
+Attr
+Attr
+478343	Attr
+478346	Adju
+478351	Adju
+478356	Adju
+478359	Adju
+Adju
+478363	Adju
+478371	Attr
+478378	Attr
+Adju
+Adju
+478382	Attr
+478388	Adju
+478394	Attr
+478396	Adju
+478400	Adju
+478405	Adju
+478409	Attr
+478412	RgRc
+Adju
+478418	Attr
+478420	Attr
+Objc
+Coor
+Attr
+478427	Adju
+478429	Adju
+478434	Resu
+Adju
+Attr
+478440	Attr
+478442	Attr
+Coor
+Objc
+Coor
+478447	Attr
+478451	Attr
+478454	Objc
+Adju
+478458	Adju
+478464	Attr
+478474	Attr
+478477	Attr
+478479	Attr
+Attr
+478482	Adju
+478487	Adju
+478489	Adju
+Attr
+Coor
+478493	Adju
+478497	Adju
+478499	Attr
+478507	Attr
+Attr
+Resu
+PreC
+478513	Attr
+Attr
+Attr
+478518	Adju
+478520	Attr
+Attr
+478524	Adju
+478526	Attr
+478528	Adju
+Attr
+Attr
+478533	Attr
+478539	Attr
+Attr
+Adju
+478543	Attr
+478546	Attr
+Adju
+Adju
+478552	Attr
+478558	Adju
+478560	Attr
+Attr
+478567	Attr
+478572	Adju
+Attr
+478575	Coor
+478577	Attr
+478583	Attr
+478586	Attr
+Adju
+478594	Attr
+478596	Attr
+478600	Adju
+Coor
+478607	Adju
+Adju
+478611	Attr
+Coor
+Coor
+478620	Adju
+478622	Adju
+478625	Attr
+478627	Attr
+Coor
+478630	Attr
+Adju
+Adju
+478635	Attr
+478638	Resu
+Adju
+478646	Objc
+Objc
+478649	Adju
+478652	RgRc
+478657	RgRc
+478660	Objc
+Attr
+Adju
+Adju
+478665	Adju
+Adju
+Attr
+478669	Attr
+478672	Adju
+478674	Adju
+478676	Adju
+Adju
+Coor
+478680	Adju
+478682	Attr
+Attr
+Adju
+Attr
+478690	Adju
+478693	Attr
+478699	Attr
+478703	Objc
+478705	Coor
+Objc
+Coor
+Objc
+478713	Adju
+478716	Objc
+478719	Attr
+Attr
+Coor
+Adju
+478725	Attr
+478728	Attr
+Adju
+Adju
+Adju
+Adju
+Attr
+478736	Adju
+478738	Attr
+478741	Adju
+Coor
+478746	Coor
+478750	Adju
+Adju
+Adju
+Adju
+Attr
+Adju
+Adju
+Coor
+478759	Attr
+478763	Attr
+478767	Coor
+478769	Attr
+Adju
+Adju
+478778	Cmpl
+Adju
+478781	Attr
+Adju
+Coor
+Attr
+Adju
+Adju
+478790	Attr
+Objc
+Attr
+Attr
+Adju
+478796	Attr
+Resu
+478799	Attr
+Adju
+Coor
+Adju
+478807	Adju
+Coor
+478812	Coor
+478814	Adju
+Coor
+478817	Attr
+Adju
+478820	Attr
+Resu
+Coor
+478824	Cmpl
+Attr
+478828	Coor
+Coor
+478835	Attr
+478837	Adju
+478839	Resu
+Coor
+Adju
+478843	Attr
+Adju
+Coor
+478850	Attr
+478854	Attr
+Attr
+478860	Attr
+Adju
+478864	Attr
+Adju
+Objc
+478871	Objc
+478874	Adju
+478876	Attr
+Adju
+Adju
+478889	Objc
+478892	Objc
+478899	Attr
+478902	Attr
+Attr
+478913	Objc
+Coor
+478932	Coor
+478941	Adju
+478956	Attr
+Adju
+Adju
+479005	Coor
+479024	Attr
+479039	Attr
+Adju
+Adju
+479046	ReVo
+479069	Resu
+479081	Adju
+479088	Adju
+479092	Adju
+479094	Subj
+479096	Subj
+479111	Adju
+479121	Adju
+479125	Coor
+479144	Objc
+479165	Objc
+479188	Objc
+Coor
+479193	RgRc
+479200	Attr
+479218	Subj
+479221	Subj
+479238	Resu
+479264	Attr
+479269	Adju
+479274	Resu
+479281	Adju
+479285	RgRc
+479301	Subj
+Spec
+479305	Attr
+479310	Objc
+Coor
+479322	Coor
+479328	RgRc
+Coor
+479332	Coor
+479341	Attr
+479343	Attr
+Attr
+479347	Adju
+479350	Resu
+479357	Cmpl
+479360	Objc
+479364	Adju
+479375	Attr
+Resu
+479387	Adju
+479394	Attr
+479405	Coor
+479409	Adju
+479415	Attr
+479420	Adju
+479428	Attr
+479450	Resu
+479463	Adju
+479486	Adju
+479488	RgRc
+479501	Adju
+479506	Adju
+479508	Coor
+Adju
+479513	Resu
+479515	Resu
+479519	Adju
+479529	Cmpl
+479531	Resu
+479536	RgRc
+479552	Resu
+479563	Adju
+479570	RgRc
+479580	RgRc
+479590	Objc
+479598	Coor
+479604	Attr
+479618	Coor
+479626	Attr
+479634	Objc
+479636	Objc
+479640	Attr
+479642	Attr
+479644	Attr
+479658	Subj
+479672	Attr
+479684	Adju
+479694	Adju
+479696	Coor
+479703	Objc
+479715	RgRc
+479728	Coor
+Resu
+479743	Attr
+479748	Attr
+479765	Adju
+479767	Adju
+479774	Adju
+479776	Adju
+Adju
+Objc
+Coor
+Coor
+Coor
+479785	RgRc
+479789	Coor
+479807	Adju
+479815	Adju
+479832	Adju
+479835	Attr
+479846	RgRc
+479850	Adju
+479853	ReVo
+Coor
+479892	Attr
+Adju
+Adju
+479897	Attr
+Attr
+479905	ReVo
+Adju
+Adju
+479910	Adju
+Adju
+479917	Attr
+479921	Adju
+479925	Objc
+RgRc
+479928	Adju
+479931	Adju
+479942	Attr
+479959	Attr
+479963	Attr
+479965	Attr
+Attr
+479969	Attr
+Attr
+479973	Attr
+479975	Attr
+Coor
+479978	Attr
+Attr
+Resu
+479982	Resu
+Coor
+Coor
+Coor
+479995	Attr
+Attr
+Attr
+Attr
+480005	Attr
+480015	Attr
+480019	Resu
+480046	Adju
+480048	Adju
+Adju
+480058	Attr
+480061	Adju
+Cmpl
+Adju
+480066	Adju
+480069	Attr
+480084	Adju
+480086	Adju
+480095	Cmpl
+Adju
+480099	Adju
+480102	Adju
+480105	Adju
+480107	Adju
+480110	Attr
+480112	Adju
+480116	Adju
+480118	Adju
+480121	Attr
+Adju
+480125	Attr
+480135	Attr
+Resu
+480144	ReVo
+480147	Adju
+480153	Attr
+Attr
+480164	Resu
+Objc
+480182	Objc
+480186	Objc
+480197	Objc
+ReVo
+480206	ReVo
+480208	Attr
+480213	ReVo
+480219	Attr
+480223	Adju
+480225	Adju
+480227	Resu
+480236	ReVo
+Attr
+Coor
+480244	Adju
+Coor
+480250	Attr
+Adju
+480259	Attr
+480265	Adju
+480267	ReVo
+480270	Adju
+480272	Coor
+Coor
+Adju
+Adju
+480279	Resu
+Coor
+480284	Adju
+Coor
+Coor
+480290	Attr
+480293	Resu
+Adju
+Coor
+480307	Attr
+480317	Resu
+Coor
+480323	Attr
+480326	Adju
+480329	Subj
+480354	Attr
+480361	Resu
+480367	Adju
+480373	Attr
+480375	Attr
+480379	Attr
+480382	Resu
+480384	Resu
+480387	Attr
+480408	Resu
+480413	Adju
+480430	Attr
+480433	Resu
+480437	Attr
+480441	Attr
+480448	Objc
+Coor
+480471	Objc
+Adju
+480474	Attr
+480476	Attr
+Adju
+480480	Attr
+Coor
+Adju
+480491	Adju
+480493	ReVo
+480497	ReVo
+480519	Adju
+Adju
+480522	Attr
+Adju
+Attr
+480526	Attr
+480528	Attr
+480530	Objc
+480532	Adju
+480538	Adju
+480544	Objc
+Adju
+480547	RgRc
+480551	Objc
+480553	Adju
+480568	Objc
+480571	Resu
+480580	Attr
+Coor
+480591	Objc
+480611	Adju
+480613	Coor
+480618	Subj
+480621	Resu
+480625	Adju
+480635	Cmpl
+480640	Resu
+480671	Objc
+480684	Attr
+Attr
+Attr
+480688	Attr
+Attr
+480692	ReVo
+480697	ReVo
+Objc
+480700	Attr
+Adju
+480709	ReVo
+480715	Attr
+480722	Resu
+480727	Objc
+480735	Attr
+480737	Attr
+480739	Attr
+480754	Adju
+Attr
+480758	Adju
+480766	Adju
+480770	Resu
+480773	Attr
+480775	Resu
+480781	Attr
+480783	Attr
+Attr
+480788	Attr
+Coor
+Attr
+480798	Attr
+480801	Attr
+480809	Adju
+480815	ReVo
+Adju
+480825	Resu
+Coor
+480830	Attr
+Adju
+480833	RgRc
+480837	Attr
+480845	Adju
+480851	Adju
+480853	Adju
+Adju
+480859	Attr
+480872	Resu
+480874	Adju
+480877	Adju
+480879	Attr
+480881	Adju
+480885	Resu
+Coor
+480893	Attr
+480895	Adju
+480897	Adju
+Adju
+Adju
+480902	Adju
+480908	Adju
+480913	Attr
+480915	Objc
+480920	Resu
+Attr
+Adju
+480926	Attr
+480933	Attr
+Coor
+Attr
+480937	Subj
+480951	Resu
+480957	Attr
+Resu
+480970	Objc
+480975	Objc
+480979	Attr
+480981	Adju
+480987	ReVo
+480989	Adju
+480991	ReVo
+Attr
+481002	Attr
+481008	Attr
+481029	Attr
+481033	Attr
+481035	Attr
+481037	Adju
+481039	ReVo
+Attr
+Adju
+Coor
+Coor
+Adju
+Coor
+481052	Objc
+481063	Adju
+481069	Adju
+481071	ReVo
+481076	Coor
+Attr
+481081	Resu
+481084	Attr
+481087	Adju
+481089	Adju
+481096	RgRc
+481099	Objc
+Adju
+Coor
+481104	Attr
+481106	Objc
+481108	Adju
+481110	ReVo
+481117	RgRc
+481119	Attr
+481122	Objc
+481124	Adju
+481126	ReVo
+Adju
+481141	Objc
+481143	Resu
+481150	Adju
+481155	Attr
+481162	Resu
+481165	Adju
+481167	ReVo
+Attr
+481173	Attr
+481179	Adju
+481181	Subj
+481185	Adju
+481199	Attr
+Coor
+481205	Objc
+481207	Coor
+Adju
+481214	Cmpl
+481223	Attr
+481230	Attr
+481236	Objc
+481238	Coor
+481242	Subj
+481244	Attr
+Coor
+481250	Attr
+481255	PreC
+Coor
+Adju
+Attr
+Coor
+481261	Adju
+Attr
+Coor
+Attr
+Adju
+Attr
+481270	Attr
+481273	Attr
+481278	Objc
+Adju
+481281	Coor
+Adju
+Adju
+481288	Objc
+481292	Adju
+481301	Attr
+Coor
+481304	Resu
+Attr
+Adju
+Attr
+481314	Attr
+Coor
+Coor
+Coor
+481319	Adju
+Resu
+481325	Objc
+481327	Resu
+481340	Adju
+481344	Adju
+481355	Adju
+481374	Adju
+481384	Adju
+481386	Attr
+481391	Attr
+RgRc
+481396	Objc
+RgRc
+481400	Adju
+481403	Attr
+481405	Adju
+481407	Adju
+481413	Adju
+481421	Attr
+Resu
+481427	Objc
+Adju
+481433	Adju
+481435	ReVo
+481442	Resu
+RgRc
+481448	Adju
+Adju
+481451	RgRc
+481454	PrAd
+481495	Attr
+481507	Attr
+481514	Attr
+481520	Attr
+481522	Adju
+481526	Adju
+481528	Spec
+481541	Adju
+481545	Attr
+481553	Adju
+Attr
+Coor
+Coor
+481558	Adju
+481560	Attr
+481564	Adju
+481575	Coor
+481577	Attr
+Resu
+481580	Attr
+481582	RgRc
+RgRc
+481607	Coor
+481609	Resu
+481613	Adju
+481616	Attr
+481618	Attr
+481622	Attr
+481624	Attr
+Attr
+481633	Adju
+481640	Adju
+481644	Attr
+481646	Attr
+Attr
+481651	Adju
+481655	Coor
+RgRc
+Adju
+481663	Attr
+481665	Resu
+481669	Adju
+Attr
+Adju
+481676	Adju
+481681	Objc
+481685	Adju
+RgRc
+481689	Adju
+481691	ReVo
+481696	Attr
+Attr
+481708	Adju
+481716	Adju
+481718	Adju
+Coor
+Adju
+481732	Adju
+481735	Adju
+481738	Objc
+481747	Adju
+Adju
+Adju
+Adju
+481752	Adju
+Adju
+481756	Subj
+481762	Attr
+Attr
+Coor
+481766	Adju
+Coor
+Adju
+481770	Adju
+481778	Attr
+Attr
+Resu
+481785	Attr
+481789	Objc
+481802	Objc
+Coor
+Coor
+Coor
+481809	Adju
+481812	Adju
+481818	Subj
+481820	Resu
+481823	Attr
+Resu
+481843	Adju
+Resu
+Coor
+481848	Attr
+481867	Attr
+481886	Coor
+481888	Objc
+Resu
+481897	Attr
+Resu
+481905	Attr
+Coor
+Coor
+481910	Attr
+481912	Attr
+481916	Adju
+Coor
+481919	Adju
+Coor
+Attr
+481924	Attr
+481926	Attr
+Attr
+Resu
+481935	Adju
+Coor
+Coor
+481939	Attr
+481941	Adju
+Attr
+Coor
+481946	Attr
+481955	Adju
+481963	Attr
+481979	Adju
+481985	Objc
+481992	Adju
+482021	Adju
+482026	Adju
+482029	Adju
+482031	ReVo
+482034	Adju
+482042	ReVo
+482046	RgRc
+482050	Adju
+482053	Adju
+Attr
+Attr
+482064	Adju
+482068	Adju
+Adju
+482071	Adju
+Attr
+Attr
+Adju
+482079	Attr
+Coor
+482082	Adju
+Adju
+Objc
+Attr
+482089	Attr
+Coor
+482093	Adju
+Adju
+482096	Adju
+Attr
+482099	Adju
+Attr
+Attr
+482104	Coor
+Resu
+Coor
+482109	Adju
+482121	Adju
+Objc
+482126	Adju
+Attr
+Coor
+482131	Adju
+Adju
+482135	Adju
+Attr
+482138	Adju
+Coor
+482145	Attr
+482147	Attr
+482149	Adju
+482152	Objc
+482159	Adju
+482161	Attr
+Adju
+482170	Attr
+482178	Adju
+Coor
+482186	Subj
+482189	Adju
+482195	Attr
+Adju
+482199	Adju
+482205	Objc
+Coor
+482210	Objc
+482213	Resu
+Adju
+482222	Resu
+Coor
+Coor
+482226	Adju
+482228	Attr
+482231	Objc
+Adju
+Attr
+Adju
+482236	Attr
+482238	Attr
+482240	Objc
+Adju
+482245	Adju
+482247	ReVo
+482258	Objc
+482266	Adju
+482268	ReVo
+482277	Resu
+482279	Objc
+482298	Adju
+482300	ReVo
+482307	Adju
+482309	Adju
+482314	Adju
+Adju
+482318	Adju
+482336	Attr
+Adju
+Coor
+482352	Adju
+482355	Adju
+482360	Adju
+482362	Adju
+482367	Adju
+Adju
+Adju
+Adju
+Adju
+Adju
+482374	PreC
+482377	Adju
+482380	Adju
+Adju
+Adju
+Adju
+482387	Attr
+482396	Adju
+Subj
+Coor
+482405	Attr
+Coor
+Adju
+Adju
+Adju
+Adju
+Adju
+Attr
+482415	Attr
+Resu
+482425	Adju
+482428	Resu
+482434	Attr
+Adju
+Coor
+Adju
+ReVo
+Attr
+482441	Attr
+482446	Subj
+Coor
+482451	Adju
+Adju
+482459	Adju
+482468	Adju
+482474	Attr
+Coor
+Attr
+482479	Attr
+482487	Objc
+482489	Adju
+482500	Adju
+Adju
+482509	Resu
+482511	Objc
+482513	Adju
+482515	ReVo
+482520	Attr
+482532	Adju
+Coor
+Adju
+482546	Attr
+Coor
+Adju
+482555	Adju
+482563	Resu
+Coor
+482568	Resu
+Coor
+482572	Attr
+482576	Attr
+482580	RgRc
+482586	Attr
+482597	Attr
+482599	Attr
+482602	Objc
+482606	RgRc
+Attr
+Attr
+Coor
+482619	Adju
+482621	Adju
+Attr
+482624	Attr
+Coor
+482627	Adju
+482632	Objc
+482659	Attr
+482661	Attr
+482667	Adju
+Adju
+482675	Adju
+482678	Resu
+Coor
+482687	Coor
+482691	ReVo
+482697	Attr
+482703	Adju
+482706	Attr
+Attr
+482709	Subj
+Coor
+Coor
+Coor
+482723	Adju
+482726	Resu
+482742	Objc
+482744	Adju
+482746	ReVo
+482764	Coor
+Attr
+Coor
+482772	Adju
+Adju
+Adju
+482776	Adju
+482798	Adju
+482808	Adju
+482810	ReVo
+482824	Adju
+482831	Adju
+482836	Attr
+482838	Adju
+482847	Adju
+482850	RgRc
+Adju
+482853	Objc
+482857	RgRc
+482866	Adju
+482868	ReVo
+482875	Adju
+482877	Adju
+482879	Adju
+Resu
+482889	Objc
+482892	Coor
+Coor
+Resu
+482901	Objc
+482905	Resu
+482913	Objc
+482916	Adju
+Coor
+Coor
+Resu
+482931	Coor
+Resu
+482939	Objc
+Adju
+482943	Adju
+482956	Adju
+482966	Attr
+482979	Adju
+482997	Adju
+Coor
+483011	Attr
+Attr
+Attr
+483016	Attr
+Adju
+483020	Attr
+Coor
+Coor
+Resu
+483033	Adju
+483037	Attr
+483040	ReVo
+483046	Adju
+483050	Adju
+483057	Attr
+483059	Adju
+483070	Resu
+483079	Resu
+483082	Cmpl
+483087	Resu
+483089	Resu
+483091	Resu
+483100	Subj
+483103	Attr
+Coor
+Attr
+483120	Adju
+483124	RgRc
+483133	Adju
+483135	ReVo
+483138	Coor
+483152	Adju
+483162	Coor
+483167	Adju
+483169	ReVo
+483179	RgRc
+483185	RgRc
+Adju
+483192	Attr
+483197	Adju
+483206	Adju
+483208	ReVo
+483216	Objc
+Adju
+483224	Attr
+483226	Objc
+483229	Attr
+483232	Attr
+483237	Adju
+RgRc
+483240	Objc
+483243	Adju
+483245	ReVo
+483252	Attr
+Attr
+483266	Objc
+Adju
+Adju
+483272	Adju
+483296	Attr
+483303	Adju
+483306	Adju
+483311	Adju
+483317	Attr
+483326	Attr
+Attr
+483332	Objc
+483334	Adju
+483336	ReVo
+483346	Adju
+483359	Adju
+Coor
+483362	Adju
+483368	Adju
+483388	Adju
+483393	Adju
+483396	Resu
+Coor
+483403	Adju
+483408	Adju
+Adju
+Adju
+Adju
+Adju
+483428	Adju
+483436	Adju
+483438	ReVo
+483442	Coor
+483451	Adju
+483463	Attr
+483486	RgRc
+483493	Adju
+483500	Coor
+483505	Adju
+483507	ReVo
+483510	ReVo
+483528	Adju
+483536	Adju
+483538	Attr
+483541	Adju
+483543	Adju
+483557	Coor
+Coor
+RgRc
+Resu
+Objc
+483569	Adju
+483571	ReVo
+483585	Attr
+Attr
+483589	Attr
+Attr
+483593	Attr
+Attr
+Coor
+483600	Coor
+483609	Attr
+Attr
+Coor
+483617	Attr
+483621	Attr
+483633	Adju
+483635	ReVo
+Coor
+483638	Resu
+483642	PrAd
+483656	Resu
+PrAd
+483666	Resu
+483672	Coor
+Adju
+Resu
+483677	Resu
+Adju
+Coor
+483681	Coor
+483685	Adju
+483694	Adju
+483705	Resu
+RgRc
+483708	Cmpl
+RgRc
+Adju
+483712	Coor
+Coor
+483716	Attr
+Resu
+483719	Adju
+483721	Coor
+Coor
+Coor
+Coor
+Coor
+Adju
+483729	Attr
+Resu
+483736	Resu
+483738	Coor
+Resu
+483741	Adju
+Coor
+483745	Adju
+483750	Adju
+483753	Adju
+483755	Adju
+483759	Adju
+483762	Adju
+483777	Adju
+483783	Subj
+483785	Objc
+Resu
+Adju
+483789	Subj
+483794	Objc
+Adju
+Attr
+483799	Resu
+Attr
+Coor
+483803	Adju
+483806	Objc
+Attr
+Resu
+483816	Cmpl
+483822	Objc
+483824	Adju
+483826	ReVo
+483831	Attr
+483855	Adju
+483866	Adju
+483873	Resu
+Coor
+483876	RgRc
+RgRc
+Resu
+483880	Attr
+483900	Resu
+483913	Resu
+483916	Adju
+483938	Objc
+Adju
+483941	RgRc
+483950	Objc
+Coor
+483958	Adju
+483960	ReVo
+483971	Objc
+483973	Coor
+Resu
+483985	Resu
+483989	Objc
+483992	Resu
+Coor
+483995	Resu
+483999	Attr
+484001	Adju
+484003	Objc
+484005	Attr
+Adju
+484013	Adju
+484016	Adju
+Resu
+484021	Objc
+484024	Coor
+484026	ReVo
+484036	Coor
+484038	Adju
+484042	ReVo
+484044	Attr
+Attr
+Attr
+Attr
+484051	Attr
+Adju
+484063	Attr
+Resu
+484067	Resu
+Coor
+484070	Adju
+484084	Objc
+484089	Adju
+484103	Adju
+484106	Attr
+Coor
+Resu
+484110	Attr
+484116	Attr
+484118	Adju
+484122	Attr
+Attr
+484130	Attr
+Attr
+484133	Attr
+Attr
+484136	Objc
+484138	Adju
+484151	Objc
+Coor
+Coor
+484155	Attr
+484163	Adju
+484166	Attr
+484176	RgRc
+Resu
+Coor
+484180	Adju
+484183	Attr
+484186	Attr
+Objc
+Objc
+Coor
+Objc
+484195	Adju
+484198	Resu
+484212	ReVo
+484215	ReVo
+484220	ReVo
+484230	Objc
+484232	Adju
+484234	Adju
+484238	Adju
+484256	Adju
+484264	Resu
+484278	Objc
+Adju
+Coor
+484286	Objc
+Coor
+484290	Adju
+484301	Adju
+Adju
+484304	Objc
+484307	Attr
+484312	Attr
+484316	Attr
+484325	Attr
+484335	Attr
+Attr
+484348	Objc
+Adju
+484351	Adju
+484353	ReVo
+484362	Attr
+Attr
+484365	Attr
+484370	Attr
+484374	Attr
+Coor
+Attr
+Coor
+484382	Adju
+484392	Adju
+Coor
+Coor
+Attr
+Coor
+Attr
+484400	Adju
+484402	Adju
+Adju
+Coor
+Coor
+484412	Adju
+484414	Attr
+484416	Adju
+484419	Adju
+Adju
+484424	Attr
+Attr
+Adju
+484428	RgRc
+484434	Attr
+Attr
+484444	Attr
+484449	Objc
+484463	Attr
+484470	Objc
+484474	Objc
+Coor
+484480	Attr
+484493	RgRc
+484498	Adju
+484501	RgRc
+484504	Attr
+Coor
+Adju
+484516	Resu
+484521	Attr
+Attr
+484527	Attr
+484530	Attr
+484535	Attr
+Attr
+484538	Objc
+484540	Objc
+Adju
+Coor
+Coor
+Coor
+484553	Attr
+Adju
+Coor
+Adju
+Coor
+Coor
+484560	Objc
+Adju
+Coor
+484565	Adju
+484569	Resu
+Coor
+484582	ReVo
+Coor
+Coor
+RgRc
+484587	Adju
+484589	RgRc
+484599	Attr
+484606	Resu
+Coor
+484618	Resu
+Coor
+484651	Attr
+Coor
+Resu
+484660	Attr
+484716	Adju
+484719	Attr
+484730	Attr
+484735	Attr
+484740	Attr
+484743	Attr
+484745	Attr
+Adju
+484761	Attr
+484797	Attr
+Adju
+484808	Attr
+Coor
+Attr
+484817	Attr
+484826	Attr
+484853	Attr
+484860	Adju
+484866	Attr
+Coor
+484871	Attr
+Attr
+484882	Attr
+Resu
+484885	Attr
+484888	Adju
+484891	Attr
+484893	Resu
+484897	Attr
+484899	Adju
+484902	Attr
+Resu
+Attr
+Attr
+484909	Resu
+484911	Attr
+484915	Cmpl
+484918	Attr
+484932	Adju
+484935	Attr
+484941	Attr
+484943	Attr
+Adju
+Adju
+484947	Attr
+484950	Attr
+484956	Objc
+484961	Attr
+484963	Adju
+484967	Attr
+484976	RgRc
+484997	Resu
+485000	Resu
+485009	RgRc
+Adju
+Coor
+Resu
+Attr
+Attr
+485016	Adju
+485025	Adju
+Adju
+Cmpl
+485043	Attr
+485052	Resu
+Adju
+485063	ReVo
+485066	RgRc
+485072	Adju
+Adju
+Adju
+Coor
+485082	Attr
+485084	Attr
+Adju
+Attr
+485092	Adju
+485094	Coor
+485099	Adju
+Coor
+485102	Attr
+485104	RgRc
+485106	Attr
+Adju
+Resu
+Adju
+485111	Adju
+485115	Adju
+485118	Adju
+485121	Adju
+485125	Coor
+485127	Attr
+485135	Adju
+485138	Attr
+485146	Adju
+485148	Attr
+485151	RgRc
+Adju
+485160	Resu
+485164	Adju
+485167	Adju
+485172	Attr
+Spec
+485178	Attr
+Adju
+485183	Coor
+485187	Resu
+485189	Coor
+485201	Adju
+485207	Attr
+485215	Adju
+485220	Adju
+485239	Attr
+485250	Attr
+485257	Adju
+485260	Adju
+485263	Adju
+Subj
+Adju
+Coor
+Subj
+485269	Attr
+485272	Adju
+485274	Adju
+485276	Coor
+485280	Subj
+485282	Adju
+485285	Adju
+485290	Adju
+485305	Resu
+485307	Adju
+485309	Adju
+Adju
+485312	Attr
+Attr
+485318	Attr
+Coor
+Adju
+Adju
+485326	Coor
+485335	Attr
+485343	Spec
+485347	Coor
+Resu
+485356	Attr
+Adju
+485361	Attr
+485368	Resu
+485378	Attr
+RgRc
+485385	RgRc
+485392	Resu
+485399	Resu
+485404	Attr
+485407	Adju
+485409	Adju
+485413	Adju
+485415	Attr
+485417	Attr
+485427	Coor
+485430	Adju
+485435	Attr
+Attr
+Coor
+485441	Attr
+Resu
+485446	Spec
+485457	Attr
+485462	Attr
+Resu
+485472	Attr
+Coor
+Adju
+Adju
+485477	Coor
+485488	Attr
+Resu
+485502	Subj
+485507	Subj
+485511	Subj
+485515	RgRc
+485517	Resu
+485524	Coor
+485526	Attr
+485553	PreC
+485555	Attr
+485557	RgRc
+485578	Objc
+485591	Attr
+Coor
+485595	Attr
+485614	RgRc
+485637	Objc
+Coor
+Coor
+485644	Adju
+485650	Attr
+485652	Attr
+485656	Attr
+Coor
+Coor
+485668	RgRc
+485672	Objc
+485674	Objc
+485700	Attr
+Coor
+Adju
+485704	Coor
+485735	RgRc
+485746	Adju
+485750	Resu
+485762	Adju
+485774	Objc
+485776	Objc
+485780	Attr
+485803	ReVo
+485806	Coor
+Attr
+485816	Cmpl
+485823	Adju
+485836	Objc
+485842	Objc
+485850	Cmpl
+485853	Coor
+485860	Adju
+Coor
+485873	Coor
+Adju
+485883	Attr
+Coor
+485894	Attr
+485902	Resu
+Adju
+485910	Objc
+485917	Attr
+Attr
+Objc
+Adju
+Adju
+485932	Resu
+485934	Attr
+485943	Attr
+485946	Adju
+485974	ReVo
+485990	Resu
+Coor
+486001	Attr
+486004	Resu
+486010	Adju
+486012	Adju
+486050	Resu
+486058	Coor
+486061	Resu
+Coor
+486073	Resu
+486078	Adju
+486081	Attr
+486083	PreC
+486086	Objc
+486092	Adju
+486105	Adju
+486115	Resu
+486117	Cmpl
+486142	Resu
+Coor
+Adju
+486146	Attr
+Adju
+486156	Adju
+Adju
+Coor
+486180	Objc
+486188	Resu
+486190	Adju
+486199	Coor
+486202	Coor
+486207	Adju
+486209	Coor
+Coor
+486241	Resu
+486243	Resu
+486247	Resu
+Adju
+486254	Resu
+Attr
+486279	Adju
+486286	Attr
+Coor
+486289	Attr
+486296	Resu
+486312	Attr
+486320	Attr
+486365	Subj
+486370	ReVo
+486383	Attr
+486403	Attr
+Coor
+486466	Coor
+486468	Attr
+486474	Coor
+486480	Attr
+486482	Attr
+486488	Adju
+486491	Adju
+486500	Coor
+486507	Coor
+486517	Coor
+Coor
+486520	Objc
+Coor
+Coor
+486537	Adju
+486550	Coor
+486554	Adju
+486560	Adju
+486574	Attr
+Attr
+486577	Adju
+Coor
+486580	Attr
+Adju
+486584	Objc
+Coor
+486598	Adju
+486601	RgRc
+486603	Adju
+486605	Subj
+486607	Attr
+486611	Attr
+Coor
+Coor
+Coor
+Coor
+Coor
+486622	Adju
+Coor
+Coor
+Adju
+486627	Attr
+486650	Adju
+486666	Coor
+486668	Objc
+Attr
+486680	Coor
+Cmpl
+486685	Attr
+486688	Attr
+Attr
+486697	Adju
+486707	Adju
+Adju
+486718	Adju
+Coor
+486724	Adju
+Coor
+Coor
+Coor
+Resu
+486733	Adju
+Adju
+486738	Coor
+486744	Adju
+486753	Adju
+486756	Attr
+486761	Adju
+486763	Attr
+Coor
+486766	Adju
+486770	Attr
+486775	Adju
+486783	Adju
+486786	Adju
+Attr
+486797	Attr
+486799	Coor
+Attr
+Adju
+486831	Objc
+486833	Subj
+486837	Resu
+486842	Resu
+Attr
+486848	RgRc
+Resu
+486858	Attr
+Attr
+Coor
+Coor
+486865	Objc
+Coor
+486875	Adju
+486881	Adju
+486893	Attr
+486895	Adju
+486900	Adju
+486913	Attr
+486921	Adju
+486925	Coor
+Coor
+Objc
+Coor
+Coor
+Resu
+486932	Attr
+486937	Objc
+486942	Attr
+486944	Subj
+486959	Coor
+486961	Coor
+Coor
+Coor
+Coor
+Resu
+Attr
+Coor
+486969	Objc
+486971	Objc
+486974	Coor
+486980	Objc
+Coor
+486983	Coor
+486991	Adju
+487010	Coor
+Adju
+Coor
+Coor
+Coor
+Coor
+487017	Coor
+487024	Adju
+487033	Attr
+487036	Attr
+487038	PreC
+Coor
+Coor
+487048	Coor
+Coor
+Coor
+Coor
+487053	Coor
+Coor
+Coor
+Coor
+487070	Coor
+Adju
+487073	Adju
+487080	PreC
+487090	Coor
+487096	Adju
+Coor
+487100	RgRc
+487104	Adju
+487107	ReVo
+487115	Adju
+487120	ReVo
+487137	Objc
+487142	Adju
+487145	Cmpl
+487151	ReVo
+487156	Adju
+487190	Objc
+487198	Coor
+Adju
+487204	Adju
+Coor
+Coor
+Coor
+Coor
+487214	RgRc
+487232	Coor
+Adju
+487236	Adju
+487239	Attr
+Coor
+487247	PrAd
+487251	Coor
+487271	Attr
+Coor
+Coor
+RgRc
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Resu
+487287	Coor
+487294	Adju
+487297	Attr
+487301	Attr
+487306	Attr
+487308	Attr
+487324	Attr
+487335	Attr
+487337	Coor
+487362	Adju
+487366	RgRc
+RgRc
+Coor
+Coor
+487372	RgRc
+487378	Adju
+487381	Adju
+487385	Adju
+487389	Cmpl
+487405	Attr
+487407	Attr
+487409	Adju
+487412	Adju
+487418	Adju
+487421	Attr
+487424	Adju
+487428	Adju
+487431	Adju
+487433	Attr
+Adju
+487441	Attr
+487447	Adju
+487451	Objc
+487456	Objc
+487464	Attr
+487469	Objc
+Adju
+487475	Coor
+487481	Objc
+487483	Adju
+487486	Coor
+487494	Adju
+487502	Adju
+487516	Adju
+487522	Resu
+487525	Adju
+487528	Subj
+487531	Resu
+Objc
+487538	Adju
+487542	Attr
+487546	Coor
+487548	Adju
+487564	Adju
+487571	Adju
+Attr
+487579	Objc
+487581	Attr
+Adju
+487590	Adju
+487592	Adju
+487594	Objc
+Attr
+Coor
+487609	Adju
+Objc
+487613	Adju
+Adju
+487617	Adju
+487621	Adju
+487626	Adju
+487637	Attr
+Coor
+Attr
+Coor
+487642	Resu
+Attr
+Subj
+Attr
+487647	Attr
+Attr
+487660	Adju
+Coor
+487663	Coor
+487665	Coor
+487667	Coor
+487691	Resu
+487708	PreC
+Coor
+487720	Attr
+Coor
+Adju
+487733	Subj
+Objc
+487743	Cmpl
+487756	Attr
+487764	Attr
+487775	Subj
+Attr
+Coor
+Coor
+487780	Coor
+Coor
+Coor
+Coor
+Adju
+Coor
+487789	Adju
+487791	Attr
+Coor
+487795	Resu
+487799	Adju
+487807	Adju
+487811	Attr
+487819	Adju
+487845	Adju
+487849	Adju
+487853	Coor
+487855	Objc
+487861	Coor
+Resu
+Coor
+487871	Coor
+487879	Attr
+487886	Coor
+487899	Attr
+Adju
+Resu
+Adju
+487906	RgRc
+487914	Resu
+Coor
+487920	Adju
+Coor
+487924	Coor
+Attr
+Coor
+487929	Coor
+Attr
+487932	Coor
+Coor
+487950	Attr
+487952	Objc
+487962	ReVo
+Coor
+487969	ReVo
+Objc
+Coor
+Coor
+Adju
+487975	Coor
+487982	Objc
+Coor
+Adju
+Coor
+Coor
+487990	Coor
+487993	Attr
+487995	Attr
+Coor
+Coor
+487999	Objc
+488007	Objc
+488016	Adju
+488022	Adju
+488024	Attr
+488028	Adju
+488031	Adju
+488035	Resu
+488059	Adju
+Coor
+488065	Attr
+488071	Adju
+Resu
+488076	Coor
+Coor
+Coor
+488081	Attr
+488084	RgRc
+488094	Attr
+Coor
+488104	Attr
+488109	Coor
+488115	Resu
+Coor
+488126	RgRc
+488128	Resu
+Coor
+488135	Objc
+488142	Adju
+Coor
+488145	Subj
+Coor
+488163	Attr
+488168	Adju
+488181	RgRc
+488214	Resu
+Attr
+Coor
+488219	Coor
+488230	Attr
+Coor
+488242	Attr
+488259	Attr
+488261	Attr
+488265	Coor
+488295	Attr
+488299	Attr
+488310	Attr
+488313	Coor
+488333	Attr
+Adju
+Attr
+488343	Attr
+Adju
+488349	Resu
+488352	Resu
+488363	Resu
+488365	Adju
+Resu
+488368	Spec
+ReVo
+Objc
+488372	Coor
+Adju
+Objc
+488377	Attr
+488389	Adju
+488394	Adju
+Objc
+Coor
+488402	Subj
+488416	Attr
+488425	Subj
+Objc
+488428	Coor
+488434	RgRc
+488436	Subj
+Adju
+Adju
+488440	Adju
+488445	Subj
+Coor
+488452	Adju
+488455	Subj
+Coor
+Coor
+Adju
+488466	RgRc
+488470	Coor
+488472	Adju
+488474	Subj
+488487	ReVo
+Coor
+488492	Objc
+488536	Adju
+488539	Attr
+Adju
+Adju
+488549	Adju
+Adju
+RgRc
+488565	Attr
+488576	Coor
+Coor
+Attr
+Coor
+Coor
+Coor
+Coor
+488589	RgRc
+488591	RgRc
+Attr
+488596	Coor
+488604	Attr
+Coor
+488631	Cmpl
+488637	Attr
+Adju
+Coor
+Coor
+Coor
+488644	Attr
+488654	Coor
+488657	Coor
+488667	Attr
+Coor
+488683	Adju
+488690	Attr
+488697	Attr
+Coor
+488704	RgRc
+Coor
+488708	Coor
+488718	Coor
+488734	RgRc
+488741	RgRc
+488743	PreC
+Coor
+Coor
+488748	Adju
+Coor
+488752	Attr
+488755	Adju
+488785	Objc
+488793	Objc
+488795	Coor
+Spec
+488798	Adju
+488801	Adju
+488803	Adju
+488806	Adju
+488808	Adju
+488810	Adju
+488821	Adju
+488824	Adju
+488835	Cmpl
+488842	Attr
+488844	Adju
+488849	Adju
+488855	Adju
+488863	Adju
+488865	Adju
+488867	Attr
+488882	Attr
+Adju
+Coor
+488901	Adju
+488904	Adju
+488924	Resu
+488927	Coor
+Adju
+488932	Adju
+488940	Attr
+488945	Adju
+488947	Adju
+488953	Adju
+488962	Adju
+488971	Attr
+Adju
+488979	Resu
+488981	Resu
+488983	Attr
+Resu
+488988	Adju
+Resu
+488992	Adju
+488996	Attr
+488998	Attr
+489004	Attr
+489006	Objc
+489008	Attr
+489011	PreC
+Adju
+489014	Attr
+489023	ReVo
+Attr
+489026	Attr
+489028	Attr
+489030	Adju
+489034	Attr
+489043	Adju
+489053	Attr
+489057	Attr
+489061	Adju
+489063	Adju
+489065	Attr
+Cmpl
+489068	Adju
+Coor
+Attr
+Adju
+489081	Adju
+Objc
+Coor
+489086	Attr
+489088	Adju
+489092	Adju
+489107	Adju
+Attr
+489110	Subj
+489114	Objc
+489125	Objc
+489132	PrAd
+489134	Adju
+489139	Attr
+489141	Attr
+489146	Cmpl
+Adju
+489159	Adju
+489162	Coor
+489168	Attr
+Cmpl
+489172	Attr
+Resu
+489179	Adju
+489181	Attr
+489183	Attr
+489192	Attr
+489198	Attr
+Adju
+489203	Attr
+489206	Objc
+489212	Adju
+489214	Adju
+489225	Adju
+489229	Objc
+489234	Resu
+Attr
+489242	Attr
+Attr
+489245	Adju
+489247	Objc
+489253	Attr
+489266	Attr
+489268	RgRc
+489270	RgRc
+489274	RgRc
+489279	Attr
+489283	Objc
+489288	Attr
+489294	Attr
+489306	Attr
+489324	Attr
+489330	Adju
+Subj
+489337	Adju
+Adju
+489345	Adju
+489347	Subj
+489350	Adju
+489354	Attr
+489359	Adju
+489361	Adju
+489376	Objc
+489382	Adju
+Adju
+Attr
+Coor
+489387	Adju
+Adju
+489390	Adju
+489392	Adju
+489394	Coor
+489400	Attr
+489402	Attr
+489404	Attr
+Adju
+Coor
+489408	Adju
+489410	Adju
+489413	Adju
+489417	Adju
+489420	Adju
+489422	Adju
+Attr
+489427	Coor
+Resu
+Coor
+489432	Attr
+489436	Adju
+489448	Adju
+489450	Attr
+489452	Adju
+489463	Attr
+Attr
+Attr
+Adju
+489469	Resu
+489472	Adju
+489484	Resu
+489490	Adju
+Adju
+489493	Coor
+Resu
+489496	Adju
+489499	Attr
+489501	Adju
+489504	Adju
+489507	PreC
+489510	Adju
+489516	Attr
+489518	Adju
+489520	Adju
+Coor
+489524	Adju
+Coor
+489528	Attr
+489530	Adju
+489533	Objc
+489540	Attr
+489580	Coor
+489582	Resu
+Attr
+489587	Objc
+489606	Attr
+489631	Attr
+489640	Adju
+489652	Adju
+489675	Attr
+489685	Attr
+Coor
+Coor
+489690	Coor
+489695	Adju
+489702	Objc
+489704	Objc
+489711	Subj
+489714	Subj
+489716	Subj
+Adju
+489720	Adju
+Attr
+489724	Attr
+Objc
+489735	Attr
+489739	Adju
+489751	Attr
+489758	Attr
+Coor
+Coor
+489782	Subj
+489786	Adju
+Attr
+489790	Objc
+489793	Adju
+489806	Attr
+489818	Attr
+489822	Attr
+Adju
+489826	Adju
+Adju
+489829	Adju
+489833	Attr
+489840	ReVo
+489852	Adju
+489854	Adju
+489871	RgRc
+489873	Attr
+489881	Adju
+489888	Attr
+489908	Attr
+Attr
+489922	Attr
+489926	RgRc
+Attr
+Resu
+Adju
+Coor
+489932	Adju
+Adju
+Coor
+489938	Attr
+Attr
+Adju
+489942	Attr
+Adju
+489945	Subj
+489973	Attr
+489985	Attr
+489993	Resu
+489996	Adju
+490020	Adju
+490022	Resu
+490024	Resu
+490045	Adju
+490055	Objc
+Adju
+490079	Adju
+Adju
+490084	Attr
+490087	Attr
+490091	Adju
+Coor
+490096	Attr
+490105	Objc
+490107	Coor
+490122	Attr
+490124	Attr
+490128	RgRc
+490130	PreC
+Adju
+490143	Coor
+Coor
+490183	Subj
+490193	Adju
+490199	Attr
+490202	Attr
+490206	Cmpl
+490208	Attr
+490212	Attr
+490219	Attr
+490222	Attr
+490224	Adju
+490230	Attr
+Coor
+Coor
+490236	Attr
+Attr
+Coor
+490240	RgRc
+490243	Attr
+490249	Coor
+Coor
+Coor
+490254	Subj
+490258	Coor
+490278	Coor
+490281	RgRc
+490283	Adju
+490292	Coor
+Coor
+490302	Attr
+490308	Coor
+490315	Adju
+490323	Coor
+Coor
+490327	Objc
+Coor
+Adju
+490342	RgRc
+490357	ReVo
+Coor
+Coor
+490361	Attr
+Coor
+Coor
+Coor
+Coor
+490370	ReVo
+Coor
+490373	Coor
+Coor
+Coor
+490382	RgRc
+490388	Coor
+490394	ReVo
+Coor
+490402	Coor
+490410	Coor
+Resu
+490420	Coor
+Coor
+490423	Coor
+490427	Attr
+490429	ReVo
+490433	Attr
+490439	Coor
+Objc
+490442	Coor
+Coor
+Coor
+490460	Attr
+490462	Coor
+Attr
+490476	Attr
+490485	ReVo
+Attr
+490488	Adju
+490491	Attr
+490496	Coor
+Coor
+490504	Coor
+490506	ReVo
+490516	Adju
+490520	Coor
+Coor
+Coor
+490525	ReVo
+490533	Coor
+490538	Attr
+490541	Coor
+Coor
+490548	Coor
+490550	Attr
+490552	Attr
+490560	Attr
+490562	Coor
+490570	Objc
+490574	Coor
+490577	Attr
+490579	Coor
+Coor
+490582	PreC
+490587	Resu
+490599	Adju
+490601	Adju
+490614	Coor
+490618	Adju
+490623	Resu
+Coor
+490631	Adju
+490633	Adju
+490641	Coor
+Adju
+490645	Resu
+490648	Resu
+490656	Coor
+Coor
+490665	Coor
+Adju
+Coor
+490670	Attr
+Attr
+490678	Objc
+490680	Coor
+Attr
+Coor
+490686	Attr
+490688	Adju
+490704	Coor
+490718	Adju
+Objc
+Attr
+490733	Objc
+Adju
+490739	ReVo
+490750	Adju
+490754	Subj
+490764	Attr
+Attr
+490771	ReVo
+490775	Attr
+490781	Coor
+Coor
+490784	Coor
+Adju
+Coor
+Coor
+Coor
+490812	RgRc
+Cmpl
+490817	Attr
+Attr
+Attr
+490824	Adju
+490826	Attr
+Adju
+Coor
+Attr
+490838	Attr
+490844	Adju
+490847	Attr
+RgRc
+Coor
+490854	Attr
+490867	Coor
+490908	Coor
+490910	Coor
+Coor
+Coor
+490920	Coor
+490922	Coor
+490924	Coor
+490926	Resu
+490929	RgRc
+490931	Coor
+490933	PreC
+Coor
+Coor
+Coor
+Coor
+Coor
+490947	Adju
+490950	Objc
+490955	Resu
+490957	Resu
+490967	Attr
+490976	Attr
+Coor
+Coor
+490983	Coor
+490999	Attr
+491001	Adju
+491006	Coor
+491008	Coor
+491010	Coor
+491012	Coor
+491014	Coor
+491017	Attr
+Coor
+491020	PreC
+491027	Coor
+491045	Objc
+Coor
+491055	ReVo
+491057	RgRc
+491061	ReVo
+491063	Resu
+491068	Coor
+491074	Coor
+491076	Coor
+491085	Coor
+Coor
+491088	Coor
+491097	ReVo
+Coor
+491100	ReVo
+Coor
+491103	Coor
+491105	Attr
+491118	RgRc
+491126	Coor
+Coor
+Coor
+491135	Attr
+Coor
+491145	Coor
+491147	Coor
+Coor
+Coor
+Coor
+Coor
+491163	ReVo
+491165	ReVo
+491169	Coor
+Coor
+Coor
+Adju
+491178	Subj
+491181	Coor
+491184	Coor
+491188	RgRc
+Coor
+491194	Attr
+491206	Coor
+Resu
+Coor
+Coor
+Coor
+491217	Coor
+491219	Coor
+491222	Subj
+Attr
+Coor
+491228	RgRc
+Coor
+491239	Coor
+491247	Resu
+491258	Subj
+491265	Coor
+491275	Coor
+Coor
+491278	Cmpl
+491284	Attr
+491286	Attr
+491291	PreC
+491303	Coor
+491316	Coor
+Coor
+491323	Coor
+Coor
+Coor
+Coor
+Coor
+491331	Adju
+Coor
+491334	ReVo
+491337	Attr
+Coor
+491349	Adju
+Adju
+Coor
+491360	Attr
+Adju
+Coor
+491364	Coor
+Coor
+491386	Coor
+491393	Adju
+491402	ReVo
+491405	Adju
+491407	Adju
+Coor
+491410	Attr
+Coor
+491461	Coor
+491463	ReVo
+491466	ReVo
+491468	Adju
+491473	Coor
+Coor
+Coor
+491479	ReVo
+491486	Adju
+491493	ReVo
+491498	Coor
+491500	ReVo
+491510	Coor
+Adju
+491513	Coor
+Coor
+491516	Attr
+491522	Objc
+491527	Coor
+Coor
+Coor
+491533	Coor
+491536	Coor
+Coor
+491540	Coor
+Subj
+491546	Coor
+Adju
+Adju
+Coor
+491564	Attr
+491566	Attr
+Coor
+Cmpl
+491576	Adju
+491584	RgRc
+491589	Attr
+Coor
+491594	Coor
+491603	RgRc
+491608	RgRc
+491612	Attr
+491615	Coor
+491618	Adju
+491622	Resu
+491635	Adju
+491637	Coor
+Coor
+Coor
+491647	Coor
+Coor
+Coor
+491655	Attr
+Attr
+491660	Attr
+Attr
+491667	Coor
+Adju
+Coor
+491678	Adju
+Coor
+Coor
+491701	Objc
+491703	Attr
+491715	Attr
+Coor
+Adju
+491720	Cmpl
+491728	Adju
+491742	RgRc
+491751	Adju
+491755	Coor
+Subj
+491758	Coor
+Subj
+491765	Coor
+491767	Attr
+491769	Attr
+491771	Resu
+491777	Attr
+491780	Objc
+491784	Adju
+Resu
+491798	ReVo
+491804	Subj
+Subj
+Coor
+491808	Coor
+491829	Coor
+491831	Subj
+491833	Coor
+491836	Attr
+491844	Adju
+Adju
+491848	Cmpl
+Cmpl
+491852	Attr
+491855	ReVo
+491867	Coor
+491873	Subj
+491876	Objc
+491880	Cmpl
+491882	Coor
+491897	Cmpl
+491899	Attr
+491903	Adju
+491905	Coor
+Resu
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+491917	Objc
+491920	Adju
+Adju
+491926	Coor
+491932	Coor
+Coor
+491939	Coor
+491948	Objc
+Coor
+491957	Coor
+Coor
+Coor
+491968	Objc
+491971	Adju
+491975	Adju
+Adju
+491979	Attr
+Coor
+491988	Coor
+491991	Attr
+491998	Adju
+492000	ReVo
+Coor
+492003	Coor
+492007	Coor
+492014	Coor
+492019	ReVo
+492024	Resu
+492028	Subj
+492030	Subj
+492035	Attr
+492037	Attr
+Coor
+492041	Coor
+492045	Adju
+492048	Coor
+492050	Coor
+492054	Subj
+492056	Subj
+Adju
+492067	Cmpl
+492078	Coor
+Resu
+492081	Objc
+492090	Objc
+492095	Resu
+492112	Coor
+492116	Coor
+492132	Attr
+Coor
+492140	Adju
+492147	Cmpl
+492154	ReVo
+492162	Coor
+Coor
+Cmpl
+Coor
+Coor
+492169	Cmpl
+492171	ReVo
+492173	Coor
+Subj
+Adju
+492177	Coor
+492179	Subj
+492182	Coor
+RgRc
+492186	Subj
+492195	RgRc
+492210	Coor
+492212	Adju
+492214	Coor
+Coor
+Coor
+492221	Subj
+Adju
+492224	Attr
+Attr
+492231	Objc
+492234	Resu
+Coor
+492241	Attr
+Resu
+492246	Coor
+492248	Adju
+492252	Objc
+Coor
+492256	Coor
+492269	ReVo
+492272	Adju
+492304	Attr
+492310	Coor
+492318	Objc
+492320	Coor
+492322	Coor
+492339	Attr
+492349	Coor
+492351	Coor
+492355	Coor
+492362	Coor
+492364	Coor
+492405	ReVo
+492424	Adju
+Coor
+492427	Coor
+492431	Resu
+492435	Adju
+492445	Attr
+Coor
+492452	Objc
+Coor
+Coor
+492462	ReVo
+492465	Coor
+492469	Attr
+492483	Coor
+492490	Coor
+492493	Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+492502	Resu
+492509	Resu
+492520	Coor
+Adju
+492529	Coor
+Coor
+Coor
+492538	Attr
+Coor
+492547	Objc
+Coor
+Coor
+492551	PreC
+Coor
+492556	Attr
+492558	Attr
+492565	PreC
+492573	Coor
+492575	Coor
+492580	Coor
+492582	Attr
+492592	Adju
+492594	Attr
+492597	Resu
+492611	Coor
+Coor
+492617	Coor
+492625	Adju
+492640	Objc
+492647	Subj
+492650	Resu
+492653	Adju
+492662	Coor
+492665	Objc
+492667	Adju
+Coor
+Adju
+492680	Attr
+492696	ReVo
+492699	Coor
+Coor
+492710	Adju
+Coor
+Coor
+492719	Attr
+492722	Adju
+492735	Attr
+Coor
+Coor
+492753	Cmpl
+Objc
+Attr
+492769	Objc
+Adju
+492776	Adju
+Coor
+492780	ReVo
+492783	ReVo
+492786	Coor
+Coor
+492798	Coor
+492812	Coor
+492819	Objc
+492823	Adju
+492832	Coor
+Coor
+Coor
+Coor
+492837	Coor
+Coor
+Coor
+492841	Attr
+Coor
+492858	Coor
+492876	Adju
+492880	Coor
+Coor
+492884	RgRc
+492902	RgRc
+492904	Objc
+492915	Adju
+492920	Adju
+492925	Coor
+492929	Attr
+492938	Resu
+Coor
+492972	Coor
+492980	Attr
+Attr
+Attr
+492984	ReVo
+492993	RgRc
+493006	Adju
+Coor
+Adju
+493015	Coor
+493017	Coor
+Coor
+493020	Adju
+493023	Adju
+493037	Coor
+Coor
+493047	Attr
+493052	Objc
+493058	Adju
+493064	Coor
+RgRc
+493067	ReVo
+493069	Coor
+493073	Adju
+Adju
+Coor
+Coor
+493078	ReVo
+493089	Adju
+493110	Coor
+493123	Adju
+493125	Attr
+493127	Coor
+493133	Coor
+493140	Adju
+493147	Coor
+493152	Attr
+493154	Adju
+493163	Coor
+493175	Adju
+493182	Attr
+Spec
+Coor
+493188	Adju
+493190	ReVo
+493195	Adju
+493203	Coor
+493205	Coor
+493214	RgRc
+493223	Attr
+Coor
+Adju
+493230	Adju
+493241	RgRc
+493255	ReVo
+493258	Resu
+493260	Subj
+Coor
+493266	Attr
+Coor
+Coor
+493315	Attr
+Coor
+493319	Coor
+Adju
+Coor
+Coor
+Coor
+Coor
+Coor
+493328	Attr
+Coor
+493337	Objc
+493344	Coor
+493346	Attr
+493354	Adju
+493362	Coor
+Resu
+493378	Adju
+493380	Adju
+493388	Cmpl
+493395	Adju
+Coor
+493404	Resu
+493416	Adju
+493422	Attr
+Adju
+493432	Adju
+493442	RgRc
+493447	Coor
+493456	Attr
+493458	Coor
+Coor
+493463	Attr
+493469	Attr
+493473	ReVo
+493476	Spec
+493484	Resu
+493497	Adju
+493502	Subj
+493504	Attr
+Objc
+493508	ReVo
+493511	Subj
+493514	Subj
+493517	Coor
+Coor
+Coor
+493521	Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+493529	Resu
+493532	ReVo
+493555	Cmpl
+493562	Coor
+493564	Adju
+493571	Objc
+Resu
+Coor
+493584	Attr
+Coor
+493591	Coor
+493594	RgRc
+493596	Coor
+Coor
+Coor
+Coor
+Coor
+493603	Adju
+493605	Adju
+493609	Coor
+Subj
+493612	Coor
+493614	Subj
+493617	Coor
+RgRc
+493621	Subj
+493636	Adju
+493638	Objc
+493641	ReVo
+493645	Coor
+Coor
+Coor
+Coor
+493654	Adju
+493657	Coor
+Adju
+493664	ReVo
+493666	ReVo
+493668	Coor
+493670	Subj
+493679	ReVo
+493685	RgRc
+493690	ReVo
+493707	Attr
+493710	Coor
+Subj
+493714	ReVo
+493736	Attr
+493738	Coor
+Coor
+Coor
+Coor
+Coor
+493753	Coor
+493755	Attr
+493764	Resu
+Coor
+493769	Coor
+Coor
+Coor
+493773	Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+493782	Coor
+Coor
+493796	Adju
+493803	Coor
+Coor
+493806	Adju
+493808	Coor
+493810	Coor
+493823	Coor
+RgRc
+493826	Resu
+493828	Adju
+493832	Coor
+493834	Attr
+493836	Attr
+493842	Adju
+493852	Objc
+493855	Coor
+493859	Attr
+493871	Resu
+493881	Attr
+493889	Attr
+493909	Coor
+493911	Coor
+493913	Coor
+Coor
+493916	Coor
+Attr
+Coor
+Coor
+Coor
+493944	Resu
+493949	Adju
+Adju
+493953	Coor
+493957	Attr
+Coor
+493971	Objc
+493985	Coor
+Adju
+493988	Coor
+493990	Objc
+493995	Spec
+493998	Coor
+Coor
+494001	ReVo
+494004	Attr
+494019	Coor
+494030	Objc
+Coor
+Coor
+494035	Attr
+494038	Attr
+Adju
+494041	Coor
+Attr
+Coor
+Coor
+Coor
+Coor
+Coor
+Attr
+Coor
+494053	Adju
+494055	Attr
+494067	Adju
+Adju
+494070	Adju
+494074	Cmpl
+494079	Objc
+494082	Coor
+Coor
+Coor
+494086	Coor
+494090	Adju
+494116	Objc
+Coor
+494126	Adju
+494129	Objc
+Coor
+Attr
+Coor
+494134	Coor
+494140	Attr
+Objc
+494167	Attr
+494183	Attr
+494194	Attr
+494200	Attr
+494203	Attr
+494207	Adju
+494212	ReVo
+494220	Coor
+494226	Attr
+494228	Attr
+494230	Coor
+494242	Attr
+494246	Attr
+494255	ReVo
+494258	ReVo
+494262	ReVo
+494266	ReVo
+494272	ReVo
+494286	Coor
+Coor
+Coor
+494290	ReVo
+494295	Attr
+494297	Attr
+494302	Coor
+Attr
+494308	ReVo
+494322	Coor
+Coor
+Adju
+494326	Attr
+494340	Coor
+494342	Attr
+494350	Coor
+494361	Coor
+494383	ReVo
+494388	Coor
+494396	Coor
+494398	Coor
+494403	Attr
+Coor
+494407	Attr
+494410	ReVo
+494413	Attr
+Attr
+Resu
+Coor
+494425	Objc
+Coor
+494438	Attr
+494445	Attr
+Coor
+Subj
+494453	ReVo
+494458	ReVo
+494463	Objc
+Adju
+494466	Coor
+Coor
+Cmpl
+494470	ReVo
+Attr
+494487	Coor
+494489	Coor
+494495	Objc
+494497	Coor
+494499	Adju
+494517	Attr
+494535	Attr
+494540	Coor
+Coor
+494546	Adju
+494551	Coor
+494568	Coor
+494579	Resu
+494585	Adju
+494594	Adju
+494597	ReVo
+Coor
+494602	Coor
+Coor
+Coor
+Attr
+Coor
+Attr
+Coor
+494634	Coor
+494651	Resu
+494661	Coor
+494665	ReVo
+494669	Adju
+494676	Resu
+494678	Resu
+494686	Attr
+494688	ReVo
+494692	Coor
+494694	Coor
+494701	Attr
+Coor
+494721	Coor
+494723	Coor
+494726	Coor
+Coor
+Coor
+Coor
+494757	Coor
+494760	Objc
+494763	Attr
+Coor
+Coor
+494769	Attr
+494772	Coor
+Attr
+494775	Coor
+494780	ReVo
+494782	Coor
+494790	Coor
+494793	Coor
+Attr
+494800	Coor
+Coor
+Coor
+494804	Coor
+Coor
+Resu
+Coor
+494809	Coor
+494811	Coor
+494814	Cmpl
+494825	RgRc
+RgRc
+494832	Resu
+Subj
+494840	Coor
+Coor
+Coor
+494845	Attr
+494847	Attr
+494849	Attr
+494861	Cmpl
+Coor
+Coor
+494880	Subj
+Coor
+494883	Coor
+494887	Coor
+494893	Adju
+Coor
+Adju
+494900	Resu
+Coor
+494905	Cmpl
+Coor
+494914	Adju
+Objc
+Coor
+494935	Coor
+Coor
+ReVo
+494943	Resu
+Coor
+Coor
+Coor
+494960	Resu
+494962	Resu
+494964	Resu
+Attr
+494969	Attr
+494971	Coor
+Adju
+Coor
+494975	Coor
+494988	Attr
+Attr
+Coor
+495002	Coor
+Attr
+Coor
+Attr
+Coor
+Coor
+495012	Attr
+495014	Coor
+495019	Attr
+Coor
+Coor
+495026	Attr
+495037	Coor
+Coor
+495040	Coor
+495061	RgRc
+495066	Adju
+495078	Coor
+495083	Attr
+495087	Coor
+495092	Coor
+495094	ReVo
+Subj
+495105	Coor
+495125	Adju
+Coor
+495148	Attr
+495150	ReVo
+495152	Coor
+495162	Objc
+Resu
+495171	Coor
+Coor
+495182	Objc
+495188	Resu
+495190	Resu
+495192	Adju
+495194	Resu
+495196	Subj
+Subj
+495200	Adju
+495203	Coor
+495205	ReVo
+495209	RgRc
+495211	RgRc
+495214	Coor
+Coor
+Coor
+495218	Objc
+495224	Attr
+495228	Coor
+495231	Coor
+495240	Adju
+495243	Coor
+495247	Coor
+Coor
+Coor
+495253	Coor
+Adju
+Adju
+Adju
+495258	Adju
+495260	Adju
+495265	ReVo
+495286	Attr
+Coor
+Coor
+Coor
+Coor
+495294	Attr
+495297	Coor
+495303	Adju
+Adju
+Coor
+Adju
+Coor
+495309	Coor
+Spec
+495312	Resu
+495314	Resu
+495321	Adju
+495323	Coor
+495326	Attr
+Adju
+495330	Attr
+495338	ReVo
+495350	Resu
+495356	RgRc
+495360	Adju
+495371	Adju
+495373	Attr
+Adju
+495376	Attr
+495379	Attr
+Attr
+495382	Resu
+495391	Coor
+495401	Attr
+495405	Coor
+495407	Resu
+Adju
+495410	Adju
+495425	Attr
+Coor
+495435	Resu
+495450	Attr
+495453	Coor
+495458	Attr
+Attr
+495463	Adju
+495465	Adju
+Coor
+Coor
+495470	Adju
+495481	RgRc
+Coor
+495489	Adju
+495496	Adju
+Adju
+495500	Attr
+495527	Adju
+495531	Adju
+495545	Coor
+495552	Coor
+495554	RgRc
+Coor
+495559	Adju
+Adju
+Adju
+495569	Adju
+495596	Attr
+495598	Attr
+495602	Objc
+495604	Adju
+Adju
+495611	Adju
+Coor
+Coor
+495625	Coor
+495627	Attr
+495634	Attr
+495648	Adju
+495655	Adju
+Adju
+495664	Attr
+Coor
+495669	Coor
+495674	Adju
+495679	Spec
+495681	Coor
+Resu
+495691	Coor
+495704	Coor
+Resu
+495742	Attr
+495766	Coor
+495788	Coor
+495798	ReVo
+495800	Coor
+Coor
+Coor
+495809	Adju
+495820	RgRc
+495823	Subj
+495825	Subj
+495827	PreC
+495834	Objc
+Coor
+Adju
+495845	Attr
+Coor
+Attr
+495849	Coor
+495855	Coor
+495857	Adju
+495868	Objc
+Coor
+495881	Adju
+495903	Attr
+495911	Adju
+495914	Attr
+Attr
+495924	Attr
+Coor
+495931	Attr
+495933	Attr
+495938	Attr
+495960	Attr
+Adju
+Attr
+Adju
+495966	Adju
+495970	Adju
+495982	Coor
+ReVo
+Coor
+ReVo
+Coor
+ReVo
+495991	Attr
+495995	Coor
+496001	RgRc
+496019	RgRc
+496021	ReVo
+496024	ReVo
+496027	ReVo
+496045	Coor
+496063	Coor
+496068	Coor
+Adju
+496079	Coor
+496093	Coor
+496099	Objc
+496101	Objc
+496103	Objc
+496112	Subj
+Adju
+496115	Subj
+Adju
+496119	Subj
+496123	Subj
+496127	Subj
+496129	Adju
+496139	Coor
+496149	Coor
+496151	Attr
+496155	Attr
+496163	Subj
+496176	Attr
+496178	RgRc
+496183	Cmpl
+496185	Adju
+496187	Adju
+496189	Adju
+496193	Adju
+496216	Attr
+496223	Coor
+496253	Cmpl
+496256	Attr
+496258	Attr
+496275	Attr
+496277	Attr
+496280	Attr
+496289	Attr
+496298	Objc
+496305	Objc
+496309	Adju
+496311	RgRc
+496324	Coor
+496331	Subj
+496343	Objc
+Coor
+496346	PreC
+496354	Coor
+496360	Adju
+496363	Coor
+496367	Attr
+496390	Adju
+496411	Coor
+496414	Objc
+496428	Cmpl
+496443	RgRc
+496460	Adju
+496491	Coor
+496511	Adju
+496521	Objc
+496539	Objc
+496547	Adju
+496571	PreC
+496573	Coor
+496575	Coor
+496586	ReVo
+496592	Attr
+496595	Coor
+496607	Coor
+496615	Objc
+Coor
+496620	Cmpl
+496624	Coor
+Attr
+Attr
+Attr
+496629	Subj
+496641	Attr
+496644	Coor
+Resu
+496651	Coor
+496656	PreC
+496659	PreC
+Adju
+496662	Adju
+Coor
+Coor
+Coor
+496667	Attr
+496673	Subj
+496675	Attr
+Coor
+496678	Resu
+496681	Coor
+496685	Resu
+496688	Adju
+496694	Objc
+496696	Objc
+496700	Subj
+496704	Subj
+496706	Subj
+496714	Attr
+Adju
+Coor
+Adju
+Coor
+496723	Resu
+496725	Attr
+496730	Attr
+496739	Attr
+496754	Coor
+496756	Attr
+Coor
+Attr
+496767	ReVo
+496772	ReVo
+496780	Coor
+496784	Coor
+496793	Coor
+Coor
+496800	Objc
+Coor
+496809	Coor
+496821	Attr
+496824	Coor
+496840	Coor
+Subj
+496843	Attr
+Attr
+496846	Attr
+496852	Attr
+496856	Attr
+496861	Attr
+496869	Objc
+Coor
+496872	RgRc
+496876	Attr
+Coor
+496879	Attr
+Coor
+496882	Coor
+496885	ReVo
+496887	ReVo
+496889	Coor
+496901	RgRc
+496903	ReVo
+496905	ReVo
+496907	ReVo
+496909	ReVo
+496911	Attr
+496920	Coor
+496922	Coor
+496924	Coor
+496926	Coor
+496930	Coor
+496932	Coor
+496934	Coor
+496938	Coor
+496940	Coor
+496942	Coor
+496944	Coor
+496946	Coor
+496948	Coor
+496952	Coor
+496954	Coor
+496958	Attr
+496960	Coor
+496962	Coor
+496967	Resu
+496969	Adju
+496983	Attr
+496987	Attr
+ReVo
+RgRc
+Attr
+496992	RgRc
+Coor
+497000	Coor
+Coor
+Coor
+497009	Coor
+Coor
+497017	ReVo
+497023	ReVo
+497026	Objc
+Coor
+497029	Objc
+Coor
+497039	Coor
+497045	Coor
+497047	Coor
+Coor
+497050	Coor
+Coor
+497057	Coor
+497059	Coor
+497066	Coor
+497070	Attr
+497083	ReVo
+Attr
+Coor
+497088	Coor
+497097	Objc
+497104	Attr
+Coor
+497112	Attr
+Adju
+497124	ReVo
+497131	Resu
+497138	Resu
+497140	Objc
+497145	ReVo
+497148	Adju
+497155	Adju
+Attr
+497164	Coor
+497167	Objc
+Adju
+Coor
+497176	Attr
+497180	Resu
+497182	Adju
+497188	Adju
+497191	Attr
+497201	Coor
+497207	Adju
+497212	ReVo
+Coor
+Coor
+497218	Coor
+Coor
+Coor
+Coor
+497229	Coor
+497237	Attr
+497243	Objc
+497245	Coor
+497255	Attr
+497260	Attr
+497262	ReVo
+497269	ReVo
+Coor
+497281	Attr
+Coor
+497284	ReVo
+Coor
+Attr
+Coor
+497290	Attr
+Coor
+497293	Attr
+Coor
+Attr
+Coor
+Attr
+Coor
+Attr
+Coor
+Coor
+Coor
+Coor
+497305	Attr
+497307	Attr
+497322	Resu
+497334	Adju
+497338	RgRc
+497340	RgRc
+497348	RgRc
+497350	RgRc
+497365	Attr
+497370	RgRc
+Coor
+Attr
+497374	RgRc
+Attr
+Coor
+Coor
+497391	Subj
+497393	Coor
+497396	Attr
+Coor
+497407	Attr
+Coor
+Coor
+Coor
+497412	Attr
+497422	Coor
+Attr
+Coor
+Coor
+497427	Coor
+Coor
+Coor
+497432	Coor
+Coor
+Coor
+497436	Coor
+497440	Resu
+497455	Attr
+497458	Coor
+Coor
+Coor
+Coor
+497464	Coor
+Attr
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+497476	Coor
+Coor
+497488	Coor
+497493	Adju
+497495	Attr
+Coor
+497498	Coor
+497526	Adju
+Coor
+497540	Adju
+497547	Coor
+497551	Attr
+Coor
+497557	RgRc
+497562	RgRc
+497566	RgRc
+497580	Adju
+497588	Adju
+497597	Adju
+497609	Adju
+497625	Adju
+497627	Adju
+497633	Coor
+497637	Attr
+Coor
+497641	Adju
+497646	RgRc
+497656	Adju
+497663	Adju
+497669	Attr
+497671	Adju
+497674	Adju
+Adju
+Coor
+497686	Objc
+497692	Attr
+497694	Attr
+497703	Resu
+497710	Attr
+Cmpl
+497723	Cmpl
+497729	Attr
+497731	Attr
+Attr
+497734	Coor
+Attr
+497744	Attr
+497747	Coor
+497751	Attr
+Coor
+497757	Coor
+Subj
+497768	Objc
+497784	Adju
+497794	Coor
+497809	Coor
+Attr
+497823	Attr
+497828	Objc
+497836	Objc
+497839	Attr
+Coor
+497842	Attr
+Coor
+Adju
+Coor
+Coor
+497848	Coor
+497857	Attr
+497869	Adju
+497875	Objc
+497879	Objc
+Coor
+497882	Adju
+497884	Resu
+497895	Attr
+497902	Adju
+497905	Objc
+497913	Attr
+497916	Adju
+497918	Adju
+497927	Attr
+497930	Attr
+Adju
+497939	Adju
+497953	Objc
+497957	Adju
+497975	Attr
+Attr
+Resu
+497990	Objc
+497992	Adju
+497994	RgRc
+498000	Subj
+498007	Coor
+498021	Adju
+Coor
+Coor
+Coor
+498026	Coor
+Adju
+498068	Attr
+Coor
+498090	Resu
+498094	Objc
+498097	Adju
+498101	Coor
+Attr
+498104	Objc
+Coor
+498107	Coor
+498127	Attr
+498133	Objc
+Subj
+Coor
+498137	Objc
+498164	Attr
+498171	Objc
+498179	Attr
+498182	Attr
+498194	Objc
+498196	Subj
+Coor
+Coor
+498201	Adju
+498207	Subj
+498214	Objc
+Coor
+498217	Coor
+498224	Objc
+498244	Adju
+498268	Objc
+498273	Objc
+498301	Attr
+498330	Adju
+498340	Objc
+Attr
+498378	Attr
+498391	Objc
+498405	Subj
+498407	Adju
+498417	Subj
+498431	Objc
+498433	Attr
+498457	Attr
+498496	Adju
+498502	Adju
+498531	Attr
+498533	Attr
+498565	Attr
+498570	Objc
+Coor
+498579	Objc
+498584	Objc
+498587	Attr
+498595	Attr
+Attr
+498665	ReVo
+498677	Attr
+498683	Adju
+498687	Attr
+498693	Cmpl
+498697	Resu
+498720	Resu
+498769	RgRc
+498782	Objc
+Coor
+498837	Attr
+Coor
+498850	Coor
+498854	Adju
+Objc
+Coor
+498858	Coor
+498895	Adju
+498897	Adju
+498901	Adju
+498912	Attr
+498919	Coor
+498928	Resu
+498941	Attr
+498944	Coor
+498971	Resu
+498992	Attr
+499011	Resu
+499017	Subj
+Coor
+Subj
+499021	Coor
+499023	Coor
+499025	Coor
+499029	Resu
+499034	Coor
+499047	Attr
+Attr
+Coor
+Coor
+Attr
+499054	Coor
+499060	Coor
+499072	Coor
+499074	Coor
+499082	Coor
+499098	Attr
+499100	Objc
+499111	Adju
+499138	Coor
+499173	Adju
+499186	Objc
+499192	Attr
+499207	Coor
+499217	Resu
+499219	Resu
+499221	Attr
+499223	Attr
+499262	Resu
+499280	Objc
+499283	Resu
+499315	Coor
+499322	Adju
+Subj
+499327	Resu
+499332	Resu
+499369	Coor
+Adju
+499374	Resu
+Coor
+499380	Resu
+499382	Subj
+499384	Objc
+499387	RgRc
+Adju
+Coor
+Adju
+Adju
+Coor
+499394	Adju
+Coor
+Coor
+Coor
+499413	Coor
+499423	RgRc
+Resu
+499442	Attr
+499447	Adju
+499449	Subj
+Attr
+Adju
+499456	Attr
+499458	Attr
+Coor
+499463	Adju
+499476	Coor
+Coor
+499507	Objc
+499512	Coor
+499515	Coor
+499524	Coor
+499534	Coor
+499536	Coor
+499538	Coor
+499540	Coor
+499542	Coor
+Coor
+499548	Coor
+499552	Coor
+499554	Coor
+Coor
+499562	Coor
+499564	Coor
+Coor
+Coor
+499568	Coor
+499570	Coor
+499572	Coor
+499578	Coor
+499580	Coor
+499587	Coor
+499593	Coor
+499596	Adju
+Adju
+499604	Adju
+499606	Coor
+Coor
+Coor
+499614	Coor
+499618	Coor
+499620	Coor
+499625	Adju
+499629	Adju
+499631	Adju
+Coor
+499636	Objc
+499644	Cmpl
+499662	Subj
+Coor
+499680	Coor
+499682	Attr
+Coor
+499728	Coor
+499730	Adju
+Coor
+Resu
+Coor
+Adju
+Coor
+499738	Adju
+499745	Attr
+499749	Adju
+499753	Adju
+499767	Adju
+499770	Adju
+Adju
+499781	Objc
+499791	ReVo
+499793	Coor
+Adju
+499797	Objc
+499804	Attr
+Coor
+Coor
+499809	Adju
+499815	Coor
+499821	Coor
+499833	Attr
+Coor
+499842	Coor
+Coor
+Coor
+Adju
+499847	Adju
+Coor
+Coor
+499855	Coor
+Adju
+Coor
+499863	Adju
+499867	Adju
+499876	Objc
+499879	Attr
+499882	PreC
+499886	Coor
+Coor
+499904	Coor
+499915	Attr
+Attr
+Coor
+499939	Coor
+499950	Coor
+499955	Objc
+499957	Coor
+499971	Attr
+499976	Resu
+Coor
+499979	Attr
+499982	Adju
+499992	Objc
+Attr
+500000	Coor
+Attr
+Coor
+500008	Coor
+500028	Coor
+500030	Adju
+500040	Adju
+500042	RgRc
+500051	Cmpl
+Coor
+500056	Adju
+Coor
+Attr
+500060	Objc
+500063	Subj
+500065	Objc
+500074	Attr
+500085	Adju
+500093	Adju
+Coor
+Coor
+Adju
+Coor
+Adju
+500100	Coor
+Coor
+Coor
+500107	Coor
+Adju
+Coor
+500115	Coor
+500117	Coor
+Coor
+500122	Attr
+Coor
+Resu
+500129	Coor
+500131	Coor
+Attr
+500135	Attr
+Coor
+500139	Adju
+Attr
+Attr
+Adju
+Coor
+500148	Resu
+500152	Coor
+500154	Coor
+Resu
+500159	Coor
+500169	Adju
+Coor
+500172	Coor
+500174	Coor
+500177	Coor
+500179	Objc
+Coor
+Coor
+Attr
+Coor
+RgRc
+500195	Attr
+500202	Objc
+500208	Coor
+500211	Coor
+500215	Coor
+Coor
+Objc
+Coor
+500223	Coor
+500225	Spec
+500233	Adju
+500240	Objc
+500245	Coor
+500247	Coor
+500254	Subj
+Resu
+500259	Subj
+500276	Coor
+500279	Coor
+500293	Attr
+500301	Subj
+500304	Coor
+500318	Coor
+500322	Coor
+500324	Coor
+500337	Attr
+500341	Resu
+500351	Adju
+500354	Adju
+500376	Attr
+500391	Attr
+500397	Objc
+Coor
+500410	Coor
+500422	Adju
+500426	Adju
+500429	Adju
+500431	RgRc
+500436	Attr
+500438	Adju
+Coor
+500453	Adju
+Coor
+Coor
+500457	Coor
+500462	Adju
+500472	ReVo
+500485	ReVo
+500489	Adju
+500494	RgRc
+500515	Adju
+Coor
+500518	Coor
+500532	Subj
+500535	ReVo
+Coor
+Adju
+500541	Coor
+500543	Coor
+500550	Adju
+500558	Adju
+500560	Attr
+Attr
+Adju
+Coor
+Adju
+500566	Subj
+Coor
+Coor
+500570	Attr
+Attr
+Coor
+500584	ReVo
+500607	Objc
+500609	Attr
+500611	Attr
+500613	Attr
+500623	Adju
+500625	Subj
+500631	ReVo
+500634	Coor
+500647	Adju
+Adju
+500671	Adju
+500675	Coor
+500704	Adju
+500707	Adju
+500725	Attr
+Coor
+500729	Objc
+500731	ReVo
+500748	ReVo
+Coor
+Adju
+500753	Coor
+500755	Coor
+500761	Attr
+500764	ReVo
+500773	Adju
+500801	ReVo
+500820	Objc
+500827	Spec
+500842	Attr
+500845	Attr
+500847	Attr
+500849	Attr
+Adju
+500852	Coor
+500858	Adju
+500860	Adju
+500867	Adju
+500878	Subj
+500880	RgRc
+500882	Adju
+Adju
+Adju
+500888	Subj
+500891	Resu
+500900	ReVo
+500910	Adju
+500912	Attr
+500916	Attr
+Coor
+500920	Adju
+500936	Adju
+Adju
+500955	Adju
+500957	Objc
+500960	ReVo
+500967	Attr
+501001	Coor
+501012	Adju
+501020	Adju
+501022	Adju
+Coor
+501025	Resu
+Coor
+Coor
+Coor
+Coor
+501031	Coor
+501034	Coor
+Coor
+501041	Subj
+501046	Attr
+Adju
+Coor
+501050	Subj
+501053	Subj
+501065	Resu
+501069	Attr
+501073	Subj
+501076	Subj
+501097	Adju
+Attr
+501102	Resu
+501106	Objc
+Coor
+501117	Subj
+501119	Subj
+501127	Subj
+501130	Subj
+Subj
+501148	Subj
+501151	Resu
+501159	Resu
+501161	PreC
+501164	PreC
+501166	Resu
+501168	PreC
+Coor
+501173	Coor
+Resu
+501182	Resu
+501184	Resu
+501210	Adju
+501220	Adju
+501222	Subj
+501229	Subj
+501232	Subj
+501246	Resu
+501248	Resu
+501250	Subj
+501253	Resu
+501255	Resu
+501257	Subj
+501264	Subj
+501267	Subj
+501277	PreC
+501286	Adju
+501290	Subj
+501293	Subj
+501302	Subj
+501304	Resu
+501306	Subj
+Subj
+501311	Subj
+501315	Adju
+501327	Resu
+501339	Subj
+501342	Resu
+501362	Subj
+501365	Attr
+Subj
+501369	Resu
+501371	Adju
+501379	Subj
+501381	Subj
+501383	Attr
+501385	Subj
+Subj
+501389	Subj
+501396	Subj
+501399	Subj
+501404	Subj
+501419	Subj
+501447	Subj
+501450	Subj
+501462	Adju
+501469	Subj
+501485	Attr
+501490	Subj
+501499	Objc
+501501	Subj
+501517	Coor
+Coor
+501527	Adju
+501532	Resu
+501534	Adju
+501540	Subj
+501542	Subj
+501544	Adju
+501551	Attr
+Subj
+501555	Subj
+501570	Coor
+Adju
+501582	Subj
+501586	Objc
+501592	Resu
+501594	Subj
+501596	PreC
+501598	Subj
+501602	Subj
+Adju
+Subj
+501607	Subj
+501615	Coor
+Coor
+501627	Attr
+501629	Adju
+Subj
+501636	Subj
+501641	Attr
+501643	Attr
+501650	Subj
+501659	RgRc
+Subj
+501663	Subj
+501665	Adju
+501671	Resu
+501674	Adju
+501676	Coor
+Resu
+501679	Adju
+501686	Subj
+Subj
+501691	Subj
+501693	Resu
+501698	Adju
+501702	Coor
+Subj
+501705	Adju
+501707	Subj
+501710	Attr
+Subj
+501717	Cmpl
+Adju
+501723	Subj
+501725	Adju
+501733	Resu
+501742	Adju
+Resu
+Coor
+501747	Resu
+501769	Adju
+501771	Attr
+501773	Attr
+Coor
+501777	Subj
+501791	Subj
+501794	Adju
+501800	Subj
+501803	Subj
+501810	Attr
+501820	Cmpl
+501829	Resu
+501840	Subj
+501843	Attr
+Coor
+501847	Adju
+Adju
+501856	RgRc
+501867	Resu
+501873	Attr
+501878	Resu
+501883	Attr
+Attr
+Resu
+501905	Cmpl
+501907	Resu
+501918	Resu
+501920	Subj
+Coor
+501935	RgRc
+501938	Subj
+501947	Adju
+501950	Resu
+501952	Subj
+501955	Adju
+501958	Adju
+501962	Resu
+Coor
+501967	Subj
+501970	Attr
+501976	Subj
+501984	Resu
+Attr
+501988	Adju
+501998	Resu
+502023	Resu
+502030	Resu
+502041	Adju
+502043	Resu
+502048	Subj
+Coor
+Adju
+502053	Adju
+Adju
+502065	Coor
+502067	Subj
+502070	Attr
+502075	Adju
+502077	Objc
+502083	Adju
+502092	PreC
+Resu
+502115	ReVo
+502119	Adju
+502129	Coor
+502157	Adju
+502167	Coor
+502177	Adju
+502190	Adju
+Resu
+502197	Objc
+502203	Resu
+502205	Resu
+502221	Adju
+502224	Adju
+502240	Subj
+502244	Resu
+Coor
+502257	Resu
+502270	Spec
+502274	Attr
+502276	Subj
+502278	Subj
+502287	Subj
+502289	Adju
+Attr
+502292	Adju
+502295	Adju
+502301	Attr
+502306	Coor
+Attr
+502318	Attr
+502320	PreC
+502322	Coor
+502332	Subj
+502336	Attr
+Subj
+502341	Attr
+502343	Resu
+502345	Spec
+Spec
+Resu
+502357	Subj
+502361	Resu
+Subj
+502369	Attr
+Attr
+502380	Adju
+502382	PreC
+502384	Attr
+Attr
+502387	Attr
+Resu
+Attr
+Coor
+502397	PreC
+502401	Attr
+502409	Subj
+502412	Resu
+502417	Objc
+502434	Attr
+Resu
+Attr
+502455	Resu
+502464	Attr
+Resu
+502483	Coor
+Coor
+502491	Attr
+502498	Attr
+502502	Subj
+Subj
+502506	Cmpl
+Resu
+502509	Resu
+502513	Adju
+502516	Adju
+Subj
+502520	Subj
+Coor
+502523	Attr
+502525	Subj
+502528	Coor
+502531	Attr
+502533	Subj
+502540	Subj
+Adju
+Subj
+502547	Objc
+502550	Coor
+502552	Resu
+502555	Subj
+502557	Resu
+502559	Resu
+502563	Adju
+502566	Adju
+502568	Attr
+502570	Adju
+502573	Adju
+502575	Attr
+502577	Subj
+502581	Attr
+502598	Attr
+Resu
+502603	Attr
+Resu
+502607	Adju
+502615	Resu
+502620	Attr
+502628	Subj
+502634	Subj
+502656	Cmpl
+502681	Resu
+Coor
+502684	Resu
+Coor
+Adju
+502696	Attr
+502698	Attr
+502701	Attr
+Coor
+Resu
+Coor
+502707	Resu
+502716	Objc
+502718	Adju
+Coor
+Adju
+502722	Adju
+Coor
+Adju
+502728	Attr
+502731	Attr
+502740	RgRc
+502742	Attr
+Coor
+502747	Attr
+502749	Adju
+502757	Attr
+502766	Cmpl
+502770	Subj
+Coor
+502805	Objc
+502816	Adju
+502835	Resu
+502839	RgRc
+502842	Adju
+502860	Objc
+Adju
+502863	Attr
+502866	Adju
+502870	Adju
+502872	Adju
+502875	Adju
+502891	Adju
+502897	Adju
+502899	Adju
+502913	Adju
+Adju
+502916	Adju
+502918	Adju
+502921	Adju
+502929	Objc
+Adju
+502932	Adju
+502934	Adju
+502936	Adju
+502951	Attr
+502958	Adju
+502967	Attr
+502975	Attr
+502978	Attr
+502981	Attr
+502992	Adju
+502996	Attr
+502999	Adju
+503003	Adju
+503008	Adju
+503013	RgRc
+503016	Attr
+503019	Attr
+Adju
+503037	Adju
+503039	Adju
+503048	Objc
+503053	Objc
+503056	Objc
+503062	Objc
+503065	Attr
+503068	Attr
+503075	Attr
+Adju
+Attr
+503081	Subj
+Coor
+503084	Adju
+Adju
+503089	ReVo
+Attr
+503093	Attr
+503100	Adju
+Adju
+Coor
+503104	Adju
+503106	Attr
+503111	Objc
+503114	RgRc
+503117	RgRc
+503122	Adju
+503141	Adju
+503146	ReVo
+503148	RgRc
+503150	Objc
+503155	Attr
+503162	Adju
+503171	Subj
+503174	Attr
+503185	RgRc
+503193	Adju
+Objc
+503200	Attr
+503213	Attr
+Attr
+503217	Adju
+503225	Adju
+503231	Adju
+503233	Adju
+503236	Cmpl
+503240	Cmpl
+503242	Adju
+503252	RgRc
+RgRc
+503255	Adju
+503259	Attr
+503262	Attr
+Attr
+503267	Attr
+Attr
+503276	Attr
+503279	Coor
+503281	Attr
+Attr
+503287	Adju
+503302	Attr
+503307	Attr
+503321	Objc
+Coor
+503325	Objc
+503327	Attr
+503330	Objc
+Coor
+503342	Adju
+503345	Attr
+503358	Coor
+503360	Resu
+503362	Resu
+503376	Coor
+Adju
+503380	Attr
+Coor
+503384	Attr
+Coor
+503403	ReVo
+Coor
+503408	Attr
+503412	Attr
+Adju
+Coor
+503420	Objc
+503426	Objc
+503430	Attr
+Objc
+503434	Attr
+Adju
+Objc
+503439	Adju
+503442	Objc
+Coor
+Adju
+503446	Coor
+503448	Attr
+503453	Resu
+503457	Coor
+503463	Attr
+503469	Attr
+503471	Attr
+Coor
+Coor
+503478	Attr
+503482	Coor
+Attr
+Adju
+Coor
+503492	Resu
+503512	Coor
+503539	Attr
+503542	Adju
+Coor
+503551	Adju
+503558	Adju
+503564	Attr
+503572	Attr
+503576	Adju
+503583	Attr
+Coor
+503586	Attr
+503588	Attr
+503590	Attr
+503592	Attr
+503594	Attr
+503596	Attr
+503607	Adju
+Coor
+503611	Attr
+503614	Coor
+Coor
+503617	Attr
+503619	Attr
+503621	Attr
+Coor
+Coor
+503628	PreC
+503637	Attr
+Coor
+Coor
+503641	Adju
+Coor
+Objc
+Coor
+503660	Attr
+503665	Attr
+503679	Coor
+Attr
+Coor
+503690	Objc
+Coor
+Coor
+503697	ReVo
+503699	Attr
+503705	Attr
+503711	Objc
+Coor
+Adju
+503715	Coor
+503719	Subj
+503726	Cmpl
+503733	Attr
+503745	Attr
+503749	PreC
+503751	ReVo
+503763	Attr
+503779	Resu
+503781	Attr
+Resu
+Adju
+503786	Cmpl
+503788	Adju
+503790	Adju
+503792	Attr
+Resu
+PreC
+503796	Attr
+Resu
+PreC
+503801	Attr
+503804	Resu
+503806	Attr
+503809	Attr
+Resu
+Adju
+503814	Adju
+Coor
+RgRc
+503818	Attr
+Adju
+503821	Attr
+503824	Coor
+503826	Cmpl
+503828	Cmpl
+503830	Adju
+503832	Resu
+503834	RgRc
+503837	Adju
+503839	Objc
+Resu
+503855	Adju
+503857	Coor
+Adju
+Objc
+Attr
+503867	Adju
+503871	RgRc
+503876	RgRc
+503879	RgRc
+503884	Attr
+503886	Attr
+Adju
+503890	Coor
+503893	Adju
+503895	Attr
+Objc
+503898	Attr
+503901	Resu
+503904	Objc
+503908	Resu
+503917	Attr
+503919	Coor
+503921	Attr
+Attr
+Attr
+503925	Objc
+Coor
+503928	Attr
+Coor
+503932	Adju
+Attr
+503935	Attr
+503937	Attr
+503939	Coor
+503941	Attr
+503946	Resu
+503948	Subj
+Coor
+Coor
+503952	Objc
+503954	Coor
+503956	Attr
+503958	Adju
+Coor
+Adju
+503962	Coor
+503966	Adju
+503968	Adju
+503970	Adju
+503972	Adju
+503974	Adju
+503976	Adju
+503978	Adju
+503980	Adju
+503982	Adju
+503984	Adju
+503986	RgRc
+503988	RgRc
+503990	Adju
+503992	RgRc
+503994	Adju
+503996	Adju
+Adju
+503999	Adju
+504001	Adju
+504003	Adju
+504005	Adju
+504007	Adju
+504009	Adju
+504011	Adju
+504013	Adju
+504015	Adju
+504017	Adju
+504021	Adju
+504023	Attr
+Adju
+504028	Attr
+504030	Objc
+Adju
+Coor
+504034	Attr
+Coor
+Coor
+Resu
+504039	Objc
+PreC
+Resu
+504043	Subj
+504045	Subj
+504047	Objc
+504049	Attr
+Resu
+504052	Subj
+504056	Resu
+504058	Resu
+504064	Adju
+Coor
+Objc
+504069	Resu
+504079	Objc
+Attr
+Resu
+Coor
+Attr
+Resu
+504086	Objc
+Adju
+504090	Adju
+Attr
+504094	Attr
+504100	Coor
+Attr
+Attr
+504104	Subj
+Attr
+Attr
+504108	Objc
+504110	Coor
+504126	Attr
+504130	Attr
+504132	Adju
+504136	Resu
+504141	Attr
+Adju
+504144	Adju
+504147	Attr
+Attr
+504150	Coor
+RgRc
+504154	Coor
+504156	Adju
+504158	Cmpl
+Adju
+504161	Adju
+504164	Adju
+504170	Adju
+504172	Adju
+504174	Objc
+504177	Subj
+Adju
+Coor
+504181	Adju
+504183	Objc
+504194	Resu
+PreC
+Subj
+504201	Adju
+504209	Resu
+Adju
+504214	Attr
+504220	Adju
+Adju
+504223	Attr
+504226	RgRc
+Resu
+504229	Attr
+504234	Subj
+504236	Adju
+Coor
+Coor
+Attr
+Attr
+504243	Attr
+Coor
+Adju
+Coor
+Coor
+Resu
+Resu
+504253	Attr
+504256	Attr
+Resu
+RgRc
+504260	Adju
+504267	Subj
+504285	Attr
+Adju
+504288	Adju
+504290	Coor
+504292	PreC
+Resu
+504295	Subj
+Coor
+Cmpl
+Cmpl
+504300	Attr
+504303	Objc
+504306	Objc
+504309	RgRc
+504311	Subj
+Adju
+504320	Subj
+Adju
+Attr
+504324	Resu
+504331	Adju
+504335	PreC
+504340	Coor
+504342	PreC
+504345	Cmpl
+Objc
+504350	RgRc
+504353	Attr
+504355	Attr
+504363	Subj
+504367	Attr
+504369	Attr
+Coor
+504372	Attr
+504374	Attr
+504376	Objc
+504382	Subj
+Attr
+Coor
+504387	Adju
+Coor
+Coor
+Coor
+Objc
+Coor
+504394	Objc
+504396	Attr
+Resu
+Coor
+504404	Adju
+Attr
+Coor
+504411	Objc
+504424	RgRc
+504433	Objc
+PreC
+504436	Adju
+504438	Attr
+Adju
+504445	Attr
+504447	Attr
+Adju
+504450	Objc
+Coor
+504453	Coor
+Attr
+504458	Adju
+504460	Coor
+504462	Objc
+Attr
+Coor
+504468	Attr
+PreC
+Attr
+Coor
+Attr
+504474	Objc
+504476	Adju
+Adju
+Coor
+Coor
+Coor
+Attr
+504483	Adju
+Coor
+Attr
+504488	Objc
+Cmpl
+Attr
+Attr
+Adju
+504495	Adju
+504497	Cmpl
+504499	Coor
+Objc
+504504	PreC
+504506	Coor
+Coor
+Coor
+504512	PreC
+504514	RgRc
+504520	Attr
+504522	Resu
+504524	Objc
+504526	Resu
+504531	RgRc
+504539	Attr
+Attr
+504542	Attr
+504544	RgRc
+Adju
+504547	Attr
+504549	Coor
+Objc
+Coor
+Coor
+Coor
+Coor
+504558	Attr
+Attr
+Resu
+Adju
+504565	Resu
+Coor
+Coor
+Coor
+Coor
+Coor
+504576	Resu
+504578	Attr
+504587	Adju
+504589	Objc
+504595	Coor
+Attr
+504601	Attr
+Subj
+504605	Resu
+Subj
+504608	Subj
+504622	Objc
+Attr
+Coor
+504627	Attr
+Adju
+504632	Coor
+504636	Coor
+504652	Objc
+504658	Attr
+Resu
+504662	Subj
+504664	Objc
+Coor
+Resu
+Attr
+504671	Objc
+504677	Adju
+504683	RgRc
+504689	Objc
+504694	Adju
+Coor
+Attr
+504698	Coor
+Coor
+504701	Attr
+Coor
+Coor
+504705	Coor
+Subj
+Coor
+Adju
+504711	Coor
+Coor
+Coor
+Coor
+Coor
+504718	Coor
+Coor
+Coor
+504722	Coor
+Adju
+Coor
+Attr
+Objc
+504735	Adju
+504741	Adju
+504743	Subj
+504747	Resu
+504756	Attr
+504773	Resu
+504783	Attr
+Adju
+Coor
+504803	Objc
+Attr
+Objc
+504809	Adju
+504813	Objc
+504818	Objc
+Attr
+Attr
+504833	Objc
+504836	Adju
+504841	Attr
+504861	Objc
+504868	Objc
+504874	Attr
+504878	Adju
+504892	Attr
+504911	Adju
+504914	Adju
+504931	Adju
+504934	Adju
+Coor
+504946	Adju
+504952	Attr
+504961	Attr
+504965	Objc
+504967	Attr
+504981	Attr
+504995	Objc
+Coor
+504999	Attr
+505018	Coor
+505026	Coor
+505042	PreC
+505051	Attr
+505054	Subj
+505067	Adju
+Coor
+Coor
+505089	Adju
+505112	Attr
+505140	Attr
+Resu
+505148	Subj
+505150	Subj
+505153	Attr
+Coor
+505164	Attr
+PrAd
+505173	Objc
+505175	Attr
+505178	Cmpl
+505190	Adju
+505193	Adju
+505197	PreC
+505199	Attr
+505201	Adju
+505209	Attr
+505214	Attr
+505221	Adju
+505227	Objc
+505242	Adju
+505266	Attr
+Coor
+505280	Attr
+505282	Adju
+Attr
+Adju
+Adju
+505287	Adju
+Attr
+505295	Attr
+505297	Adju
+505299	Attr
+505301	Adju
+Attr
+Adju
+Adju
+505307	Adju
+Attr
+505314	PreC
+Attr
+505317	PreC
+Adju
+505322	Attr
+505324	Adju
+Adju
+505327	Adju
+505330	Attr
+505336	Objc
+Coor
+Attr
+505340	Attr
+505347	Coor
+Adju
+Coor
+505351	Adju
+Coor
+Coor
+505360	Attr
+505366	Attr
+Attr
+Attr
+505375	Adju
+Coor
+505381	Adju
+505383	Adju
+505387	Objc
+505389	Adju
+Coor
+505392	Adju
+505394	RgRc
+505397	Coor
+Resu
+505400	RgRc
+Adju
+505408	Adju
+Attr
+Adju
+505412	Objc
+505424	Coor
+505426	Adju
+Coor
+Adju
+Resu
+505432	Adju
+505443	Attr
+505445	Attr
+Coor
+505451	Attr
+505454	Adju
+Coor
+505457	Adju
+Objc
+505460	Objc
+505462	Objc
+Coor
+505466	Adju
+505469	Adju
+Attr
+505477	Attr
+Coor
+505482	Adju
+505485	Adju
+505487	Adju
+505490	Attr
+505494	Adju
+505497	RgRc
+Attr
+505504	Adju
+Coor
+Coor
+505508	Coor
+505511	Adju
+Attr
+Adju
+505515	PrAd
+505518	Adju
+505521	RgRc
+505528	PreC
+505530	Attr
+505537	Adju
+Coor
+505541	Attr
+505543	Adju
+Objc
+Coor
+505547	Attr
+505549	RgRc
+Attr
+Adju
+Adju
+505554	Attr
+Adju
+Adju
+Coor
+Coor
+Adju
+Adju
+Coor
+505567	Objc
+Attr
+Attr
+Resu
+Adju
+Spec
+505575	Adju
+505578	Adju
+505580	Adju
+505582	Adju
+505585	Objc
+505587	Adju
+505590	Attr
+505596	Attr
+505598	Adju
+505601	RgRc
+505607	Adju
+PrAd
+505611	Attr
+505618	Coor
+505623	Attr
+505626	Adju
+505628	Attr
+505633	Coor
+505639	Coor
+Adju
+Coor
+PreC
+Attr
+505655	RgRc
+Coor
+505659	Attr
+505663	Resu
+Attr
+PrAd
+505675	Adju
+505678	Subj
+Objc
+Adju
+505688	Adju
+Adju
+Attr
+505698	Adju
+Attr
+505702	Adju
+505705	Attr
+505707	Attr
+Attr
+Coor
+505712	Attr
+505716	Attr
+505720	Adju
+505722	Attr
+505724	RgRc
+505730	Attr
+505734	RgRc
+505737	Attr
+Adju
+505744	Adju
+Attr
+505747	Adju
+505753	Coor
+505763	Adju
+Adju
+Coor
+505767	Adju
+505773	Attr
+Adju
+505781	Adju
+505783	Objc
+505786	Attr
+505793	Attr
+Attr
+505799	Attr
+505804	Objc
+505806	Attr
+505814	Adju
+Attr
+505825	Adju
+Attr
+Adju
+Attr
+505831	Attr
+505837	Adju
+505841	Attr
+Coor
+PreC
+505847	RgRc
+Attr
+505850	Coor
+Coor
+505855	Attr
+Objc
+Attr
+Cmpl
+Coor
+Coor
+Coor
+Coor
+Attr
+505865	Adju
+505869	Adju
+Coor
+Adju
+505873	PrAd
+505880	Attr
+505886	Attr
+Adju
+Attr
+Adju
+Coor
+Adju
+Adju
+505896	Attr
+505901	Coor
+505925	Attr
+Adju
+505929	Adju
+505933	Attr
+505937	Attr
+505946	Attr
+505950	Attr
+505954	Attr
+Attr
+Coor
+Adju
+Adju
+505960	Attr
+Attr
+505963	Coor
+505967	Objc
+Adju
+Coor
+505971	Adju
+505974	Adju
+Coor
+505977	Adju
+505979	Attr
+505982	Adju
+Coor
+Coor
+505987	RgRc
+505989	Adju
+Coor
+Coor
+505995	Adju
+505997	Adju
+Adju
+Coor
+506004	Attr
+Resu
+506017	Objc
+506019	Attr
+Coor
+Coor
+Coor
+Coor
+Coor
+Adju
+Coor
+506028	Coor
+506038	Objc
+506040	Objc
+506044	Attr
+506046	PrAd
+Attr
+506050	Attr
+506057	Attr
+506059	Adju
+506064	Attr
+Attr
+506070	Resu
+Coor
+506074	Attr
+Adju
+506081	Attr
+506083	Attr
+506089	Objc
+Adju
+506096	Adju
+506099	ReVo
+506118	Objc
+Adju
+Objc
+506124	Adju
+Adju
+506128	Objc
+506132	PreC
+Objc
+506136	Attr
+506138	Attr
+506140	Attr
+Resu
+506145	Objc
+506149	Adju
+506151	Attr
+Adju
+506159	Objc
+Coor
+506163	Coor
+506171	Resu
+506185	Objc
+Objc
+506188	Attr
+Objc
+506198	Attr
+506201	Attr
+506203	Objc
+Attr
+506210	Adju
+506214	Attr
+506216	Resu
+506219	Resu
+Objc
+Attr
+506223	Subj
+Attr
+506226	Resu
+506229	RgRc
+Coor
+506239	Resu
+Coor
+Coor
+Coor
+Coor
+Resu
+Coor
+506247	Adju
+Adju
+Coor
+Attr
+Coor
+506257	Attr
+506265	RgRc
+506270	Attr
+506275	Attr
+506283	Objc
+506285	Resu
+Coor
+506290	Objc
+506293	Adju
+506297	Attr
+Coor
+506303	Objc
+Adju
+Coor
+506307	Attr
+506313	Adju
+506317	Subj
+Coor
+506320	Adju
+506333	Adju
+Adju
+Attr
+506337	Attr
+506339	Attr
+506344	Attr
+506346	Attr
+506348	Attr
+Coor
+Resu
+506354	Attr
+506360	ReVo
+506363	Adju
+Attr
+Coor
+506367	Attr
+Coor
+Resu
+506371	Attr
+Adju
+506377	Attr
+506379	Objc
+506385	Coor
+Attr
+506389	Adju
+Attr
+506392	Attr
+506396	Attr
+506400	Adju
+506402	Attr
+Cmpl
+506409	Objc
+Coor
+Attr
+506416	Objc
+Adju
+Adju
+506420	Attr
+Objc
+Adju
+506426	Spec
+Coor
+506429	Attr
+Resu
+506432	Adju
+506435	Adju
+506439	Adju
+506447	Adju
+Adju
+506455	ReVo
+506460	Attr
+Coor
+506467	Attr
+Coor
+Attr
+Coor
+Coor
+506473	Coor
+506476	Adju
+Attr
+Coor
+506480	Attr
+Cmpl
+506484	Attr
+506487	Attr
+Adju
+506494	Coor
+506499	Adju
+506505	Attr
+Coor
+506510	Objc
+Coor
+ReVo
+Attr
+506547	Objc
+Coor
+Attr
+Coor
+506555	Objc
+506559	Attr
+506564	ReVo
+506568	ReVo
+506571	Attr
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Resu
+506583	Attr
+Coor
+Coor
+Coor
+506589	Objc
+506601	Attr
+506608	Objc
+Coor
+Attr
+506612	Objc
+506615	Objc
+506620	Cmpl
+506627	Attr
+506633	ReVo
+506639	Objc
+506641	Attr
+506647	Coor
+506653	Objc
+Coor
+506658	Subj
+Coor
+506669	Attr
+Coor
+506672	Objc
+Cmpl
+506677	Objc
+Attr
+Attr
+506682	Attr
+Attr
+506690	Attr
+506692	Resu
+Coor
+Coor
+Coor
+Adju
+506698	Adju
+506702	Attr
+Coor
+506708	Objc
+Coor
+506717	ReVo
+506721	Attr
+Coor
+506726	Adju
+Coor
+Coor
+Attr
+506736	Attr
+Attr
+506739	Objc
+Coor
+506742	Adju
+Coor
+506745	Objc
+506747	Objc
+Objc
+Coor
+506751	Adju
+Objc
+Coor
+506764	Resu
+506766	Attr
+Coor
+Objc
+506771	Objc
+506773	Objc
+506775	Objc
+506778	Adju
+506787	Objc
+Coor
+Attr
+506796	Attr
+Coor
+Coor
+506800	Attr
+Coor
+506805	Attr
+506821	Objc
+506826	Attr
+506828	Attr
+Adju
+Coor
+506832	Adju
+506834	Objc
+506836	Adju
+506838	Adju
+506847	ReVo
+506849	Adju
+Coor
+Spec
+RgRc
+506857	Coor
+Attr
+Attr
+506863	Objc
+506871	Adju
+Coor
+506877	Attr
+506883	Attr
+506887	Attr
+506890	Attr
+506893	Adju
+506895	Adju
+506897	Adju
+506902	Objc
+PreC
+Attr
+PreC
+506912	Attr
+506916	Adju
+506924	Adju
+506928	ReVo
+Attr
+Resu
+Cmpl
+506943	Adju
+506946	Adju
+506949	Attr
+506952	Adju
+Coor
+506955	Attr
+506958	Adju
+Coor
+506961	Coor
+Coor
+PreC
+Coor
+506968	Attr
+506979	Attr
+Adju
+506985	Coor
+Coor
+Coor
+507002	Attr
+Coor
+Coor
+507006	Attr
+507014	Adju
+Coor
+507027	Attr
+507029	Adju
+Coor
+Coor
+507033	Resu
+Coor
+507042	Attr
+507044	Attr
+507052	Attr
+507057	Cmpl
+Attr
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+507066	Attr
+Attr
+Coor
+507070	Coor
+Coor
+Attr
+Resu
+507083	Attr
+507088	Resu
+507095	Objc
+507099	Adju
+Coor
+507107	Resu
+507111	Adju
+507114	Adju
+507116	Attr
+507128	PrAd
+507137	Resu
+507139	Attr
+Objc
+507143	Attr
+507148	Adju
+507154	Adju
+507169	Attr
+507171	Attr
+507179	Adju
+507186	ReVo
+507189	Adju
+507194	Objc
+507196	Adju
+507202	Objc
+507205	Attr
+507208	Attr
+Resu
+507211	Coor
+Resu
+507215	Adju
+507230	Attr
+Resu
+507241	Attr
+507243	Adju
+Objc
+Attr
+Spec
+507248	Adju
+507253	Attr
+507260	Attr
+507264	Adju
+Attr
+Coor
+Attr
+Attr
+507270	ReVo
+Adju
+507275	Adju
+Attr
+507279	Adju
+507281	Attr
+507284	Attr
+Attr
+Adju
+Attr
+Adju
+Adju
+507291	Attr
+507293	Adju
+Coor
+507298	Attr
+507302	Attr
+Coor
+ReVo
+507307	ReVo
+507318	Attr
+507322	ReVo
+507324	ReVo
+507326	ReVo
+507337	Attr
+Objc
+507344	Adju
+507347	Adju
+507352	Adju
+Coor
+Coor
+Coor
+Coor
+Coor
+507360	Objc
+Adju
+Coor
+507369	Attr
+507378	Attr
+507387	Adju
+507389	Resu
+507395	Attr
+507404	Attr
+507407	Adju
+507422	ReVo
+Attr
+507427	Adju
+507432	Attr
+Cmpl
+Coor
+507439	Adju
+507442	Adju
+Objc
+507446	Adju
+507457	Cmpl
+507459	Resu
+Coor
+507471	Adju
+507478	Objc
+507481	Adju
+507485	Objc
+507487	Attr
+507499	Adju
+507503	Attr
+507512	Adju
+507548	Adju
+507556	Adju
+507558	Subj
+507563	Adju
+507567	Adju
+507591	Adju
+507597	Objc
+507609	Resu
+507631	Attr
+507638	Adju
+507641	Adju
+Coor
+Coor
+507658	Attr
+507660	Attr
+Coor
+507679	Adju
+Coor
+507685	Attr
+507687	Attr
+Adju
+507690	RgRc
+PrAd
+507708	Attr
+507711	Attr
+507714	Objc
+Coor
+Adju
+Subj
+507727	Coor
+507735	RgRc
+Coor
+507738	RgRc
+Coor
+507744	Adju
+507747	Adju
+507751	Adju
+Attr
+507756	Attr
+507759	Attr
+507761	RgRc
+Attr
+Resu
+Attr
+507766	RgRc
+Adju
+Adju
+Attr
+507771	RgRc
+507773	Attr
+Coor
+507786	Adju
+507788	Attr
+Attr
+Coor
+Adju
+Coor
+507839	Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+507851	Coor
+Coor
+507855	PreC
+507857	Adju
+Objc
+Resu
+507862	Attr
+Coor
+507865	Attr
+507869	Objc
+Adju
+507879	Adju
+Attr
+Adju
+507890	Adju
+Adju
+507901	RgRc
+507903	Adju
+507907	Adju
+507909	Adju
+RgRc
+507912	Adju
+507914	Adju
+Cmpl
+507919	Attr
+507921	Adju
+507923	Adju
+Coor
+507928	Adju
+507931	Attr
+507934	PreC
+507939	Objc
+507944	Coor
+Attr
+507948	Adju
+507950	Adju
+507952	PreC
+Coor
+Adju
+Coor
+Adju
+507964	Attr
+Coor
+507968	Attr
+507972	Subj
+Attr
+507978	Subj
+507980	Coor
+Coor
+507984	Coor
+Resu
+Adju
+Coor
+Objc
+Coor
+Coor
+Objc
+Coor
+Coor
+507996	Objc
+507998	Coor
+508001	Attr
+508005	Attr
+508009	Objc
+Coor
+508012	Coor
+508015	Adju
+508021	Adju
+508023	Spec
+508026	Attr
+508029	Attr
+508033	Objc
+Attr
+508036	Attr
+508040	Adju
+Coor
+508044	Attr
+508050	Attr
+Attr
+508056	Subj
+508060	Coor
+508064	Adju
+Coor
+508067	Adju
+Objc
+Attr
+508071	Adju
+508074	Attr
+508080	Resu
+508083	Adju
+508085	Attr
+Attr
+Attr
+Coor
+Attr
+Resu
+Attr
+508093	Attr
+508098	Attr
+508102	Attr
+508108	Attr
+508110	PreC
+Adju
+508115	Attr
+508117	Attr
+508122	Resu
+Attr
+508128	Attr
+508132	Attr
+Attr
+Coor
+508136	Attr
+508140	Attr
+508144	Attr
+Adju
+508147	Adju
+PreC
+508151	Attr
+Adju
+508154	Coor
+508157	Attr
+Resu
+508160	Coor
+508163	Attr
+Attr
+Adju
+Adju
+Attr
+508171	Adju
+508177	Attr
+508183	Attr
+508189	Attr
+RgRc
+Adju
+508194	Coor
+Adju
+508201	Resu
+508203	Attr
+508211	Adju
+Coor
+Coor
+508215	Attr
+508221	Spec
+508223	Adju
+Attr
+Coor
+Attr
+Attr
+508229	Attr
+Adju
+Attr
+Attr
+Resu
+508235	Attr
+508237	Attr
+Adju
+508240	Attr
+508242	Attr
+Adju
+508245	Attr
+508247	RgRc
+508250	RgRc
+508253	Objc
+508255	Resu
+Adju
+508259	Attr
+Attr
+Attr
+508263	RgRc
+Coor
+508266	RgRc
+Resu
+508272	Attr
+Spec
+Attr
+Coor
+508278	Adju
+508280	Coor
+Attr
+508312	Attr
+508319	Adju
+Adju
+508328	Attr
+508331	Adju
+Adju
+508334	Adju
+Adju
+508337	Adju
+508346	Attr
+Attr
+508358	Adju
+508360	Adju
+508370	Subj
+Spec
+508377	Adju
+Adju
+508384	Adju
+508388	RgRc
+508391	Coor
+508398	Adju
+508407	Adju
+Coor
+Adju
+Coor
+508414	Adju
+Adju
+Coor
+Coor
+508422	Attr
+Adju
+508425	Attr
+Adju
+Resu
+Attr
+508437	RgRc
+508441	Resu
+Adju
+Coor
+508445	Adju
+508447	ReVo
+508452	PreC
+508454	Adju
+Coor
+PrAd
+Coor
+508467	Adju
+Coor
+Coor
+508473	Coor
+508478	Adju
+508487	Adju
+508489	RgRc
+Resu
+508494	Coor
+508496	PrAd
+508501	Adju
+508509	Subj
+508511	Coor
+Coor
+Adju
+Coor
+Coor
+508517	Adju
+508520	RgRc
+Attr
+508523	Adju
+508530	Adju
+508532	Attr
+508534	Attr
+508536	Adju
+508573	Attr
+508576	Attr
+508580	Adju
+508585	Coor
+508588	Attr
+ReVo
+Coor
+Adju
+Attr
+Coor
+Attr
+508598	Attr
+508600	Attr
+Adju
+508610	Attr
+Adju
+508613	Attr
+508615	ReVo
+Attr
+Adju
+508629	Resu
+508636	Adju
+Coor
+508643	Coor
+508657	Adju
+508659	Attr
+508661	Adju
+Attr
+Coor
+Coor
+Attr
+508667	Attr
+508673	Subj
+Adju
+508679	Objc
+Adju
+508683	Attr
+508688	Attr
+Coor
+508692	Adju
+508699	Objc
+Coor
+508704	Attr
+Objc
+Coor
+508711	Attr
+508713	Attr
+508723	Attr
+508728	Resu
+508773	Attr
+508775	Attr
+508780	Adju
+508789	Attr
+Attr
+508793	Attr
+508795	Attr
+508797	Adju
+508805	Adju
+Objc
+508834	Adju
+508836	Adju
+Objc
+Coor
+Adju
+508842	Adju
+Adju
+Coor
+508851	Cmpl
+508855	Adju
+Coor
+Coor
+508859	Adju
+Attr
+508863	Attr
+508873	Adju
+Objc
+Coor
+508877	Adju
+508883	Attr
+508894	PrAd
+Adju
+508897	Attr
+Resu
+508902	Adju
+Coor
+508907	Coor
+508909	Attr
+Resu
+508914	Subj
+508920	Subj
+508924	Subj
+508935	Adju
+508940	Adju
+508944	Attr
+508951	Attr
+508956	Attr
+508961	Adju
+508964	Adju
+508968	Attr
+508975	Attr
+Adju
+508978	Attr
+508987	Coor
+Attr
+508990	Subj
+508997	RgRc
+508999	Adju
+Subj
+Coor
+509004	Adju
+509008	Adju
+509010	Adju
+509013	Cmpl
+509015	Adju
+Coor
+509021	Attr
+509024	Subj
+Adju
+509029	Adju
+Adju
+509038	Adju
+509040	Attr
+509043	Adju
+509054	Adju
+509056	Adju
+509061	Coor
+509066	Adju
+509077	Attr
+509080	Adju
+509082	Attr
+509085	Objc
+509087	Attr
+509089	Subj
+509096	Adju
+509098	Adju
+509106	Adju
+509111	Adju
+Coor
+509118	Adju
+509120	Attr
+509122	PrAd
+509124	Attr
+Attr
+Coor
+Adju
+Coor
+509188	PreC
+Coor
+Cmpl
+Adju
+509194	Attr
+509197	Attr
+509201	Objc
+Adju
+509213	Subj
+509218	Attr
+509220	Adju
+Attr
+509223	RgRc
+Adju
+509226	Attr
+509229	Attr
+509235	Adju
+509241	Adju
+509249	Attr
+509251	Resu
+509255	Adju
+509261	Cmpl
+509265	Resu
+509267	Adju
+509272	Adju
+Coor
+Coor
+Coor
+509277	Attr
+509279	Coor
+509281	PrAd
+Objc
+Coor
+Coor
+Coor
+Adju
+509289	Adju
+509293	Adju
+509296	Attr
+509322	RgRc
+509324	RgRc
+509328	Attr
+Coor
+Coor
+Coor
+PrAd
+Coor
+Adju
+Coor
+509342	Objc
+509350	Adju
+Attr
+509360	Adju
+Adju
+Attr
+Adju
+509368	Adju
+509370	Attr
+509373	Adju
+509375	Coor
+509380	Attr
+509384	Adju
+509386	Adju
+509388	Attr
+509390	Adju
+509402	Attr
+Adju
+Adju
+509410	Adju
+509413	Attr
+509422	Attr
+Adju
+509432	Adju
+Adju
+509441	Adju
+509445	Attr
+Coor
+509459	Attr
+ReVo
+Attr
+509463	RgRc
+509468	Attr
+509470	Attr
+Attr
+509475	Attr
+Adju
+Resu
+509479	Attr
+509519	RgRc
+RgRc
+Objc
+PreC
+Coor
+Adju
+Attr
+Coor
+Coor
+Coor
+Coor
+509531	Attr
+Adju
+Resu
+Coor
+509536	Adju
+509538	Adju
+509541	Adju
+Adju
+Adju
+Coor
+509546	Adju
+Adju
+Attr
+509552	Attr
+509554	Adju
+509558	Attr
+509562	Adju
+Adju
+Coor
+509566	Attr
+Adju
+509569	Attr
+509571	Adju
+509577	Attr
+509588	Attr
+509599	Attr
+509601	Attr
+Attr
+509605	Attr
+509607	Adju
+509611	Attr
+509616	Resu
+Coor
+509619	Coor
+Coor
+509632	Attr
+509672	Resu
+509675	Resu
+509679	Adju
+Coor
+509684	Adju
+Adju
+509707	Attr
+Coor
+509723	Adju
+509725	Attr
+509734	PrAd
+Subj
+509738	Adju
+509741	Adju
+509744	Attr
+Coor
+509754	Attr
+Adju
+509762	Objc
+509764	Adju
+Attr
+509776	Subj
+509780	Attr
+509782	Objc
+Coor
+Coor
+509786	Coor
+509788	RgRc
+509790	PrAd
+Coor
+509796	Attr
+Coor
+509801	Adju
+509803	Adju
+509807	Objc
+509818	Objc
+Coor
+Coor
+Adju
+509826	Attr
+509828	Resu
+Coor
+Adju
+509845	Resu
+Adju
+Coor
+Coor
+509855	Adju
+509871	Adju
+509874	Attr
+509904	Resu
+509925	Attr
+Adju
+509935	Attr
+509949	Coor
+Coor
+Coor
+509957	Attr
+509967	Attr
+Attr
+509971	Attr
+510066	Attr
+510068	Attr
+510070	Attr
+510140	Adju
+Objc
+510143	Adju
+Objc
+510148	Adju
+510150	Objc
+510168	Attr
+510174	Attr
+510189	Adju
+510192	Attr
+510200	Attr
+510203	Adju
+510207	PreC
+510209	Attr
+510212	Attr
+510223	Adju
+510225	Adju
+510233	Attr
+510236	Adju
+510241	Adju
+510262	RgRc
+510278	Attr
+510300	PreC
+Attr
+510311	Adju
+510325	Resu
+510331	PreC
+510333	Adju
+510336	PreC
+510345	Attr
+510358	Coor
+RgRc
+510375	Attr
+510380	Attr
+510387	Attr
+510395	Attr
+510427	Attr
+Coor
+510444	Attr
+Adju
+Adju
+510449	Adju
+510498	Resu
+510501	Resu
+510504	Adju
+510566	Attr
+510583	Attr
+510596	Attr
+510598	Resu
+Subj
+510604	PreC
+510620	Adju
+510659	Subj
+510671	Objc
+510677	Attr
+Objc
+Coor
+510686	Adju
+510688	Attr
+510692	Adju
+510696	RgRc
+510703	Attr
+Attr
+Coor
+Adju
+510711	Adju
+510714	Coor
+PreC
+Coor
+510732	RgRc
+510742	Attr
+Attr
+Adju
+510746	Attr
+510749	Attr
+510755	Attr
+510768	Attr
+510771	Attr
+510775	Adju
+510779	Cmpl
+510783	Adju
+510786	Resu
+510793	Resu
+Coor
+Coor
+Coor
+510809	Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+Attr
+Coor
+Coor
+Coor
+510826	Coor
+Coor
+Coor
+Coor
+Coor
+510832	PreC
+Adju
+510847	Attr
+510850	Adju
+510866	Attr
+510874	Adju
+510891	Adju
+510894	Adju
+510896	Adju
+510898	Attr
+510903	Adju
+510905	Attr
+Adju
+510908	Attr
+510919	Attr
+Adju
+Adju
+510924	Adju
+Objc
+Resu
+510931	Coor
+510939	Adju
+510944	Adju
+510946	Adju
+510952	Subj
+510958	Coor
+510961	Attr
+510967	Objc
+510970	Coor
+Adju
+510973	Attr
+Adju
+Attr
+Attr
+510983	Adju
+510987	Adju
+510993	Adju
+510999	RgRc
+511002	Adju
+511004	Objc
+511009	Attr
+511011	Coor
+Coor
+Coor
+511015	Objc
+511017	Adju
+511023	Adju
+511045	Adju
+511048	Adju
+511050	Adju
+511059	PreC
+511062	Adju
+Coor
+511065	Adju
+Attr
+511085	Cmpl
+511090	Adju
+511092	Adju
+511094	Objc
+Attr
+Attr
+Adju
+511103	Adju
+511106	Adju
+511109	Adju
+511115	Attr
+Adju
+511118	Adju
+Attr
+511123	Attr
+511132	PrAd
+Coor
+511137	Attr
+511140	Objc
+511145	Coor
+Coor
+Coor
+511154	Adju
+511163	RgRc
+511167	Attr
+511173	ReVo
+511175	Attr
+Attr
+511180	Adju
+511182	Adju
+Coor
+511187	Objc
+511191	Coor
+511193	Coor
+Coor
+511203	Coor
+511205	Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+511220	RgRc
+511223	Adju
+Coor
+511227	Coor
+511232	Adju
+Coor
+511239	Adju
+511243	Attr
+Adju
+511246	RgRc
+Attr
+511249	RgRc
+Attr
+Adju
+511260	Adju
+511262	Adju
+511268	RgRc
+511272	Adju
+511277	Adju
+511279	Attr
+511282	RgRc
+Attr
+Objc
+Adju
+511291	Adju
+511293	RgRc
+511296	Attr
+511302	Objc
+Adju
+511305	Attr
+511311	Adju
+511313	Attr
+511320	Adju
+Cmpl
+511325	Resu
+511341	ReVo
+Adju
+511344	ReVo
+511346	RgRc
+511348	Attr
+Adju
+Coor
+Adju
+Attr
+511359	Attr
+511361	Adju
+511364	Adju
+511369	Adju
+511371	Objc
+511374	ReVo
+511378	Objc
+Adju
+511389	Coor
+511391	Adju
+Adju
+511397	Adju
+511401	Coor
+511403	RgRc
+511405	Attr
+511410	Objc
+511412	Adju
+Coor
+Adju
+511419	Attr
+511424	RgRc
+511440	Adju
+511442	Adju
+511447	Adju
+Coor
+Coor
+511457	Adju
+511461	Adju
+511464	Objc
+511466	Adju
+511477	Attr
+511479	Objc
+511482	Cmpl
+511485	Cmpl
+511494	Objc
+511496	Attr
+511499	Objc
+511504	Objc
+511507	Attr
+511515	Adju
+511521	Objc
+511525	Objc
+511527	RgRc
+511541	Attr
+511555	Coor
+511563	Adju
+511581	Attr
+511583	Attr
+511595	Adju
+511598	Adju
+511615	Objc
+511624	Adju
+511626	Adju
+511634	PrAd
+511636	Attr
+511638	Attr
+511641	Adju
+511643	PreC
+Coor
+511648	ReVo
+Coor
+511651	Adju
+Objc
+Adju
+511655	Attr
+511665	Adju
+511674	Objc
+511684	Objc
+511694	Adju
+Objc
+Resu
+511698	Attr
+511700	Cmpl
+Adju
+511705	Resu
+511708	Objc
+Attr
+511711	Adju
+Adju
+511715	Attr
+511721	Spec
+PreC
+511727	Objc
+511731	Resu
+Subj
+511734	Adju
+511750	ReVo
+511752	Coor
+Adju
+511756	Coor
+511759	Objc
+Attr
+511762	Coor
+511777	Objc
+511783	Cmpl
+511786	Adju
+Attr
+511795	Adju
+511799	Attr
+Adju
+511818	Adju
+511820	Coor
+Coor
+Coor
+511824	Resu
+511836	Coor
+Coor
+Coor
+511841	Coor
+511850	Attr
+511855	Subj
+511860	Coor
+Adju
+Coor
+511864	Coor
+RgRc
+511875	PrAd
+511910	Adju
+Adju
+511913	Attr
+511941	Attr
+511945	Attr
+511949	Attr
+Adju
+511955	Adju
+511960	RgRc
+512033	Coor
+512035	Adju
+512046	Adju
+512055	Attr
+512067	Adju
+512075	Attr
+512077	Adju
+512079	RgRc
+RgRc
+512092	Attr
+Attr
+Coor
+512143	Adju
+512145	Adju
+512155	PreC
+512157	Attr
+512160	Attr
+512166	Attr
+512175	Attr
+512181	Adju
+512183	Adju
+512189	Adju
+512193	Adju
+512196	Resu
+Adju
+512200	Resu
+512205	Adju
+512222	Objc
+Adju
+512228	RgRc
+Coor
+512241	Attr
+Coor
+512244	Resu
+512254	Adju
+512262	Coor
+512273	Adju
+512275	RgRc
+512277	Adju
+512281	Adju
+512285	Subj
+512287	Cmpl
+512299	Coor
+512304	Subj
+Coor
+512313	Adju
+512322	Attr
+Adju
+Resu
+512328	Objc
+512333	Attr
+Adju
+512336	ReVo
+Coor
+512339	Adju
+Coor
+Coor
+Attr
+512362	Attr
+512365	Attr
+512371	Resu
+512373	Attr
+512379	Attr
+512381	Attr
+512383	Adju
+512386	Attr
+512389	Attr
+512400	ReVo
+512402	Attr
+512410	Coor
+512412	Coor
+Coor
+Cmpl
+Attr
+512418	Attr
+Attr
+Coor
+512422	Attr
+512430	Attr
+512432	Attr
+512440	Adju
+512442	Attr
+512445	Adju
+Adju
+Coor
+Adju
+Adju
+512451	Adju
+Adju
+512455	Attr
+512458	Adju
+512461	Attr
+Adju
+512465	Spec
+Spec
+Attr
+Attr
+512471	Objc
+Objc
+512474	Coor
+512476	Attr
+512483	Attr
+Attr
+Attr
+Attr
+512489	Attr
+512493	Objc
+Coor
+Coor
+Attr
+512499	Attr
+512504	Attr
+Attr
+512510	Adju
+512512	Objc
+Attr
+Attr
+512516	Objc
+512518	Adju
+512522	Attr
+512541	Resu
+512558	Attr
+512595	Adju
+512598	PreC
+512611	Objc
+Attr
+512614	Adju
+Attr
+512618	Adju
+Attr
+512628	Attr
+512632	Adju
+512639	Attr
+512643	Adju
+512650	Attr
+512653	Attr
+Attr
+Coor
+512664	Attr
+Attr
+Adju
+512668	Adju
+512670	Attr
+512672	PreC
+512674	Attr
+Attr
+512678	Adju
+Adju
+Coor
+Coor
+Coor
+512687	Adju
+Adju
+512692	Adju
+512695	Adju
+512701	Attr
+512703	Adju
+512705	Attr
+Adju
+Adju
+512709	Adju
+512711	Adju
+512713	Adju
+512715	Adju
+512717	Adju
+Adju
+512723	Attr
+Resu
+512726	Attr
+512729	Adju
+512732	Attr
+Attr
+512746	ReVo
+Attr
+Attr
+Attr
+Objc
+Coor
+512755	ReVo
+Objc
+Adju
+512759	Attr
+512761	Adju
+Adju
+512766	Attr
+512770	Attr
+512773	Adju
+Attr
+Adju
+512777	Attr
+Adju
+Adju
+Attr
+512782	Attr
+512788	Adju
+512793	Adju
+Adju
+Coor
+Adju
+512806	Attr
+Adju
+512817	Attr
+512819	Attr
+512821	Resu
+512823	Resu
+512825	Resu
+512829	Attr
+Attr
+Adju
+Coor
+Resu
+512836	Attr
+512839	Adju
+Attr
+Attr
+512843	Attr
+512849	RgRc
+512851	Coor
+Coor
+Objc
+Attr
+512856	Attr
+512858	Attr
+512860	Attr
+512865	Attr
+512870	Attr
+512873	Adju
+512878	Attr
+512880	Attr
+512882	Attr
+512884	Attr
+512888	Attr
+512900	ReVo
+512903	Objc
+512908	Objc
+512911	Objc
+512913	Adju
+512923	Attr
+Adju
+512926	Adju
+512930	Attr
+512933	Attr
+Objc
+512937	Adju
+512942	Attr
+512945	RgRc
+Adju
+512954	Objc
+512957	Attr
+512969	Adju
+512972	Resu
+Adju
+Coor
+RgRc
+Coor
+512978	Adju
+Adju
+512981	Attr
+512984	Attr
+512989	Attr
+512991	Attr
+512994	Attr
+RgRc
+513000	Attr
+513006	Attr
+513008	Attr
+Resu
+513015	Attr
+513018	Attr
+513020	Attr
+Adju
+513023	Attr
+Attr
+Attr
+Attr
+Resu
+513029	Attr
+513032	Attr
+Attr
+513035	Attr
+513039	Attr
+513041	Attr
+513043	Adju
+513046	Adju
+Coor
+513052	Coor
+513056	Attr
+513062	Adju
+Attr
+513066	RgRc
+513069	Attr
+513071	Attr
+513073	Attr
+513077	Attr
+513079	Adju
+Coor
+513084	Attr
+513087	Attr
+Coor
+513090	Attr
+Adju
+513093	Adju
+Resu
+Adju
+513098	Attr
+513100	Attr
+513105	Attr
+Adju
+513111	Attr
+513113	Adju
+513133	Attr
+513136	Adju
+Attr
+513146	Attr
+513150	Resu
+513152	Coor
+513154	Coor
+513157	Adju
+513159	Adju
+513161	Attr
+513167	Adju
+513171	Attr
+513178	Attr
+Adju
+Adju
+513182	Adju
+513184	Adju
+513190	Attr
+513192	Attr
+Attr
+513197	Attr
+Adju
+513200	Attr
+513202	Attr
+Adju
+513205	Attr
+Adju
+513217	Adju
+Adju
+513223	Adju
+513230	Adju
+Attr
+513233	Cmpl
+513235	Adju
+513244	Attr
+Resu
+513247	Attr
+513251	Adju
+Adju
+513257	Attr
+Adju
+Adju
+513261	Adju
+513263	Adju
+513268	Adju
+513272	Adju
+513280	Attr
+513285	Adju
+513288	Attr
+513292	Adju
+513294	Attr
+513296	Subj
+Cmpl
+Adju
+513311	Adju
+513317	Adju
+Coor
+513324	Coor
+Attr
+513328	Attr
+513331	Attr
+513340	Adju
+Objc
+Adju
+513353	Attr
+513356	Attr
+513358	Adju
+513363	Adju
+513365	PreC
+513370	Adju
+513372	Attr
+Adju
+513377	Adju
+513379	Resu
+Adju
+513393	Attr
+513398	Subj
+Objc
+Coor
+513409	Objc
+513412	Attr
+513416	RgRc
+Adju
+513420	Resu
+513423	Attr
+513428	PreC
+513434	PreC
+513436	ReVo
+513439	Adju
+513449	Adju
+513472	Objc
+Coor
+513478	Objc
+Coor
+513497	Attr
+513508	ReVo
+Subj
+513513	Coor
+513515	ReVo
+513520	Attr
+513522	Adju
+513533	Resu
+513539	Adju
+513550	Coor
+513552	Coor
+513558	Adju
+513560	Attr
+513562	Attr
+513565	Adju
+Objc
+513569	Attr
+513571	Adju
+513573	RgRc
+513577	Coor
+Coor
+513581	Resu
+Adju
+513592	Adju
+513595	Attr
+Adju
+513604	Attr
+513607	Adju
+513609	Cmpl
+513613	Attr
+513617	Adju
+513621	Adju
+513623	Adju
+513625	Resu
+Adju
+Attr
+513635	Resu
+513642	Adju
+513644	Attr
+513646	Attr
+Attr
+513653	Attr
+513666	Adju
+Adju
+513669	Coor
+513675	Attr
+513680	Coor
+513691	Attr
+513698	Attr
+PreC
+513705	Attr
+513707	Adju
+513728	Adju
+513747	Adju
+513749	Adju
+513754	Attr
+Adju
+Adju
+513763	Objc
+Resu
+513776	Objc
+513779	PrAd
+Attr
+513822	Attr
+Adju
+513826	Attr
+Adju
+513835	Adju
+513850	Attr
+Adju
+513855	Adju
+513859	Adju
+513864	Adju
+Objc
+513882	Coor
+Cmpl
+513888	Adju
+513896	Objc
+Adju
+Coor
+513908	Adju
+513911	Attr
+Attr
+513930	Adju
+513936	Cmpl
+513939	Adju
+513941	Adju
+513945	ReVo
+513949	Adju
+Coor
+513955	Adju
+513964	Attr
+Cmpl
+Adju
+513970	Adju
+Adju
+Attr
+513974	ReVo
+513976	Attr
+513978	Objc
+Adju
+513983	Resu
+513996	Subj
+514006	Adju
+514008	Adju
+514010	Adju
+514014	Adju
+514024	Objc
+Coor
+Adju
+Coor
+514031	Attr
+Attr
+514035	Adju
+Coor
+514038	Adju
+Adju
+514043	Attr
+514046	Adju
+514057	Adju
+514061	Adju
+Objc
+514067	Adju
+514072	Adju
+Objc
+514077	Resu
+Attr
+514081	Adju
+514083	Adju
+Adju
+514087	Adju
+Adju
+514092	Adju
+514106	Adju
+514109	Adju
+514112	Objc
+514114	Objc
+Attr
+Coor
+Adju
+514126	Attr
+514135	Adju
+514137	Adju
+Coor
+Coor
+Adju
+Coor
+Attr
+514147	Attr
+514151	Attr
+514158	RgRc
+514162	Adju
+514169	Attr
+514172	Adju
+514177	Adju
+514179	Objc
+514185	Adju
+514187	Attr
+Adju
+514190	Adju
+514193	Adju
+514195	Adju
+Attr
+Adju
+514199	Adju
+514211	Attr
+514213	Adju
+514215	Objc
+514220	Attr
+514237	Adju
+514239	Attr
+514250	Adju
+Coor
+514253	Objc
+514255	Adju
+Coor
+514258	RgRc
+514263	Attr
+Attr
+514267	Resu
+514275	Attr
+Coor
+514286	Adju
+514294	Subj
+514301	Adju
+514307	Attr
+Adju
+514321	Adju
+514325	Objc
+514330	Subj
+514335	Adju
+514341	Adju
+514343	Resu
+Coor
+514349	Adju
+514353	Adju
+514355	RgRc
+Coor
+Objc
+514366	Adju
+514368	Adju
+514374	Adju
+514390	Adju
+514404	Attr
+514419	Adju
+514426	PreC
+Coor
+514429	Resu
+514437	Objc
+514440	Adju
+514442	Attr
+514445	Adju
+Attr
+Adju
+514451	Adju
+514460	Adju
+514462	ReVo
+514469	Adju
+Coor
+514473	Adju
+Attr
+514477	Adju
+514479	Attr
+Adju
+514492	Attr
+Adju
+Resu
+Coor
+Coor
+514498	Adju
+Adju
+514508	Attr
+514510	Adju
+514518	Objc
+Adju
+514524	Adju
+514528	Adju
+514530	Attr
+Attr
+Adju
+514535	Attr
+514540	Adju
+514547	Adju
+514551	Attr
+514558	RgRc
+514560	Attr
+514564	Resu
+514566	Attr
+514578	Adju
+514580	Adju
+514584	Objc
+RgRc
+514587	PreC
+Attr
+Cmpl
+514591	RgRc
+514597	Attr
+514600	Cmpl
+514611	Attr
+Attr
+514615	Attr
+Adju
+514619	Attr
+Adju
+Adju
+514624	Adju
+Adju
+514627	Adju
+514630	Adju
+514637	Subj
+514639	Attr
+Adju
+514643	Coor
+514646	Adju
+514654	Adju
+514665	Attr
+514670	Adju
+514674	Objc
+RgRc
+514690	Resu
+514692	Adju
+514698	Adju
+514701	Objc
+514706	Attr
+514717	Adju
+514725	Attr
+514731	Resu
+Cmpl
+514734	PreC
+514738	Attr
+514741	Cmpl
+514745	Cmpl
+514747	Coor
+514750	Attr
+514762	Adju
+514771	Coor
+514776	Coor
+514779	RgRc
+514781	Cmpl
+514784	Attr
+514786	Objc
+Resu
+514791	PreC
+514798	Adju
+514801	Resu
+514810	Objc
+RgRc
+514813	Spec
+514825	Objc
+514835	Adju
+514839	Adju
+514844	Adju
+Adju
+Coor
+514850	Coor
+Coor
+Coor
+Coor
+Coor
+Coor
+514859	Adju
+514861	Adju
+514863	Attr
+514865	Adju
+514867	Adju
+514875	Attr
+514883	Cmpl
+514895	Adju
+514902	Cmpl
+514910	PreC
+514912	Adju
+Adju
+RgRc
+514917	Cmpl
+514929	Attr
+514934	Cmpl
+514936	Adju
+Coor
+514939	Adju
+514943	Cmpl
+514947	Adju
+Adju
+514950	Adju
+514952	Cmpl
+514954	Coor
+514957	Adju
+Adju
+Adju
+514962	Coor
+514965	ReVo
+514967	Attr
+514969	Attr
+514971	Adju
+514975	Attr
+514979	Adju
+Coor
+514990	PreC
+Adju
+514993	Adju
+514997	Attr
+515007	PreC
+515009	RgRc
+Adju
+515015	Adju
+515018	RgRc
+Adju
+515024	Attr
+515027	Attr
+515032	Adju
+515035	Coor
+515038	Attr
+Attr
+Coor
+515048	Adju
+Attr
+515053	Adju
+515058	Adju
+Coor
+Coor
+515062	Adju
+515064	Objc
+515067	Adju
+515070	Attr
+Resu
+Attr
+515075	Cmpl
+515083	Adju
+515085	Adju
+515092	Cmpl
+515099	Adju
+515101	Adju
+Adju
+515104	RgRc
+515107	Coor
+515110	Attr
+Adju
+RgRc
+515116	Attr
+Adju
+515123	Cmpl
+515125	Objc
+515128	Adju
+Attr
+515133	Attr
+Adju
+515147	Adju
+515152	Attr
+515156	Adju
+Coor
+515162	Attr
+Adju
+515168	Adju
+Cmpl
+Adju
+515174	Adju
+515178	Objc
+515180	Cmpl
+515182	Attr
+PreC
+Cmpl
+515186	Cmpl
+515192	Cmpl
+515196	Adju
+Coor
+Adju
+515200	Attr
+515202	Attr
+Adju
+Coor
+515220	Adju
+515243	Attr
+Adju
+Attr
+Adju
+Adju
+515249	Resu
+515255	Adju
+515258	Objc
+Attr
+515262	Attr
+515268	Attr
+515277	Adju
+Objc
+Adju
+515281	Attr
+Attr
+515284	Attr
+515286	Objc
+Attr
+515289	Adju
+RgRc
+515292	Adju
+Attr
+515297	Attr
+515302	Adju
+515309	Objc
+Resu
+515312	Coor
+515318	Attr
+515323	Cmpl
+515327	Attr
+Resu
+515330	Coor
+Attr
+Coor
+Adju
+Resu
+515339	Adju
+515342	Objc
+Adju
+515345	Attr
+515348	Adju
+515353	RgRc
+515356	Adju
+515359	Objc
+515363	Adju
+515365	Resu
+Cmpl
+515368	Cmpl
+515371	Attr
+515375	Attr
+515381	Adju
+515385	Adju
+Adju
+Adju
+515390	Attr
+Attr
+515394	Attr
+515396	Attr
+Adju
+Coor
+515400	Adju
+Coor
+Attr
+515405	Adju
+515407	RgRc
+515412	Adju
+Attr
+515420	Adju
+515422	RgRc
+515424	Attr
+515427	Adju
+515431	Adju
+515434	Adju
+515437	Coor
+Attr
+515440	Attr
+Adju
+Cmpl
+RgRc
+515445	Coor
+Attr
+515452	Attr
+515456	Attr
+Attr
+Adju
+Coor
+Adju
+515464	Attr
+Adju
+Resu
+515469	Attr
+515471	Coor
+Adju
+Coor
+Coor
+Coor
+515481	Attr
+515488	Attr
+515491	Adju
+Coor
+Adju
+Attr
+515496	RgRc
+515499	Attr
+515501	RgRc
+Adju
+515509	Attr
+Attr
+515512	Attr
+515521	Adju
+515524	RgRc
+515537	Adju
+Adju
+Adju
+515546	PreC
+515551	Subj
+515554	Adju
+Coor
+515557	Attr
+515561	Attr
+Attr
+515565	Attr
+Adju
+515568	Adju
+515570	Adju
+515576	Cmpl
+515578	Attr
+515582	Adju
+515585	Adju
+515592	Attr
+515602	Spec
+Resu
+515607	Adju
+515616	Adju
+515619	Objc
+515622	Adju
+515626	Attr
+Coor
+Resu
+515631	Adju
+515634	Objc
+515639	Adju
+515642	Objc
+515645	Attr
+515648	Adju
+515650	Adju
+515652	Attr
+515656	Coor
+Coor
+Adju
+515664	Resu
+515669	PreC
+515672	Adju
+Adju
+515676	Adju
+515678	Adju
+515681	Adju
+515685	Objc
+Attr
+516211	Resu
+516235	Resu
+516272	Resu
+516371	Resu
+516494	Resu
+517406	Resu
+517430	Resu
+517438	Resu
+517476	PrAd
+517582	PrAd
+517954	Resu
+517977	Resu
+518080	Resu
+519075	Resu
+519358	PrAd
+519598	PrAd
+519794	Resu
+519835	PrAd
+519864	PrAd
+519899	Resu
+520307	Resu
+521393	Resu
+521959	Resu
+522014	Resu
+522053	PrAd
+522076	Resu
+522115	Resu
+522257	Resu
+522347	Resu
+522439	PrAd
+522510	Resu
+523110	Resu
+523141	Resu
+523240	PrAd
+523549	Resu
+523801	PrAd
+524301	PrAd
+524317	Resu
+524599	Resu
+524731	Resu
+525244	PrAd
+525306	PrAd
+525608	Resu
+525902	PrAd
+525918	Resu
+526284	Resu
+526289	Resu
+527038	PrAd
+527153	Resu
+527159	PrAd
+527208	PrAd
+527297	Resu
+527336	Resu
+527596	Resu
+527758	PrAd
+528459	Resu
+528655	PrAd
+529402	Resu
+529428	Resu
+529506	Resu
+529816	Resu
+529820	Resu
+529829	Resu
+530024	PrAd
+530230	Resu
+530584	Resu
+531310	Resu
+532190	Resu
+532362	Resu
+532575	Resu
+532789	Resu
+533325	Resu
+533664	PrAd
+535389	PrAd
+536553	Resu
+537354	PrAd
+538075	PrAd
+539518	PrAd
+540510	PrAd
+540908	PrAd
+541018	PrAd
+542469	PrAd
+542671	PrAd
+542831	PrAd
+543769	Resu
+543882	Resu
+543962	Resu
+544277	Resu
+544965	Resu
+546084	PrAd
+546328	PrAd
+546541	Resu
+546556	Resu
+546700	Resu
+547208	PrAd
+547245	PrAd
+547274	PrAd
+547309	Resu
+547327	PrAd
+547374	Resu
+547406	PrAd
+547419	Resu
+547529	Resu
+547787	PrAd
+547924	PrAd
+548325	PrAd
+548332	PrAd
+548499	Resu
+548754	Resu
+548792	PrAd
+549608	PrAd
+550307	PrAd
+550334	PrAd
+550411	Resu
+550427	PrAd
+550466	PrAd
+550483	Resu
+550537	PrAd
+550606	PrAd
+551040	Resu
+551273	PrAd
+551771	Resu
+551978	Resu
+552187	PrAd
+553135	PrAd
+553171	PrAd
+553175	PrAd
+553627	PrAd
+553766	PrAd
+554190	Resu
+554469	PrAd
+556481	Resu
+556837	PrAd
+556879	PrAd
+557916	PrAd
+557919	PrAd
+559235	Resu
+560608	Resu
+560908	Resu
+561665	Resu
+561882	PrAd
+561914	PrAd
+561964	PrAd
+562398	Resu
+562525	PrAd
+563049	Resu
+564723	PrAd
+564863	PrAd
+565286	Resu
+565793	PrAd
+565798	PrAd
+565804	PrAd
+565810	PrAd
+565854	PrAd
+566056	PrAd
+566076	PrAd
+566163	Resu
+566386	PrAd
+566753	PrAd
+566780	Resu
+567055	PrAd
+567073	PrAd
+568288	Resu
+569471	PrAd
+571957	Resu
+572048	Resu
+572213	Resu
+573579	PrAd
+573584	PrAd
+573647	PrAd
+575501	PrAd
+576836	PrAd
+577110	PrAd
+577784	Resu
+577964	PrAd
+578505	Resu
+578817	PrAd
+578970	Resu
+578976	Resu
+579912	Resu
+580063	PrAd
+580109	Resu
+580304	Resu
+580417	Resu
+580428	Resu
+580447	Resu
+580880	PrAd
+582270	PrAd
+582378	PrAd
+582667	PrAd
+583438	Resu
+583623	Resu
+584099	Resu
+584419	Resu
+584746	PrAd
+587010	PrAd
+587582	PrAd
+587952	PrAd
+588227	Resu
+588591	PrAd
+588599	Resu
+588665	Resu
+588776	Resu
+588778	PrAd
+589749	Resu
+590263	Resu
+592948	Resu
+593948	PrAd
+594985	PrAd
+595004	PrAd
+596356	PrAd
+597905	PrAd
+598491	Resu
+599886	Resu
+600950	PrAd
+601289	Resu
+603334	PrAd
+605767	Resu
+605854	Resu
+606506	Resu
+607783	PrAd
+609318	PrAd
+612206	Resu
+612939	Resu
+613609	PrAd
+613617	PrAd
+613944	PrAd
+614953	PrAd
+615379	PrAd
+615516	PrAd
+616377	PrAd
+616477	Resu
+616482	PrAd
+616688	PrAd
+617039	Resu
+617772	Resu
+618096	PrAd
+620008	Resu
+620874	Resu
+623423	Resu
+623784	Resu
+624671	PrAd
+625612	PrAd
+626611	PrAd
+626636	PrAd
+626641	PrAd
+627075	PrAd
+631291	PrAd
+632632	PrAd
+632635	PrAd
+633281	PrAd
+634526	Resu
+635831	PrAd
+636770	Resu
+637595	Resu
+637615	PrAd
+637659	PrAd
+637879	Resu
+638231	Resu
+638900	PrAd
+638991	Resu
+640383	Resu
+640449	Resu
+641001	PrAd
+641383	Resu
+641657	Resu
+642288	Resu
+643293	PrAd
+643385	Resu
+644715	Resu
+644721	Resu
+645783	Resu
+645793	PrAd
+647309	PrAd
+647824	PrAd
+648911	Resu
+650047	PrAd
+650344	Resu
+651018	Resu
+652183	PrAd
+652196	PrAd
+652259	Resu
+652432	PrAd
+652881	Resu
+653065	PrAd
+653069	PrAd
+653333	Resu
+653427	PrAd
+653740	PrAd
+653947	PrAd
+655129	Resu
+655228	Resu
+655352	Resu
+655631	Resu
+656797	Resu
+657442	PrAd
+659174	Resu
+660429	PrAd
+661023	Resu
+661081	Resu
+663359	Resu
+664040	Resu
+664448	Resu
+664475	PrAd
+664497	PrAd
+664514	PrAd
+664530	PrAd
+664565	PrAd
+664610	PrAd
+665392	PrAd
+665724	Resu
+666730	Resu
+667121	Resu
+667650	Resu
+667770	PrAd
+668951	PrAd
+668954	PrAd
+669042	Resu
+670738	Resu
+670861	Resu
+671174	Resu
+671252	Resu
+671423	Resu
+671427	PrAd
+671431	PrAd
+671503	PrAd
+671523	PrAd
+671818	Resu
+671892	PrAd
+672456	Resu
+672902	Resu
+673522	Resu
+673907	Resu
+674583	Resu
+675343	Resu
+675394	PrAd
+675617	Resu
+677352	Resu
+678302	PrAd
+678382	PrAd
+678735	PrAd
+680672	PrAd
+681034	PrAd
+681070	PrAd
+681106	PrAd
+681649	PrAd
+681669	PrAd
+682258	Resu
+682709	Resu
+682731	PrAd
+684459	PrAd
+684684	Resu
+684712	Resu
+684733	Resu
+685051	Resu
+685109	PrAd
+685172	PrAd
+Resu
+685522	PrAd
+686213	Resu
+686330	Resu
+686481	Resu
+686542	PrAd
+686567	Resu
+686840	PrAd
+687241	Resu
+687604	PrAd
+689858	Resu
+690078	PrAd
+690223	Resu
+690455	Resu
+690548	PrAd
+690557	Resu
+690881	PrAd
+691445	Resu
+692155	Resu
+692179	Resu
+692493	Resu
+692769	PrAd
+694043	Resu
+694344	PrAd
+696039	Resu
+697315	Resu
+697357	Resu
+697383	Resu
+698600	Resu
+700173	PrAd
+701166	PrAd
+701660	PrAd
+703235	PrAd
+703794	PrAd
+704086	PrAd
+704408	PrAd
+704445	PrAd
+704793	PrAd
+704923	PrAd
+704967	Resu
+705207	Resu
+705802	PrAd
+707084	PrAd
+709605	Resu
+709969	Resu
+710144	Resu
+710208	Resu
+710211	Resu
+710441	PrAd
+710543	Resu
+710605	Resu
+710898	Resu
+710903	Resu
+710908	Resu
+711399	Resu
+711457	Resu
+711460	Resu
+711783	Resu
+711785	Resu
+711871	Resu
+711949	Resu
+712008	Resu
+712073	Resu
+712134	PrAd
+712325	PrAd
+713059	PrAd
+714620	PrAd
+715138	PrAd
+715918	Resu
+716296	Resu
+716334	PrAd
+716337	PrAd
+716748	Resu
+717507	PrAd
+717511	PrAd
+717764	Resu
+718279	Resu
+718527	Resu
+718853	Resu
+720069	PrAd
+720511	Resu
+720572	Resu
+721008	PrAd
+721454	Resu
+721517	PrAd
+722183	Resu
+722453	Resu
+722606	PrAd
+722799	PrAd
+722841	PrAd
+723062	PrAd
+723145	PrAd
+723466	Resu
+724144	Resu
+724555	Resu
+724620	Resu
+724639	Resu
+724739	PrAd
+725484	PrAd
+725546	PrAd
+725548	PrAd
+726642	Resu
+726979	Resu
+727077	Resu
+727165	Resu
+727288	Resu
+727544	Resu
+727548	Resu
+727692	Resu
+727749	Resu
+727859	Resu
+728305	Resu
+728771	PrAd
+728828	Resu
+728863	Resu
+729079	Resu
+729175	Resu
+729199	Resu
+729214	Resu
+729270	Resu
+729298	Resu
+729461	Resu
+729496	Resu
+729563	Resu
+730049	Resu
+730053	Resu
+730195	Resu
+730228	PrAd
+730413	Resu
+730421	Resu
+730463	Resu
+730527	Resu
+730591	Resu
+730648	Resu
+730725	Resu
+731079	Resu
+731090	Resu
+731299	Resu
+731305	Resu
+731340	Resu
+731351	Resu
+731664	Resu
+731961	PrAd
+733105	Resu
+733109	Resu
+733327	Resu
+734139	Resu
+734663	PrAd
+734803	Resu
+734809	Resu
+735192	PrAd
+735296	Resu
+736050	Resu
+736315	Resu
+736490	Resu
+736796	Resu
+737740	Resu
+737846	PrAd
+738468	Resu
+738585	Resu
+738994	Resu
+739220	PrAd
+739282	Resu
+739310	PrAd
+739331	PrAd
+739508	PrAd
+740350	Resu
+740772	Resu
+740868	Resu
+740997	Resu
+741001	Resu
+741024	Resu
+741052	Resu
+741061	Resu
+741187	Resu
+741381	Resu
+741430	Resu
+741598	Resu
+742034	Resu
+742373	Resu
+742409	PrAd
+742585	Resu
+742734	PrAd
+743407	Resu
+743521	Resu
+743566	Resu
+743620	Resu
+743714	Resu
+743908	Resu
+743916	Resu
+743971	Resu
+744528	PrAd
+744618	Resu
+745501	Resu
+745697	Resu
+746149	PrAd
+746383	Resu
+746412	Resu
+746501	Resu
+746613	Resu
+746742	Resu
+746944	Resu
+747312	PrAd
+747323	PrAd
+747499	PrAd
+749806	PrAd
+751302	PrAd
+751656	Resu
+752881	Resu
+753350	Resu
+753359	Resu
+753624	Resu
+753796	PrAd
+754241	Resu
+754568	Resu
+755745	Resu
+756713	PrAd
+756929	Resu
+757005	Resu
+757283	Resu
+758228	Resu
+758726	PrAd
+758733	Resu
+759275	Resu
+759839	Resu
+760488	PrAd
+760700	Resu
+760752	Resu
+761173	Resu
+761630	PrAd
+761857	Resu
+761859	Resu
+761986	Resu
+762330	Resu
+762475	Resu
+762613	Resu
+762646	Resu
+763673	Resu
+763937	Resu
+764759	Resu
+765035	Resu
+765046	PrAd
+765425	Resu
+766108	Resu
+766148	Resu
+766168	PrAd
+766982	Resu
+767537	Resu
+767728	Resu
+767786	Resu
+767801	Resu
+768195	Resu
+768630	Resu
+768708	Resu
+768820	Resu
